@@ -94,6 +94,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Pet Products Goldmine: Selling on Etsy in 2025",
+      "slug": "the-pet-products-goldmine-selling-on-etsy-in-2025",
+      "category": "Pet Products & Business",
+      "chapter_count": 8,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-the-pet-products-goldmine-selling-on-etsy-in-2025/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T22:18:24.598183"
+    },
+    {
+      "type": "ebook",
       "title": "The 30-Day Puppy Transformation: From Chaos to Calm",
       "slug": "the-30-day-puppy-transformation-from-chaos-to-calm",
       "category": "Dog Training",
@@ -116,5 +127,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:14:02.491489"
+  "last_updated": "2026-03-09T22:18:24.598212"
 }
