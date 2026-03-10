@@ -154,6 +154,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Print-on-Demand Profits",
+      "slug": "print-on-demand-profits",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/10/ebook-print-on-demand-profits/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-10T10:44:52.761327"
+    },
+    {
+      "type": "ebook",
       "title": "Puppy Training Made Simple: The First 30 Days to a Calm, Well-Behaved Dog",
       "slug": "puppy-training-made-simple-the-first-30-days-to-a-calm-well-",
       "category": "Dog Training",
@@ -286,5 +297,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-10T10:39:17.326514"
+  "last_updated": "2026-03-10T10:44:52.761367"
 }
