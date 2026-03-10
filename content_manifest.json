@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, Burn Out Less",
+      "slug": "best-ai-tools-for-solo-developers",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover the best AI tools for solo developers to code faster, debug smarter, design better, and ship products with less overhead.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/best-ai-tools-for-solo-developers/index.html",
+      "published_at": "2026-03-09T22:11:37.027348",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-ai-tools-for-solo-developers_20260309.png"
+    },
+    {
+      "type": "blog_post",
       "title": "25 Thoughtful Gift Ideas for New Puppy Owners They'll Actually Use",
       "slug": "gift-ideas-for-new-puppy-owners",
       "niche": "Pet Products & SnoutAndAbout",
@@ -86,5 +96,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:10:26.451706"
+  "last_updated": "2026-03-09T22:11:37.027379"
 }
