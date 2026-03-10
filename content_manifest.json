@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Positive Reinforcement vs Punishment in Dog Training: What Actually Works?",
+      "slug": "positive-reinforcement-vs-punishment-what-actually-works",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Positive reinforcement vs punishment in dog training: learn what works, what science says, and how to build better behavior without fear.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/positive-reinforcement-vs-punishment-what-actually-works/index.html",
+      "published_at": "2026-03-09T22:03:01.853555",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260309.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Separation Anxiety in Dogs: Signs, Causes, and Proven Solutions That Help",
       "slug": "separation-anxiety-in-dogs-signs-causes-and-solutions",
       "niche": "Dog Training & Behavior",
@@ -36,5 +46,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T21:57:02.130564"
+  "last_updated": "2026-03-09T22:03:01.853585"
 }
