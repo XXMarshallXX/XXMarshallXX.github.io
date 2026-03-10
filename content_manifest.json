@@ -94,6 +94,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Zero to Income: The Digital Entrepreneur's Playbook",
+      "slug": "zero-to-income-the-digital-entrepreneurs-playbook",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-zero-to-income-the-digital-entrepreneurs-playbook/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T22:22:24.570291"
+    },
+    {
+      "type": "ebook",
       "title": "The Pet Products Goldmine: Selling on Etsy in 2025",
       "slug": "the-pet-products-goldmine-selling-on-etsy-in-2025",
       "category": "Pet Products & Business",
@@ -127,5 +138,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:18:24.598212"
+  "last_updated": "2026-03-09T22:22:24.570322"
 }
