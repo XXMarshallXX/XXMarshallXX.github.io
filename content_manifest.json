@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Crate Training a New Puppy: The Complete Guide for Calm Nights, Faster Potty Training, and a Confident Dog",
+      "slug": "crate-training-a-new-puppy-the-complete-guide",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to crate train a new puppy with a gentle, science-backed plan for potty training, better sleep, and lifelong confidence.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/crate-training-a-new-puppy-the-complete-guide/index.html",
+      "published_at": "2026-03-09T22:12:48.370882",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260309.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, Burn Out Less",
       "slug": "best-ai-tools-for-solo-developers",
       "niche": "Tech / AI / Developer",
@@ -96,5 +106,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:11:37.027379"
+  "last_updated": "2026-03-09T22:12:48.370913"
 }
