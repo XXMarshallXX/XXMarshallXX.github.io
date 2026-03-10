@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Personalized Cat Products That Actually Sell: Best Custom Gifts Cat Lovers Can\u2019t Resist",
+      "slug": "personalized-cat-products-that-actually-sell",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover personalized cat products that actually sell, from custom mugs to memorial gifts cat lovers adore.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/personalized-cat-products-that-actually-sell/index.html",
+      "published_at": "2026-03-09T22:08:15.387264",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260309.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Positive Reinforcement vs Punishment in Dog Training: What Actually Works?",
       "slug": "positive-reinforcement-vs-punishment-what-actually-works",
       "niche": "Dog Training & Behavior",
@@ -66,5 +76,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:06:38.303923"
+  "last_updated": "2026-03-09T22:08:15.387295"
 }
