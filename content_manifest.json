@@ -94,6 +94,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Separation Anxiety: The Complete Solution Guide",
+      "slug": "separation-anxiety-the-complete-solution-guide",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-separation-anxiety-the-complete-solution-guide/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T22:34:45.529628"
+    },
+    {
+      "type": "ebook",
       "title": "The OpenClaw Method: Building Autonomous AI Systems",
       "slug": "the-openclaw-method-building-autonomous-ai-systems",
       "category": "AI & Automation",
@@ -102,17 +113,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-09T22:30:56.414433"
-    },
-    {
-      "type": "ebook",
-      "title": "Separation Anxiety: The Complete Solution Guide",
-      "slug": "separation-anxiety-the-complete-solution-guide",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-separation-anxiety-the-complete-solution-guide/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-09T22:26:20.412613"
     },
     {
       "type": "ebook",
@@ -160,5 +160,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:30:56.414463"
+  "last_updated": "2026-03-09T22:34:45.529655"
 }
