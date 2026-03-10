@@ -94,6 +94,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Separation Anxiety: The Complete Solution Guide",
+      "slug": "separation-anxiety-the-complete-solution-guide",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-separation-anxiety-the-complete-solution-guide/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T22:26:20.412613"
+    },
+    {
+      "type": "ebook",
       "title": "Zero to Income: The Digital Entrepreneur's Playbook",
       "slug": "zero-to-income-the-digital-entrepreneurs-playbook",
       "category": "Entrepreneurship",
@@ -138,5 +149,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:22:24.570322"
+  "last_updated": "2026-03-09T22:26:20.412642"
 }
