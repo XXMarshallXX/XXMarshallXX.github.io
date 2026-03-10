@@ -1,5 +1,16 @@
 {
-  "posts": [],
+  "posts": [
+    {
+      "type": "blog_post",
+      "title": "Separation Anxiety in Dogs: Signs, Causes, and Proven Solutions That Help",
+      "slug": "separation-anxiety-in-dogs-signs-causes-and-solutions",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn the signs of separation anxiety in dogs, what causes it, and science-backed solutions to help your dog feel calm and secure.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/separation-anxiety-in-dogs-signs-causes-and-solutions/index.html",
+      "published_at": "2026-03-09T21:57:02.130535",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_separation-anxiety-in-dogs-signs-causes-and-solutions_20260309.png"
+    }
+  ],
   "ebooks": [
     {
       "type": "ebook",
@@ -25,5 +36,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T21:24:11.038554"
+  "last_updated": "2026-03-09T21:57:02.130564"
 }
