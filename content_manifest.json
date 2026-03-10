@@ -1,0 +1,18 @@
+{
+  "posts": [],
+  "ebooks": [
+    {
+      "type": "ebook",
+      "title": "Advanced Dog Training: Beyond the Basics",
+      "slug": "advanced-dog-training-beyond-the-basics",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-advanced-dog-training-beyond-the-basics/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T20:14:48.825967"
+    }
+  ],
+  "sites": [],
+  "last_updated": "2026-03-09T20:14:48.825985"
+}
