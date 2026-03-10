@@ -94,6 +94,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Build Your AI Money Machine: Automation for the Solo Entrepreneur",
+      "slug": "build-your-ai-money-machine-automation-for-the-solo-entrepre",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-build-your-ai-money-machine-automation-for-the-solo-entrepre/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T23:13:25.168748"
+    },
+    {
+      "type": "ebook",
       "title": "Separation Anxiety: The Complete Solution Guide",
       "slug": "separation-anxiety-the-complete-solution-guide",
       "category": "Dog Training",
@@ -160,5 +171,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T22:34:45.529655"
+  "last_updated": "2026-03-09T23:13:25.168792"
 }
