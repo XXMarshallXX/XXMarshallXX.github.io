@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Mar 2026 10:11:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 10:12:14 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Getting Started With LLM-Powered Automation: A Practical Guide for Developers</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/10/getting-started-with-llm-powered-automation/index.html</link>
+      <description>Learn how to build LLM-powered automation with practical workflows, tools, prompts, and safeguards for developers and indie hackers.</description>
+      <pubDate>2026-03-10</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/10/getting-started-with-llm-powered-automation/index.html</guid>
+    </item>
     <item>
       <title>Using LaunchAgents to Run Autonomous Python Scripts on Mac: A Builder’s Guide for Reliable Local Automation</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/10/using-launchagents-to-run-autonomous-python-scripts-on-mac/index.html</link>
