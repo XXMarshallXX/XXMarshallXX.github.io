@@ -94,6 +94,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Loose Leash, Happy Walks",
+      "slug": "loose-leash-happy-walks",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-loose-leash-happy-walks/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T23:31:24.449186"
+    },
+    {
+      "type": "ebook",
       "title": "Build Your AI Money Machine: Automation for the Solo Entrepreneur",
       "slug": "build-your-ai-money-machine-automation-for-the-solo-entrepre",
       "category": "AI & Automation",
@@ -171,5 +182,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T23:20:40.339769"
+  "last_updated": "2026-03-09T23:31:24.449216"
 }
