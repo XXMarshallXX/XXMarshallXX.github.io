@@ -3,6 +3,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The 30-Day Puppy Transformation: From Chaos to Calm",
+      "slug": "the-30-day-puppy-transformation-from-chaos-to-calm",
+      "category": "Dog Training",
+      "chapter_count": 8,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/ebook-the-30-day-puppy-transformation-from-chaos-to-calm/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-09T21:24:11.038513"
+    },
+    {
+      "type": "ebook",
       "title": "Advanced Dog Training: Beyond the Basics",
       "slug": "advanced-dog-training-beyond-the-basics",
       "category": "Dog Training",
@@ -14,5 +25,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-09T20:30:43.298137"
+  "last_updated": "2026-03-09T21:24:11.038554"
 }
