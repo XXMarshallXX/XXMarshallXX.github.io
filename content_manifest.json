@@ -204,6 +204,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Zero-Budget Marketing for Entrepreneurs",
+      "slug": "zero-budget-marketing-for-entrepreneurs",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/ebook-zero-budget-marketing-for-entrepreneurs/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-11T10:39:19.729024"
+    },
+    {
+      "type": "ebook",
       "title": "ChatGPT for Business: The 30-Day Playbook to Cut Costs, Save Time, and Scale Smarter",
       "slug": "chatgpt-for-business-the-30-day-playbook-to-cut-costs-save-t",
       "category": "AI & Automation",
@@ -380,5 +391,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:32:55.402393"
+  "last_updated": "2026-03-11T10:39:19.729057"
 }
