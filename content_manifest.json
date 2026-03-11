@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Stop Your Dog From Pulling on the Leash: Science-Backed Training That Really Works",
+      "slug": "how-to-stop-your-dog-from-pulling-on-the-leash",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to stop your dog from pulling on the leash with positive, science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
+      "published_at": "2026-03-11T10:06:05.235860",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260311.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
       "slug": "15-minute-daily-training-routine-that-transforms-any-dog",
       "niche": "Dog Training & Behavior",
@@ -19,16 +29,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-choose-the-right-dog-collar-for-your-breed/index.html",
       "published_at": "2026-03-11T10:02:58.789248",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-choose-the-right-dog-collar-for-your-breed_20260311.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Stop Your Dog From Pulling on the Leash: A Science-Backed Guide That Actually Works",
-      "slug": "how-to-stop-your-dog-from-pulling-on-the-leash",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn how to stop your dog from pulling on the leash with simple, science-backed training steps for puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
-      "published_at": "2026-03-11T10:01:25.057487",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260311.png"
     },
     {
       "type": "blog_post",
@@ -317,5 +317,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:04:44.473730"
+  "last_updated": "2026-03-11T10:06:05.235901"
 }
