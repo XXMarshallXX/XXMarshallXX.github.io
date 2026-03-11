@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "15 Thoughtful Gift Ideas for New Puppy Owners They\u2019ll Actually Use",
+      "slug": "gift-ideas-for-new-puppy-owners",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover thoughtful gift ideas for new puppy owners, from practical essentials to personalized keepsakes they\u2019ll love and use every day.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/gift-ideas-for-new-puppy-owners/index.html",
+      "published_at": "2026-03-11T10:12:47.808892",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_gift-ideas-for-new-puppy-owners_20260311.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Automate Your GitHub Workflow with AI: Practical Ideas for Faster Pull Requests, Issues, and Releases",
       "slug": "how-to-automate-your-github-workflow-with-ai",
       "niche": "Tech / AI / Developer",
@@ -149,16 +159,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/09/best-ai-tools-for-solo-developers/index.html",
       "published_at": "2026-03-09T22:11:37.027348",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-ai-tools-for-solo-developers_20260309.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "25 Thoughtful Gift Ideas for New Puppy Owners They'll Actually Use",
-      "slug": "gift-ideas-for-new-puppy-owners",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover thoughtful gift ideas for new puppy owners, from practical essentials to personalized keepsakes they'll love and use every day.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/gift-ideas-for-new-puppy-owners/index.html",
-      "published_at": "2026-03-09T22:10:26.451675",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_gift-ideas-for-new-puppy-owners_20260309.png"
     },
     {
       "type": "blog_post",
@@ -337,5 +337,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:11:39.699100"
+  "last_updated": "2026-03-11T10:12:47.808934"
 }
