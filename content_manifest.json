@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Automate Your GitHub Workflow with AI: Practical Ideas for Faster Pull Requests, Issues, and Releases",
+      "slug": "how-to-automate-your-github-workflow-with-ai",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, testing, and releases\u2014practical tips for developers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-automate-your-github-workflow-with-ai/index.html",
+      "published_at": "2026-03-11T10:11:39.699065",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260311.png"
+    },
+    {
+      "type": "blog_post",
       "title": "7 Side Hustles You Can Automate With AI to Build Income Faster",
       "slug": "7-side-hustles-you-can-automate-with-ai",
       "niche": "Money-Making & Entrepreneurship",
@@ -59,16 +69,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-choose-the-right-dog-collar-for-your-breed/index.html",
       "published_at": "2026-03-11T10:02:58.789248",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-choose-the-right-dog-collar-for-your-breed_20260311.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Automate Your GitHub Workflow with AI: Smarter Pull Requests, Issues, Reviews, and Releases",
-      "slug": "how-to-automate-your-github-workflow-with-ai",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to automate your GitHub workflow with AI for issues, PRs, code review, docs, and releases. Practical tips for developers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/10/how-to-automate-your-github-workflow-with-ai/index.html",
-      "published_at": "2026-03-10T10:13:30.933552",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260310.png"
     },
     {
       "type": "blog_post",
@@ -337,5 +337,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:10:24.830210"
+  "last_updated": "2026-03-11T10:11:39.699100"
 }
