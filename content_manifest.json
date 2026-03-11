@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "7 Side Hustles You Can Automate With AI to Build Income Faster",
+      "slug": "7-side-hustles-you-can-automate-with-ai",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Discover 7 AI-powered side hustles you can automate to save time, scale faster, and build extra income with less manual work.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/7-side-hustles-you-can-automate-with-ai/index.html",
+      "published_at": "2026-03-11T10:10:24.830170",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_7-side-hustles-you-can-automate-with-ai_20260311.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Using LaunchAgents to Run Autonomous Python Scripts on Mac: A Builder\u2019s Guide for Reliable Local Automation",
       "slug": "using-launchagents-to-run-autonomous-python-scripts-on-mac",
       "niche": "OpenClaw / GitHub Builds",
@@ -327,5 +337,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:08:54.126341"
+  "last_updated": "2026-03-11T10:10:24.830210"
 }
