@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 10:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 10:08:54 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Using LaunchAgents to Run Autonomous Python Scripts on Mac: A Builder’s Guide for Reliable Local Automation</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/11/using-launchagents-to-run-autonomous-python-scripts-on-mac/index.html</link>
+      <description>Learn how to use LaunchAgents to run autonomous Python scripts on Mac reliably, with real-world setup tips for developers and makers.</description>
+      <pubDate>2026-03-11</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/11/using-launchagents-to-run-autonomous-python-scripts-on-mac/index.html</guid>
+    </item>
     <item>
       <title>How to Start an Etsy Shop With Zero Upfront Cost: A Practical Guide for Beginners</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/11/start-an-etsy-shop-with-zero-upfront-cost/index.html</link>
@@ -48,13 +55,6 @@
       <description>Learn how to build LLM-powered automation with practical workflows, tools, prompts, and safeguards for developers and indie hackers.</description>
       <pubDate>2026-03-10</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/10/getting-started-with-llm-powered-automation/index.html</guid>
-    </item>
-    <item>
-      <title>Using LaunchAgents to Run Autonomous Python Scripts on Mac: A Builder’s Guide for Reliable Local Automation</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/10/using-launchagents-to-run-autonomous-python-scripts-on-mac/index.html</link>
-      <description>Learn how to use LaunchAgents to run autonomous Python scripts on Mac reliably, with practical setup tips for developers and AI builders.</description>
-      <pubDate>2026-03-10</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/10/using-launchagents-to-run-autonomous-python-scripts-on-mac/index.html</guid>
     </item>
     <item>
       <title>Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Finds Dog Lovers Will Adore</title>
