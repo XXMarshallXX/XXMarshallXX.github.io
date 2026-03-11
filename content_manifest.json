@@ -204,6 +204,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Loose Leash in 14 Days",
+      "slug": "loose-leash-in-14-days",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/ebook-loose-leash-in-14-days/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-11T10:21:02.528435"
+    },
+    {
+      "type": "ebook",
       "title": "Print-on-Demand Profits",
       "slug": "print-on-demand-profits",
       "category": "Entrepreneurship",
@@ -347,5 +358,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:14:48.977242"
+  "last_updated": "2026-03-11T10:21:02.528475"
 }
