@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 10:10:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 10:11:39 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to Automate Your GitHub Workflow with AI: Practical Ideas for Faster Pull Requests, Issues, and Releases</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/11/how-to-automate-your-github-workflow-with-ai/index.html</link>
+      <description>Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, testing, and releases—practical tips for developers.</description>
+      <pubDate>2026-03-11</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/11/how-to-automate-your-github-workflow-with-ai/index.html</guid>
+    </item>
     <item>
       <title>7 Side Hustles You Can Automate With AI to Build Income Faster</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/11/7-side-hustles-you-can-automate-with-ai/index.html</link>
@@ -48,13 +55,6 @@
       <description>Learn how to choose the right dog collar for your breed with fit, safety, material, and style tips for puppies, small dogs, and large breeds.</description>
       <pubDate>2026-03-11</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/11/how-to-choose-the-right-dog-collar-for-your-breed/index.html</guid>
-    </item>
-    <item>
-      <title>How to Automate Your GitHub Workflow with AI: Smarter Pull Requests, Issues, Reviews, and Releases</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/10/how-to-automate-your-github-workflow-with-ai/index.html</link>
-      <description>Learn how to automate your GitHub workflow with AI for issues, PRs, code review, docs, and releases. Practical tips for developers.</description>
-      <pubDate>2026-03-10</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/10/how-to-automate-your-github-workflow-with-ai/index.html</guid>
     </item>
     <item>
       <title>Getting Started With LLM-Powered Automation: A Practical Guide for Developers</title>
