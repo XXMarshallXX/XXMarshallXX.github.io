@@ -204,6 +204,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Senior Dog Care Blueprint",
+      "slug": "the-senior-dog-care-blueprint",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/ebook-the-senior-dog-care-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-11T10:45:54.744293"
+    },
+    {
+      "type": "ebook",
       "title": "Zero-Budget Marketing for Entrepreneurs",
       "slug": "zero-budget-marketing-for-entrepreneurs",
       "category": "Entrepreneurship",
@@ -391,5 +402,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-11T10:39:19.729057"
+  "last_updated": "2026-03-11T10:45:54.744334"
 }
