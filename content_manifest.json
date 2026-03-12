@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How OpenClaw Automates My Entire Dev Workflow: A Builder\u2019s Behind-the-Scenes System",
+      "slug": "how-openclaw-automates-my-entire-dev-workflow",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "See how OpenClaw automates coding, testing, builds, docs, and GitHub workflows to streamline modern developer productivity.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/how-openclaw-automates-my-entire-dev-workflow/index.html",
+      "published_at": "2026-03-12T10:04:48.017868",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-openclaw-automates-my-entire-dev-workflow_20260312.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
       "slug": "why-custom-pet-portraits-make-perfect-gifts",
       "niche": "Pet Products & SnoutAndAbout",
@@ -412,5 +422,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:03:10.183870"
+  "last_updated": "2026-03-12T10:04:48.017911"
 }
