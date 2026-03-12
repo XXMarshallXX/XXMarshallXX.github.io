@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Mar 2026 10:04:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:06:12 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Positive Reinforcement vs Punishment: What Actually Works for Dog Training?</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/12/positive-reinforcement-vs-punishment-what-actually-works/index.html</link>
+      <description>Positive reinforcement vs punishment: learn what actually works in dog training and how to build better behavior with science-backed methods.</description>
+      <pubDate>2026-03-12</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/12/positive-reinforcement-vs-punishment-what-actually-works/index.html</guid>
+    </item>
     <item>
       <title>How OpenClaw Automates My Entire Dev Workflow: A Builder’s Behind-the-Scenes System</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/12/how-openclaw-automates-my-entire-dev-workflow/index.html</link>
@@ -118,13 +125,6 @@
       <description>Discover why print-on-demand is still a goldmine in 2025 and how entrepreneurs can build low-cost, automated online income.</description>
       <pubDate>2026-03-10</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/10/why-print-on-demand-is-still-a-goldmine-in-2025/index.html</guid>
-    </item>
-    <item>
-      <title>Positive Reinforcement vs Punishment in Dog Training: What Actually Works?</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/10/positive-reinforcement-vs-punishment-what-actually-works/index.html</link>
-      <description>Positive reinforcement vs punishment in dog training: learn what actually works, why, and how to build better behavior without fear.</description>
-      <pubDate>2026-03-10</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/10/positive-reinforcement-vs-punishment-what-actually-works/index.html</guid>
     </item>
     <item>
       <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project</title>
