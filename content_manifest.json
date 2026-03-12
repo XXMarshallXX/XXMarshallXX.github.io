@@ -264,6 +264,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Stop Dog Behavior Problems Fast",
+      "slug": "stop-dog-behavior-problems-fast",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/ebook-stop-dog-behavior-problems-fast/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-12T10:34:23.929116"
+    },
+    {
+      "type": "ebook",
       "title": "Digital Products That Sell",
       "slug": "digital-products-that-sell",
       "category": "Entrepreneurship",
@@ -484,5 +495,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:27:52.020691"
+  "last_updated": "2026-03-12T10:34:23.929149"
 }
