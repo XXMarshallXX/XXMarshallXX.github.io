@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use AI to Run a One-Person Business Empire in 2026",
+      "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to use AI to build, automate, and scale a one-person business empire with smart systems, tools, and profitable workflows.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
+      "published_at": "2026-03-12T10:10:36.753950",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260312.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions",
       "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
       "niche": "Dog Training & Behavior",
@@ -432,5 +442,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:08:46.023195"
+  "last_updated": "2026-03-12T10:10:36.753986"
 }
