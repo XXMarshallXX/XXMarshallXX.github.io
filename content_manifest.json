@@ -264,6 +264,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "AI-Powered E-Commerce: How to Automate Sales, Personalize Shopping, and Scale Profits Faster",
+      "slug": "ai-powered-e-commerce-how-to-automate-sales-personalize-shop",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/ebook-ai-powered-e-commerce-how-to-automate-sales-personalize-shop/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-12T10:48:16.488811"
+    },
+    {
+      "type": "ebook",
       "title": "Advanced Obedience Mastery for Dogs",
       "slug": "advanced-obedience-mastery-for-dogs",
       "category": "Dog Training",
@@ -506,5 +517,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:41:56.108300"
+  "last_updated": "2026-03-12T10:48:16.488849"
 }
