@@ -264,6 +264,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Pet Accessories Business Blueprint",
+      "slug": "the-pet-accessories-business-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/ebook-the-pet-accessories-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-12T10:21:32.169329"
+    },
+    {
+      "type": "ebook",
       "title": "The Senior Dog Care Blueprint",
       "slug": "the-senior-dog-care-blueprint",
       "category": "Dog Training",
@@ -462,5 +473,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:14:58.630847"
+  "last_updated": "2026-03-12T10:21:32.169369"
 }
