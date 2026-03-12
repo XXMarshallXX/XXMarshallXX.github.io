@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "5 Commands Every Dog Should Know by 6 Months: A Science-Backed Training Guide for Puppies and Rescue Dogs",
+      "slug": "5-commands-every-dog-should-know-by-6-months",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Teach your puppy or rescue dog 5 essential commands by 6 months with positive, science-backed training tips for real-life success.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/5-commands-every-dog-should-know-by-6-months/index.html",
+      "published_at": "2026-03-12T10:12:01.017993",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_5-commands-every-dog-should-know-by-6-months_20260312.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use AI to Run a One-Person Business Empire in 2026",
       "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
       "niche": "Money-Making & Entrepreneurship",
@@ -442,5 +452,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:10:36.753986"
+  "last_updated": "2026-03-12T10:12:01.018031"
 }
