@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
+      "slug": "why-custom-pet-portraits-make-perfect-gifts",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover why custom pet portraits are meaningful, personal gifts pet lovers cherish for years. Perfect for birthdays, holidays, and memorials.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/why-custom-pet-portraits-make-perfect-gifts/index.html",
+      "published_at": "2026-03-12T10:03:10.183834",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-custom-pet-portraits-make-perfect-gifts_20260312.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Best AI Tools for Solo Developers in 2026: The Practical Stack for Building Faster",
       "slug": "best-ai-tools-for-solo-developers",
       "niche": "Tech / AI / Developer",
@@ -402,5 +412,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:01:37.549601"
+  "last_updated": "2026-03-12T10:03:10.183870"
 }
