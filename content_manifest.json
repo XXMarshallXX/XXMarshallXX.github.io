@@ -314,6 +314,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The AI Entrepreneur\u2019s Toolkit",
+      "slug": "the-ai-entrepreneur\u2019s-toolkit",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/ebook-the-ai-entrepreneur\u2019s-toolkit/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-13T10:29:56.377121"
+    },
+    {
+      "type": "ebook",
       "title": "Pet Product Niche Research Blueprint",
       "slug": "pet-product-niche-research-blueprint",
       "category": "Pet Products & Business",
@@ -578,5 +589,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:24:24.903856"
+  "last_updated": "2026-03-13T10:29:56.377159"
 }
