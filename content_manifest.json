@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top VSCode Extensions for AI-Assisted Coding in 2026",
+      "slug": "top-vscode-extensions-for-ai-assisted-coding",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover the top VSCode extensions for AI-assisted coding in 2026 to boost productivity, debugging, refactoring, and code quality.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/top-vscode-extensions-for-ai-assisted-coding/index.html",
+      "published_at": "2026-03-13T10:07:08.507259",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260313.png"
+    },
+    {
+      "type": "blog_post",
       "title": "5 Commands Every Dog Should Know by 6 Months",
       "slug": "5-commands-every-dog-should-know-by-6-months",
       "niche": "Dog Training & Behavior",
@@ -527,5 +537,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:06:00.885495"
+  "last_updated": "2026-03-13T10:07:08.507305"
 }
