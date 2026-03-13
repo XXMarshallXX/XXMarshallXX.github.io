@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Positive Reinforcement vs Punishment in Dog Training: What Actually Works?",
+      "slug": "positive-reinforcement-vs-punishment-what-actually-works",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Positive reinforcement vs punishment in dog training: learn what science says works best for puppies, rescues, and everyday behavior.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/positive-reinforcement-vs-punishment-what-actually-works/index.html",
+      "published_at": "2026-03-13T10:10:44.440912",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260313.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
       "slug": "15-minute-daily-dog-training-routine",
       "niche": "Dog Training & Behavior",
@@ -109,16 +119,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/12/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
       "published_at": "2026-03-12T10:08:46.023147",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260312.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Positive Reinforcement vs Punishment: What Actually Works for Dog Training?",
-      "slug": "positive-reinforcement-vs-punishment-what-actually-works",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Positive reinforcement vs punishment: learn what actually works in dog training and how to build better behavior with science-backed methods.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/positive-reinforcement-vs-punishment-what-actually-works/index.html",
-      "published_at": "2026-03-12T10:06:12.595038",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260312.png"
     },
     {
       "type": "blog_post",
@@ -557,5 +557,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:09:32.282608"
+  "last_updated": "2026-03-13T10:10:44.440957"
 }
