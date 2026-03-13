@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
+      "slug": "how-to-use-claude-api-to-build-smarter-apps",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to use Claude API to build smarter apps with practical patterns, code examples, prompts, and production tips for developers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-use-claude-api-to-build-smarter-apps/index.html",
+      "published_at": "2026-03-13T10:01:55.671625",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260313.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
       "slug": "0-to-1000-month-etsy-blueprint",
       "niche": "Money-Making & Entrepreneurship",
@@ -239,16 +249,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/09/personalized-cat-products-that-actually-sell/index.html",
       "published_at": "2026-03-09T22:08:15.387264",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260309.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
-      "slug": "how-to-use-claude-api-to-build-smarter-apps",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to use Claude API to build smarter apps with practical examples, architecture tips, prompts, and production best practices.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/how-to-use-claude-api-to-build-smarter-apps/index.html",
-      "published_at": "2026-03-09T22:05:36.766392",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260309.png"
     },
     {
       "type": "blog_post",
@@ -517,5 +517,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-12T10:48:16.488849"
+  "last_updated": "2026-03-13T10:01:55.671663"
 }
