@@ -314,6 +314,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Pet Product Niche Research Blueprint",
+      "slug": "pet-product-niche-research-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/ebook-pet-product-niche-research-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-13T10:24:24.903805"
+    },
+    {
+      "type": "ebook",
       "title": "Puppy Training Made Simple: 30 Days to a Calm, Potty-Trained, Well-Behaved Dog",
       "slug": "puppy-training-made-simple-30-days-to-a-calm-potty-trained-w",
       "category": "Dog Training",
@@ -457,17 +468,6 @@
     },
     {
       "type": "ebook",
-      "title": "Pet Product Niche Research Blueprint",
-      "slug": "pet-product-niche-research-blueprint",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/10/ebook-pet-product-niche-research-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-10T10:33:15.716007"
-    },
-    {
-      "type": "ebook",
       "title": "Crate Training Made Easy",
       "slug": "crate-training-made-easy",
       "category": "Dog Training",
@@ -578,5 +578,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:18:22.844978"
+  "last_updated": "2026-03-13T10:24:24.903856"
 }
