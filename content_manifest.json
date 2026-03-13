@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Choose the Right Dog Collar for Your Breed: A Practical Guide for Every Pup",
+      "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Learn how to choose the right dog collar for your breed with tips on fit, materials, safety, style, and comfort for every pup.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-choose-the-right-dog-collar-for-your-breed/index.html",
+      "published_at": "2026-03-13T10:04:18.970552",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-choose-the-right-dog-collar-for-your-breed_20260313.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Starting Fast",
       "slug": "how-i-built-a-digital-business-in-30-days",
       "niche": "Money-Making & Entrepreneurship",
@@ -189,16 +199,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/11/15-minute-daily-training-routine-that-transforms-any-dog/index.html",
       "published_at": "2026-03-11T10:04:44.473689",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-training-routine-that-transforms-any-dog_20260311.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Choose the Right Dog Collar for Your Breed: A Practical Guide for Every Pup",
-      "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Learn how to choose the right dog collar for your breed with fit, safety, material, and style tips for puppies, small dogs, and large breeds.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-choose-the-right-dog-collar-for-your-breed/index.html",
-      "published_at": "2026-03-11T10:02:58.789248",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-choose-the-right-dog-collar-for-your-breed_20260311.png"
     },
     {
       "type": "blog_post",
@@ -527,5 +527,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:03:06.898727"
+  "last_updated": "2026-03-13T10:04:18.970592"
 }
