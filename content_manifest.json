@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Starting Fast",
+      "slug": "how-i-built-a-digital-business-in-30-days",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost system you can use to start earning online fast.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-i-built-a-digital-business-in-30-days/index.html",
+      "published_at": "2026-03-13T10:03:06.898687",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260313.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
       "slug": "how-to-use-claude-api-to-build-smarter-apps",
       "niche": "Tech / AI / Developer",
@@ -517,5 +527,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:01:55.671663"
+  "last_updated": "2026-03-13T10:03:06.898727"
 }
