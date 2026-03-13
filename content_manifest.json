@@ -314,6 +314,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Puppy Training Made Simple: 30 Days to a Calm, Potty-Trained, Well-Behaved Dog",
+      "slug": "puppy-training-made-simple-30-days-to-a-calm-potty-trained-w",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/ebook-puppy-training-made-simple-30-days-to-a-calm-potty-trained-w/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-13T10:18:22.844937"
+    },
+    {
+      "type": "ebook",
       "title": "AI-Powered E-Commerce: How to Automate Sales, Personalize Shopping, and Scale Profits Faster",
       "slug": "ai-powered-e-commerce-how-to-automate-sales-personalize-shop",
       "category": "AI & Automation",
@@ -567,5 +578,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:13:13.176192"
+  "last_updated": "2026-03-13T10:18:22.844978"
 }
