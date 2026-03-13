@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Build a Telegram Bot That Reviews Your GitHub PRs with AI",
+      "slug": "how-to-build-a-telegram-bot-that-reviews-your-github-prs",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "Learn how to build a Telegram bot that reviews GitHub PRs with AI, webhooks, and automation. A practical builder-to-builder guide.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-build-a-telegram-bot-that-reviews-your-github-prs/index.html",
+      "published_at": "2026-03-13T10:13:13.176155",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-build-a-telegram-bot-that-reviews-your-github-prs_20260313.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Picks Dog Lovers Will Adore",
       "slug": "best-personalized-dog-gifts-under-50",
       "niche": "Pet Products & SnoutAndAbout",
@@ -557,5 +567,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:11:59.827846"
+  "last_updated": "2026-03-13T10:13:13.176192"
 }
