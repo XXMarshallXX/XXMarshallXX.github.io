@@ -314,6 +314,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Loose Leash in 14 Days",
+      "slug": "loose-leash-in-14-days",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/ebook-loose-leash-in-14-days/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-13T10:35:02.282569"
+    },
+    {
+      "type": "ebook",
       "title": "The AI Entrepreneur\u2019s Toolkit",
       "slug": "the-ai-entrepreneur\u2019s-toolkit",
       "category": "AI & Automation",
@@ -443,17 +454,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-11T10:27:02.148455"
-    },
-    {
-      "type": "ebook",
-      "title": "Loose Leash in 14 Days",
-      "slug": "loose-leash-in-14-days",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/ebook-loose-leash-in-14-days/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-11T10:21:02.528435"
     },
     {
       "type": "ebook",
@@ -589,5 +589,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-13T10:29:56.377159"
+  "last_updated": "2026-03-13T10:35:02.282612"
 }
