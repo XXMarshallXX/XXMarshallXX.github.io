@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 10:01:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 10:02:54 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to Teach Your Dog to Come When Called Every Time: A Science-Backed Recall Training Guide</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/14/how-to-teach-your-dog-to-come-when-called-every-time/index.html</link>
+      <description>Teach reliable recall with science-backed dog training tips, step-by-step exercises, and common mistakes to avoid.</description>
+      <pubDate>2026-03-14</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/14/how-to-teach-your-dog-to-come-when-called-every-time/index.html</guid>
+    </item>
     <item>
       <title>Trending Pet Products on Etsy This Year: Must-Have Finds for Pet Owners and Gift Shoppers</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/14/trending-pet-products-on-etsy-this-year/index.html</link>
@@ -139,13 +146,6 @@
       <description>Discover thoughtful gift ideas for new puppy owners, from practical essentials to personalized keepsakes they’ll love and use every day.</description>
       <pubDate>2026-03-11</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/11/gift-ideas-for-new-puppy-owners/index.html</guid>
-    </item>
-    <item>
-      <title>How to Automate Your GitHub Workflow with AI: Practical Ideas for Faster Pull Requests, Issues, and Releases</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/11/how-to-automate-your-github-workflow-with-ai/index.html</link>
-      <description>Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, testing, and releases—practical tips for developers.</description>
-      <pubDate>2026-03-11</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/11/how-to-automate-your-github-workflow-with-ai/index.html</guid>
     </item>
   </channel>
 </rss>
