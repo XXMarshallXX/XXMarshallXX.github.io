@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Start an Etsy Shop With Zero Upfront Cost: A Practical Blueprint for Beginners",
+      "slug": "start-etsy-shop-zero-upfront-cost",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to start an Etsy shop with zero upfront cost using digital products, print-on-demand, and smart free tools.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/start-etsy-shop-zero-upfront-cost/index.html",
+      "published_at": "2026-03-14T10:08:39.333939",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_start-etsy-shop-zero-upfront-cost_20260314.png"
+    },
+    {
+      "type": "blog_post",
       "title": "7 Side Hustles You Can Automate With AI to Earn More in Less Time",
       "slug": "7-side-hustles-you-can-automate-with-ai",
       "niche": "Money-Making & Entrepreneurship",
@@ -630,5 +640,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-14T10:07:19.663847"
+  "last_updated": "2026-03-14T10:08:39.333979"
 }
