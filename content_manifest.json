@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Teach Your Dog to Come When Called Every Time: A Science-Backed Recall Training Guide",
+      "slug": "how-to-teach-your-dog-to-come-when-called-every-time",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Teach reliable recall with science-backed dog training tips, step-by-step exercises, and common mistakes to avoid.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/how-to-teach-your-dog-to-come-when-called-every-time/index.html",
+      "published_at": "2026-03-14T10:02:54.323953",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-teach-your-dog-to-come-when-called-every-time_20260314.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Trending Pet Products on Etsy This Year: Must-Have Finds for Pet Owners and Gift Shoppers",
       "slug": "trending-pet-products-on-etsy-this-year",
       "niche": "Pet Products & SnoutAndAbout",
@@ -610,5 +620,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-14T10:01:37.518573"
+  "last_updated": "2026-03-14T10:02:54.323997"
 }
