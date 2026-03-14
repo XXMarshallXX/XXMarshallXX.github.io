@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2026 10:05:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 10:07:19 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>7 Side Hustles You Can Automate With AI to Earn More in Less Time</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/14/7-side-hustles-you-can-automate-with-ai/index.html</link>
+      <description>Discover 7 AI-powered side hustles you can automate to save time, scale faster, and build extra income with less manual work.</description>
+      <pubDate>2026-03-14</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/14/7-side-hustles-you-can-automate-with-ai/index.html</guid>
+    </item>
     <item>
       <title>What Is OpenClaw and Why I Built It: An Open Source GitHub Build for Developers, Makers, and AI Tinkerers</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/14/what-is-openclaw-and-why-i-built-it/index.html</link>
@@ -139,13 +146,6 @@
       <description>Discover why custom pet portraits are meaningful, personal gifts pet lovers cherish for years. Perfect for birthdays, holidays, and memorials.</description>
       <pubDate>2026-03-12</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/12/why-custom-pet-portraits-make-perfect-gifts/index.html</guid>
-    </item>
-    <item>
-      <title>Best AI Tools for Solo Developers in 2026: The Practical Stack for Building Faster</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/12/best-ai-tools-for-solo-developers/index.html</link>
-      <description>Discover the best AI tools for solo developers to code, ship, market, and support products faster with a practical, cost-conscious stack.</description>
-      <pubDate>2026-03-12</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/12/best-ai-tools-for-solo-developers/index.html</guid>
     </item>
   </channel>
 </rss>
