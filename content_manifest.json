@@ -364,6 +364,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Python Automation for Beginners: Save 10 Hours a Week with Simple Scripts",
+      "slug": "python-automation-for-beginners-save-10-hours-a-week-with-si",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/ebook-python-automation-for-beginners-save-10-hours-a-week-with-si/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-14T10:25:37.393301"
+    },
+    {
+      "type": "ebook",
       "title": "Crate Training Made Easy",
       "slug": "crate-training-made-easy",
       "category": "Dog Training",
@@ -650,5 +661,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-14T10:19:51.936755"
+  "last_updated": "2026-03-14T10:25:37.393345"
 }
