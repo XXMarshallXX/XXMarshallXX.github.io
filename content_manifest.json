@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top 10 Accessories Every Dog Owner Needs for Happy, Safe Adventures",
+      "slug": "top-10-accessories-every-dog-owner-needs",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the top 10 dog accessories every owner needs for safety, comfort, travel, and everyday fun with your pup.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/top-10-accessories-every-dog-owner-needs/index.html",
+      "published_at": "2026-03-14T10:14:08.860803",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260314.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
       "slug": "15-minute-daily-training-routine-that-transforms-any-dog",
       "niche": "Dog Training & Behavior",
@@ -640,5 +650,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-14T10:12:43.976627"
+  "last_updated": "2026-03-14T10:14:08.860844"
 }
