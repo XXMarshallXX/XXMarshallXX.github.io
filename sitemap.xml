@@ -11,6 +11,12 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://XXMarshallXX.github.io/blog/2026/03/14/what-is-openclaw-and-why-i-built-it/index.html</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://XXMarshallXX.github.io/blog/2026/03/14/building-autonomous-agents-with-python-in-2025/index.html</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -187,12 +193,6 @@
   <url>
     <loc>https://XXMarshallXX.github.io/blog/2026/03/10/why-print-on-demand-is-still-a-goldmine-in-2025/index.html</loc>
     <lastmod>2026-03-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://XXMarshallXX.github.io/blog/2026/03/09/what-is-openclaw-and-why-i-built-it/index.html</loc>
-    <lastmod>2026-03-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
