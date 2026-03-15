@@ -374,6 +374,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Print-on-Demand Pet Business Blueprint",
+      "slug": "print-on-demand-pet-business-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/ebook-print-on-demand-pet-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-15T10:25:33.237653"
+    },
+    {
+      "type": "ebook",
       "title": "The Print-on-Demand Profit Playbook",
       "slug": "the-print-on-demand-profit-playbook",
       "category": "Entrepreneurship",
@@ -693,5 +704,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:20:08.617103"
+  "last_updated": "2026-03-15T10:25:33.237698"
 }
