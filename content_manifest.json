@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Spoil Your Dog Without Breaking the Bank: Budget-Friendly Ways to Show Big Love",
+      "slug": "how-to-spoil-your-dog-without-breaking-the-bank",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover affordable, creative ways to spoil your dog with toys, treats, routines, and personalized gifts\u2014without overspending.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/how-to-spoil-your-dog-without-breaking-the-bank/index.html",
+      "published_at": "2026-03-15T10:01:52.740290",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-spoil-your-dog-without-breaking-the-bank_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Top 10 Accessories Every Dog Owner Needs for Happy, Safe Adventures",
       "slug": "top-10-accessories-every-dog-owner-needs",
       "niche": "Pet Products & SnoutAndAbout",
@@ -672,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-14T10:43:35.027833"
+  "last_updated": "2026-03-15T10:01:52.740327"
 }
