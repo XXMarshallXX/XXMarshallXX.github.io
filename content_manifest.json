@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
+      "slug": "how-to-use-claude-api-to-build-smarter-apps",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to use Claude API to build smarter apps with practical patterns, prompts, architecture tips, and production best practices.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/how-to-use-claude-api-to-build-smarter-apps/index.html",
+      "published_at": "2026-03-15T10:08:07.604608",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Crate Training a New Puppy: The Complete Guide for Calm Nights, Faster House Training, and a Confident Dog",
       "slug": "crate-training-a-new-puppy-the-complete-guide",
       "niche": "Dog Training & Behavior",
@@ -199,16 +209,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-i-built-a-digital-business-in-30-days/index.html",
       "published_at": "2026-03-13T10:03:06.898687",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260313.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
-      "slug": "how-to-use-claude-api-to-build-smarter-apps",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to use Claude API to build smarter apps with practical patterns, code examples, prompts, and production tips for developers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-use-claude-api-to-build-smarter-apps/index.html",
-      "published_at": "2026-03-13T10:01:55.671625",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260313.png"
     },
     {
       "type": "blog_post",
@@ -682,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:07:04.129928"
+  "last_updated": "2026-03-15T10:08:07.604650"
 }
