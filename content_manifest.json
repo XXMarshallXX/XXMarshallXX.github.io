@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Crate Training a New Puppy: The Complete Guide for Calm Nights, Faster House Training, and a Confident Dog",
+      "slug": "crate-training-a-new-puppy-the-complete-guide",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to crate train a new puppy with step-by-step, science-backed tips for house training, sleep, separation, and confidence.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/crate-training-a-new-puppy-the-complete-guide/index.html",
+      "published_at": "2026-03-15T10:07:04.129886",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "7 Side Hustles You Can Automate With AI to Make More Money in Less Time",
       "slug": "7-side-hustles-you-can-automate-with-ai",
       "niche": "Money-Making & Entrepreneurship",
@@ -342,16 +352,6 @@
     },
     {
       "type": "blog_post",
-      "title": "Crate Training a New Puppy: The Complete Guide for Calm Nights, Faster Potty Training, and a Confident Dog",
-      "slug": "crate-training-a-new-puppy-the-complete-guide",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn how to crate train a new puppy with a gentle, science-backed plan for potty training, better sleep, and lifelong confidence.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/crate-training-a-new-puppy-the-complete-guide/index.html",
-      "published_at": "2026-03-09T22:12:48.370882",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260309.png"
-    },
-    {
-      "type": "blog_post",
       "title": "Personalized Cat Products That Actually Sell: Best Custom Gifts Cat Lovers Can\u2019t Resist",
       "slug": "personalized-cat-products-that-actually-sell",
       "niche": "Pet Products & SnoutAndAbout",
@@ -682,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:05:41.804923"
+  "last_updated": "2026-03-15T10:07:04.129928"
 }
