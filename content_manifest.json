@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "5 Commands Every Dog Should Know by 6 Months for Better Behavior and Safety",
+      "slug": "5-commands-every-dog-should-know-by-6-months",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Teach your puppy these 5 essential commands by 6 months to build safety, focus, and good manners with positive, science-backed training.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/5-commands-every-dog-should-know-by-6-months/index.html",
+      "published_at": "2026-03-15T10:04:21.077585",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_5-commands-every-dog-should-know-by-6-months_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Ideas Dog Lovers Will Adore",
       "slug": "best-personalized-dog-gifts-under-50",
       "niche": "Pet Products & SnoutAndAbout",
@@ -159,16 +169,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/13/top-vscode-extensions-for-ai-assisted-coding/index.html",
       "published_at": "2026-03-13T10:07:08.507259",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260313.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "5 Commands Every Dog Should Know by 6 Months",
-      "slug": "5-commands-every-dog-should-know-by-6-months",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Teach these 5 essential dog commands by 6 months to build safety, confidence, and better behavior with positive, science-backed training.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/5-commands-every-dog-should-know-by-6-months/index.html",
-      "published_at": "2026-03-13T10:06:00.885452",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_5-commands-every-dog-should-know-by-6-months_20260313.png"
     },
     {
       "type": "blog_post",
@@ -682,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:03:08.341570"
+  "last_updated": "2026-03-15T10:04:21.077628"
 }
