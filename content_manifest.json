@@ -374,6 +374,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Off-Leash Freedom",
+      "slug": "off-leash-freedom",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/ebook-off-leash-freedom/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-15T10:31:46.037255"
+    },
+    {
+      "type": "ebook",
       "title": "Print-on-Demand Pet Business Blueprint",
       "slug": "print-on-demand-pet-business-blueprint",
       "category": "Pet Products & Business",
@@ -704,5 +715,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:25:33.237698"
+  "last_updated": "2026-03-15T10:31:46.037303"
 }
