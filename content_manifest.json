@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project",
+      "slug": "what-is-openclaw-and-why-i-built-it",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "What OpenClaw is, why I built it, and how this open source AI hardware project came together from idea to GitHub build.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/what-is-openclaw-and-why-i-built-it/index.html",
+      "published_at": "2026-03-15T10:09:48.949959",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
       "slug": "how-to-use-claude-api-to-build-smarter-apps",
       "niche": "Tech / AI / Developer",
@@ -109,16 +119,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/14/start-etsy-shop-zero-upfront-cost/index.html",
       "published_at": "2026-03-14T10:08:39.333939",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_start-etsy-shop-zero-upfront-cost_20260314.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "What Is OpenClaw and Why I Built It: An Open Source GitHub Build for Developers, Makers, and AI Tinkerers",
-      "slug": "what-is-openclaw-and-why-i-built-it",
-      "niche": "OpenClaw / GitHub Builds",
-      "meta_description": "Discover what OpenClaw is, why I built it, and how this open source GitHub build helps developers, makers, and AI enthusiasts create faster.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/what-is-openclaw-and-why-i-built-it/index.html",
-      "published_at": "2026-03-14T10:05:47.258030",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260314.png"
     },
     {
       "type": "blog_post",
@@ -682,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:08:07.604650"
+  "last_updated": "2026-03-15T10:09:48.949997"
 }
