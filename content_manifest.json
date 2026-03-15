@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top VSCode Extensions for AI-Assisted Coding in 2026",
+      "slug": "top-vscode-extensions-for-ai-assisted-coding",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover the top VSCode extensions for AI-assisted coding in 2026. Boost speed, code quality, debugging, and developer workflow.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/top-vscode-extensions-for-ai-assisted-coding/index.html",
+      "published_at": "2026-03-15T10:11:06.017633",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project",
       "slug": "what-is-openclaw-and-why-i-built-it",
       "niche": "OpenClaw / GitHub Builds",
@@ -179,16 +189,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-make-passive-income-with-print-on-demand-in-2025/index.html",
       "published_at": "2026-03-13T10:08:11.428528",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-make-passive-income-with-print-on-demand-in-2025_20260313.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Top VSCode Extensions for AI-Assisted Coding in 2026",
-      "slug": "top-vscode-extensions-for-ai-assisted-coding",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Discover the top VSCode extensions for AI-assisted coding in 2026 to boost productivity, debugging, refactoring, and code quality.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/top-vscode-extensions-for-ai-assisted-coding/index.html",
-      "published_at": "2026-03-13T10:07:08.507259",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260313.png"
     },
     {
       "type": "blog_post",
@@ -682,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:09:48.949997"
+  "last_updated": "2026-03-15T10:11:06.017673"
 }
