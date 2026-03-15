@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Ideas Dog Lovers Will Adore",
+      "slug": "best-personalized-dog-gifts-under-50",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the best personalized dog gifts under $50\u2014thoughtful, affordable ideas for pet owners and dog lovers that feel truly special.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/best-personalized-dog-gifts-under-50/index.html",
+      "published_at": "2026-03-15T10:03:08.341530",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-personalized-dog-gifts-under-50_20260315.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Spoil Your Dog Without Breaking the Bank: Budget-Friendly Ways to Show Big Love",
       "slug": "how-to-spoil-your-dog-without-breaking-the-bank",
       "niche": "Pet Products & SnoutAndAbout",
@@ -109,16 +119,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-build-a-telegram-bot-that-reviews-your-github-prs/index.html",
       "published_at": "2026-03-13T10:13:13.176155",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-build-a-telegram-bot-that-reviews-your-github-prs_20260313.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Picks Dog Lovers Will Adore",
-      "slug": "best-personalized-dog-gifts-under-50",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the best personalized dog gifts under $50, from custom bandanas to keepsakes. Affordable, thoughtful gift ideas for dog lovers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/best-personalized-dog-gifts-under-50/index.html",
-      "published_at": "2026-03-13T10:11:59.827806",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-personalized-dog-gifts-under-50_20260313.png"
     },
     {
       "type": "blog_post",
@@ -682,5 +682,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:01:52.740327"
+  "last_updated": "2026-03-15T10:03:08.341570"
 }
