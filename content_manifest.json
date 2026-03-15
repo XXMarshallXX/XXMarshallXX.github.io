@@ -374,6 +374,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "AI-Powered E-Commerce Profits",
+      "slug": "ai-powered-e-commerce-profits",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/ebook-ai-powered-e-commerce-profits/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-15T10:37:11.947246"
+    },
+    {
+      "type": "ebook",
       "title": "Off-Leash Freedom",
       "slug": "off-leash-freedom",
       "category": "Dog Training",
@@ -715,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-15T10:31:46.037303"
+  "last_updated": "2026-03-15T10:37:11.947295"
 }
