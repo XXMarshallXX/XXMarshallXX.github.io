@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
+      "slug": "how-to-use-claude-api-to-build-smarter-apps",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to use Claude API to build smarter apps with practical examples, architecture tips, prompts, and best practices for developers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/how-to-use-claude-api-to-build-smarter-apps/index.html",
+      "published_at": "2026-03-16T10:05:41.619781",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
       "slug": "15-minute-daily-training-routine-that-transforms-any-dog",
       "niche": "Dog Training & Behavior",
@@ -59,16 +69,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/15/what-is-openclaw-and-why-i-built-it/index.html",
       "published_at": "2026-03-15T10:09:48.949959",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260315.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
-      "slug": "how-to-use-claude-api-to-build-smarter-apps",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to use Claude API to build smarter apps with practical patterns, prompts, architecture tips, and production best practices.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/how-to-use-claude-api-to-build-smarter-apps/index.html",
-      "published_at": "2026-03-15T10:08:07.604608",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260315.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:04:10.508718"
+  "last_updated": "2026-03-16T10:05:41.619825"
 }
