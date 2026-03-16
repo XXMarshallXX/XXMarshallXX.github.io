@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "5 Commands Every Dog Should Know by 6 Months: A Science-Backed Training Guide for Puppies and Rescues",
+      "slug": "5-commands-every-dog-should-know-by-6-months",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Teach your puppy or rescue these 5 essential dog commands by 6 months for safety, focus, and better behavior.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/5-commands-every-dog-should-know-by-6-months/index.html",
+      "published_at": "2026-03-16T10:08:46.427810",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_5-commands-every-dog-should-know-by-6-months_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Automate Your GitHub Workflow with AI: Practical Tips for Faster Reviews, Smarter Issues, and Better Shipping",
       "slug": "how-to-automate-your-github-workflow-with-ai",
       "niche": "Tech / AI / Developer",
@@ -99,16 +109,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/15/7-side-hustles-you-can-automate-with-ai/index.html",
       "published_at": "2026-03-15T10:05:41.804881",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_7-side-hustles-you-can-automate-with-ai_20260315.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "5 Commands Every Dog Should Know by 6 Months for Better Behavior and Safety",
-      "slug": "5-commands-every-dog-should-know-by-6-months",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Teach your puppy these 5 essential commands by 6 months to build safety, focus, and good manners with positive, science-backed training.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/5-commands-every-dog-should-know-by-6-months/index.html",
-      "published_at": "2026-03-15T10:04:21.077585",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_5-commands-every-dog-should-know-by-6-months_20260315.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:07:12.348967"
+  "last_updated": "2026-03-16T10:08:46.427859"
 }
