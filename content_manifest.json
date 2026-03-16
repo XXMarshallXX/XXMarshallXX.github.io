@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Spoil Your Dog Without Breaking the Bank: Budget-Friendly Ways to Show Big Love",
+      "slug": "how-to-spoil-your-dog-without-breaking-the-bank",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover affordable, heartwarming ways to spoil your dog with toys, treats, enrichment, and personalized gifts\u2014without overspending.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/how-to-spoil-your-dog-without-breaking-the-bank/index.html",
+      "published_at": "2026-03-16T10:10:21.284487",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-spoil-your-dog-without-breaking-the-bank_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "5 Commands Every Dog Should Know by 6 Months: A Science-Backed Training Guide for Puppies and Rescues",
       "slug": "5-commands-every-dog-should-know-by-6-months",
       "niche": "Dog Training & Behavior",
@@ -119,16 +129,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/15/best-personalized-dog-gifts-under-50/index.html",
       "published_at": "2026-03-15T10:03:08.341530",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-personalized-dog-gifts-under-50_20260315.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Spoil Your Dog Without Breaking the Bank: Budget-Friendly Ways to Show Big Love",
-      "slug": "how-to-spoil-your-dog-without-breaking-the-bank",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover affordable, creative ways to spoil your dog with toys, treats, routines, and personalized gifts\u2014without overspending.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/how-to-spoil-your-dog-without-breaking-the-bank/index.html",
-      "published_at": "2026-03-15T10:01:52.740290",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-spoil-your-dog-without-breaking-the-bank_20260315.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:08:46.427859"
+  "last_updated": "2026-03-16T10:10:21.284532"
 }
