@@ -374,6 +374,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Puppy Training Made Simple: The First 30 Days to a Calm, Potty-Trained, Well-Behaved Dog",
+      "slug": "puppy-training-made-simple-the-first-30-days-to-a-calm-potty",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/ebook-puppy-training-made-simple-the-first-30-days-to-a-calm-potty/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-16T10:42:38.999531"
+    },
+    {
+      "type": "ebook",
       "title": "The AI Content Engine",
       "slug": "the-ai-content-engine",
       "category": "AI & Automation",
@@ -748,5 +759,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:35:29.414062"
+  "last_updated": "2026-03-16T10:42:38.999575"
 }
