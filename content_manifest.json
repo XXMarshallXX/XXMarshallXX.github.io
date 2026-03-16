@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Automate Your GitHub Workflow with AI: Practical Tips for Faster Reviews, Smarter Issues, and Better Shipping",
+      "slug": "how-to-automate-your-github-workflow-with-ai",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, and releases\u2014practical steps for developers and indie hackers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/how-to-automate-your-github-workflow-with-ai/index.html",
+      "published_at": "2026-03-16T10:07:12.348916",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
       "slug": "how-to-use-claude-api-to-build-smarter-apps",
       "niche": "Tech / AI / Developer",
@@ -299,16 +309,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/11/gift-ideas-for-new-puppy-owners/index.html",
       "published_at": "2026-03-11T10:12:47.808892",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_gift-ideas-for-new-puppy-owners_20260311.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Automate Your GitHub Workflow with AI: Practical Ideas for Faster Pull Requests, Issues, and Releases",
-      "slug": "how-to-automate-your-github-workflow-with-ai",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, testing, and releases\u2014practical tips for developers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/11/how-to-automate-your-github-workflow-with-ai/index.html",
-      "published_at": "2026-03-11T10:11:39.699065",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260311.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:05:41.619825"
+  "last_updated": "2026-03-16T10:07:12.348967"
 }
