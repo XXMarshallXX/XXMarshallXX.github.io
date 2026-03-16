@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: A Practical Guide for Better Training",
+      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
+      "published_at": "2026-03-16T10:15:41.910545",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Choose the Right Dog Collar for Your Breed: A Friendly Guide for Every Pup Parent",
       "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
       "niche": "Pet Products & SnoutAndAbout",
@@ -259,16 +269,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/12/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
       "published_at": "2026-03-12T10:10:36.753950",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260312.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions",
-      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Why your dog doesn\u2019t listen\u2014and how to fix it with science-backed training tips for puppies, rescue dogs, and everyday owners.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
-      "published_at": "2026-03-12T10:08:46.023147",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260312.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:13:31.295581"
+  "last_updated": "2026-03-16T10:15:41.910592"
 }
