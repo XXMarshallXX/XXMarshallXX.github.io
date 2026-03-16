@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
+      "slug": "15-minute-daily-training-routine-that-transforms-any-dog",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Discover a science-backed 15-minute daily dog training routine that builds focus, manners, and trust in puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/15-minute-daily-training-routine-that-transforms-any-dog/index.html",
+      "published_at": "2026-03-16T10:04:10.508675",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-training-routine-that-transforms-any-dog_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Print-on-Demand Is Still a Goldmine in 2025: Low-Risk Profit for Entrepreneurs",
       "slug": "why-print-on-demand-is-still-a-goldmine-in-2025",
       "niche": "Money-Making & Entrepreneurship",
@@ -119,16 +129,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/14/top-10-accessories-every-dog-owner-needs/index.html",
       "published_at": "2026-03-14T10:14:08.860803",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260314.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
-      "slug": "15-minute-daily-training-routine-that-transforms-any-dog",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Discover a science-backed 15-minute daily dog training routine that builds focus, manners, and confidence in puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/15-minute-daily-training-routine-that-transforms-any-dog/index.html",
-      "published_at": "2026-03-14T10:12:43.976588",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-training-routine-that-transforms-any-dog_20260314.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:01:32.698410"
+  "last_updated": "2026-03-16T10:04:10.508718"
 }
