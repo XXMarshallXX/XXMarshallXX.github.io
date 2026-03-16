@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
+      "slug": "0-to-1000-month-etsy-blueprint",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn the $0 to $1,000/month Etsy blueprint with digital products, SEO, and automation\u2014no inventory, no upfront cost required.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/0-to-1000-month-etsy-blueprint/index.html",
+      "published_at": "2026-03-16T10:11:51.657686",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_0-to-1000-month-etsy-blueprint_20260316.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Spoil Your Dog Without Breaking the Bank: Budget-Friendly Ways to Show Big Love",
       "slug": "how-to-spoil-your-dog-without-breaking-the-bank",
       "niche": "Pet Products & SnoutAndAbout",
@@ -69,16 +79,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/15/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
       "published_at": "2026-03-15T10:13:44.949068",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260315.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "The $0 to $1000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
-      "slug": "0-to-1000-month-etsy-blueprint",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn the $0 to $1000/month Etsy blueprint to launch a profitable digital product side hustle with no inventory or upfront cost.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/0-to-1000-month-etsy-blueprint/index.html",
-      "published_at": "2026-03-15T10:12:26.918963",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_0-to-1000-month-etsy-blueprint_20260315.png"
     },
     {
       "type": "blog_post",
@@ -726,5 +726,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:10:21.284532"
+  "last_updated": "2026-03-16T10:11:51.657727"
 }
