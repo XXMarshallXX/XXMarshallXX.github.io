@@ -394,6 +394,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "From Side Hustle to Full-Time Freedom",
+      "slug": "from-side-hustle-to-full-time-freedom",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/ebook-from-side-hustle-to-full-time-freedom/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-17T10:20:55.067382"
+    },
+    {
+      "type": "ebook",
       "title": "Stop Dog Separation Anxiety",
       "slug": "stop-dog-separation-anxiety",
       "category": "Dog Training",
@@ -534,17 +545,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-14T10:19:51.936710"
-    },
-    {
-      "type": "ebook",
-      "title": "From Side Hustle to Full-Time Freedom",
-      "slug": "from-side-hustle-to-full-time-freedom",
-      "category": "Entrepreneurship",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/ebook-from-side-hustle-to-full-time-freedom/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-13T10:39:54.762407"
     },
     {
       "type": "ebook",
@@ -790,5 +790,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:14:55.609710"
+  "last_updated": "2026-03-17T10:20:55.067429"
 }
