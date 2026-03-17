@@ -394,6 +394,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Separation Anxiety Solution for Dogs",
+      "slug": "separation-anxiety-solution-for-dogs",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/ebook-separation-anxiety-solution-for-dogs/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-17T10:26:51.939450"
+    },
+    {
+      "type": "ebook",
       "title": "From Side Hustle to Full-Time Freedom",
       "slug": "from-side-hustle-to-full-time-freedom",
       "category": "Entrepreneurship",
@@ -790,5 +801,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:20:55.067429"
+  "last_updated": "2026-03-17T10:26:51.939492"
 }
