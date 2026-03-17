@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Building Autonomous Agents with Python in 2025: A Practical Guide for Developers",
+      "slug": "building-autonomous-agents-with-python-in-2025",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to build autonomous agents with Python in 2025, including architecture, tools, memory, safety, and practical developer workflows.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/building-autonomous-agents-with-python-in-2025/index.html",
+      "published_at": "2026-03-17T10:14:55.609666",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_building-autonomous-agents-with-python-in-2025_20260317.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Crate Training a New Puppy: The Complete Guide for Calm Nights, Safe Routines, and Faster House Training",
       "slug": "crate-training-a-new-puppy-the-complete-guide",
       "niche": "Dog Training & Behavior",
@@ -239,16 +249,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/14/start-etsy-shop-zero-upfront-cost/index.html",
       "published_at": "2026-03-14T10:08:39.333939",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_start-etsy-shop-zero-upfront-cost_20260314.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Building Autonomous Agents with Python in 2025: A Practical Guide for Developers",
-      "slug": "building-autonomous-agents-with-python-in-2025",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to build autonomous agents with Python in 2025, including architecture, tools, memory, safety, and deployment best practices.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/building-autonomous-agents-with-python-in-2025/index.html",
-      "published_at": "2026-03-14T10:04:22.278275",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_building-autonomous-agents-with-python-in-2025_20260314.png"
     },
     {
       "type": "blog_post",
@@ -790,5 +790,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:13:35.289825"
+  "last_updated": "2026-03-17T10:14:55.609710"
 }
