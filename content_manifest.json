@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
+      "slug": "15-minute-daily-dog-training-routine",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Discover the 15-minute daily dog training routine that builds focus, manners, and trust for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/15-minute-daily-dog-training-routine/index.html",
+      "published_at": "2026-03-17T10:03:45.341086",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine_20260317.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
       "slug": "why-custom-pet-portraits-make-perfect-gifts",
       "niche": "Pet Products & SnoutAndAbout",
@@ -239,16 +249,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/13/positive-reinforcement-vs-punishment-what-actually-works/index.html",
       "published_at": "2026-03-13T10:10:44.440912",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260313.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
-      "slug": "15-minute-daily-dog-training-routine",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Discover a science-backed 15-minute daily dog training routine that builds focus, manners, and confidence in puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/15-minute-daily-dog-training-routine/index.html",
-      "published_at": "2026-03-13T10:09:32.282571",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine_20260313.png"
     },
     {
       "type": "blog_post",
@@ -770,5 +770,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:02:25.626026"
+  "last_updated": "2026-03-17T10:03:45.341127"
 }
