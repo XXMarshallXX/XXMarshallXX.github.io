@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
+      "slug": "why-custom-pet-portraits-make-perfect-gifts",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover why custom pet portraits are thoughtful, personal gifts pet lovers cherish forever. Perfect for birthdays, holidays, and memorials.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/why-custom-pet-portraits-make-perfect-gifts/index.html",
+      "published_at": "2026-03-17T10:02:25.625979",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-custom-pet-portraits-make-perfect-gifts_20260317.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: A Practical Guide for Better Training",
       "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
       "niche": "Dog Training & Behavior",
@@ -279,16 +289,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/12/how-openclaw-automates-my-entire-dev-workflow/index.html",
       "published_at": "2026-03-12T10:04:48.017868",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-openclaw-automates-my-entire-dev-workflow_20260312.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
-      "slug": "why-custom-pet-portraits-make-perfect-gifts",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover why custom pet portraits are meaningful, personal gifts pet lovers cherish for years. Perfect for birthdays, holidays, and memorials.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/why-custom-pet-portraits-make-perfect-gifts/index.html",
-      "published_at": "2026-03-12T10:03:10.183834",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-custom-pet-portraits-make-perfect-gifts_20260312.png"
     },
     {
       "type": "blog_post",
@@ -770,5 +770,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-16T10:48:38.224413"
+  "last_updated": "2026-03-17T10:02:25.626026"
 }
