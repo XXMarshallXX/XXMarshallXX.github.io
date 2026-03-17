@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "15 Passive Income Ideas for Developers That Actually Scale in 2026",
+      "slug": "passive-income-ideas-for-developers",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Discover the best passive income ideas for developers to build recurring revenue, automate earnings, and scale beyond client work.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/passive-income-ideas-for-developers/index.html",
+      "published_at": "2026-03-17T10:06:31.481440",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_passive-income-ideas-for-developers_20260317.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Teach Your Dog to Come When Called Every Time: A Science-Backed Recall Training Guide",
       "slug": "how-to-teach-your-dog-to-come-when-called-every-time",
       "niche": "Dog Training & Behavior",
@@ -770,5 +780,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:05:12.314363"
+  "last_updated": "2026-03-17T10:06:31.481479"
 }
