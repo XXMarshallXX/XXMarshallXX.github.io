@@ -394,6 +394,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Pet Product Niche Research Blueprint",
+      "slug": "pet-product-niche-research-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/ebook-pet-product-niche-research-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-17T10:33:07.991920"
+    },
+    {
+      "type": "ebook",
       "title": "Separation Anxiety Solution for Dogs",
       "slug": "separation-anxiety-solution-for-dogs",
       "category": "Dog Training",
@@ -523,17 +534,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-14T10:43:35.027783"
-    },
-    {
-      "type": "ebook",
-      "title": "Pet Product Niche Research Blueprint",
-      "slug": "pet-product-niche-research-blueprint",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/ebook-pet-product-niche-research-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-14T10:31:55.207460"
     },
     {
       "type": "ebook",
@@ -801,5 +801,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:26:51.939492"
+  "last_updated": "2026-03-17T10:33:07.991961"
 }
