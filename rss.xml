@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Mar 2026 10:09:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 10:11:05 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Builder Project</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/17/what-is-openclaw-and-why-i-built-it/index.html</link>
+      <description>Discover what OpenClaw is, why I built it, and how this open source AI builder project grew from a personal need into a public GitHub build.</description>
+      <pubDate>2026-03-17</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/17/what-is-openclaw-and-why-i-built-it/index.html</guid>
+    </item>
     <item>
       <title>Trending Pet Products on Etsy This Year: Must-Have Finds for Dogs, Cats, and Pet Lovers</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/17/trending-pet-products-on-etsy-this-year/index.html</link>
@@ -125,13 +132,6 @@
       <description>Discover the top VSCode extensions for AI-assisted coding in 2026. Boost speed, code quality, debugging, and developer workflow.</description>
       <pubDate>2026-03-15</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/15/top-vscode-extensions-for-ai-assisted-coding/index.html</guid>
-    </item>
-    <item>
-      <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/15/what-is-openclaw-and-why-i-built-it/index.html</link>
-      <description>What OpenClaw is, why I built it, and how this open source AI hardware project came together from idea to GitHub build.</description>
-      <pubDate>2026-03-15</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/15/what-is-openclaw-and-why-i-built-it/index.html</guid>
     </item>
     <item>
       <title>Crate Training a New Puppy: The Complete Guide for Calm Nights, Faster House Training, and a Confident Dog</title>
