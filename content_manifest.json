@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, Burn Out Less",
+      "slug": "best-ai-tools-for-solo-developers",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover the best AI tools for solo developers to code faster, debug smarter, design better, and ship products with less overhead.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/best-ai-tools-for-solo-developers/index.html",
+      "published_at": "2026-03-18T10:02:06.906700",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-ai-tools-for-solo-developers_20260318.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Building Autonomous Agents with Python in 2025: A Practical Guide for Developers",
       "slug": "building-autonomous-agents-with-python-in-2025",
       "niche": "Tech / AI / Developer",
@@ -229,16 +239,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/14/top-10-accessories-every-dog-owner-needs/index.html",
       "published_at": "2026-03-14T10:14:08.860803",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260314.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, Burn Out Less",
-      "slug": "best-ai-tools-for-solo-developers",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Discover the best AI tools for solo developers to code faster, automate workflows, debug smarter, and ship products with less overhead.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/best-ai-tools-for-solo-developers/index.html",
-      "published_at": "2026-03-14T10:11:10.631005",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-ai-tools-for-solo-developers_20260314.png"
     },
     {
       "type": "blog_post",
@@ -801,5 +801,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-17T10:45:28.596078"
+  "last_updated": "2026-03-18T10:02:06.906746"
 }
