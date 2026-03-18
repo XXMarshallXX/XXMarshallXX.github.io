@@ -394,6 +394,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Stop Bad Dog Behavior Fast",
+      "slug": "stop-bad-dog-behavior-fast",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/ebook-stop-bad-dog-behavior-fast/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-18T10:32:16.627196"
+    },
+    {
+      "type": "ebook",
       "title": "Pet Product Niche Research Blueprint",
       "slug": "pet-product-niche-research-blueprint",
       "category": "Pet Products & Business",
@@ -812,5 +823,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-18T10:26:12.717777"
+  "last_updated": "2026-03-18T10:32:16.627237"
 }
