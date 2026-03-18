@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Stop Your Dog From Pulling on the Leash: Science-Backed Training That Actually Works",
+      "slug": "how-to-stop-your-dog-from-pulling-on-the-leash",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to stop your dog from pulling on the leash with positive, science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
+      "published_at": "2026-03-18T10:07:42.437306",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260318.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use AI to Run a One-Person Business Empire",
       "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
       "niche": "Money-Making & Entrepreneurship",
@@ -199,16 +209,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/16/why-print-on-demand-is-still-a-goldmine-in-2025/index.html",
       "published_at": "2026-03-16T10:01:32.698367",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-print-on-demand-is-still-a-goldmine-in-2025_20260316.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Stop Your Dog From Pulling on the Leash: Science-Backed Training That Really Works",
-      "slug": "how-to-stop-your-dog-from-pulling-on-the-leash",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn how to stop your dog from pulling on the leash with positive, science-backed training tips for puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
-      "published_at": "2026-03-15T10:13:44.949068",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260315.png"
     },
     {
       "type": "blog_post",
@@ -801,5 +801,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-18T10:06:26.270094"
+  "last_updated": "2026-03-18T10:07:42.437345"
 }
