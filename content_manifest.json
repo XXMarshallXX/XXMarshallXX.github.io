@@ -394,6 +394,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Passive Income Playbook: 7 Scalable Strategies to Build Monthly Cash Flow Without Burning Out",
+      "slug": "passive-income-playbook-7-scalable-strategies-to-build-month",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/ebook-passive-income-playbook-7-scalable-strategies-to-build-month/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-18T10:44:23.305523"
+    },
+    {
+      "type": "ebook",
       "title": "Off-Leash Freedom: The Step-by-Step Guide to Reliable Recall, Focus, and Safe Adventure with Your Dog",
       "slug": "off-leash-freedom-the-step-by-step-guide-to-reliable-recall-",
       "category": "Dog Training",
@@ -834,5 +845,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-18T10:38:32.928392"
+  "last_updated": "2026-03-18T10:44:23.305564"
 }
