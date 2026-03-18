@@ -394,6 +394,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The AI Entrepreneur's Toolkit",
+      "slug": "the-ai-entrepreneurs-toolkit",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/ebook-the-ai-entrepreneurs-toolkit/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-18T10:20:01.303794"
+    },
+    {
+      "type": "ebook",
       "title": "The AI Entrepreneur\u2019s Toolkit",
       "slug": "the-ai-entrepreneur\u2019s-toolkit",
       "category": "AI & Automation",
@@ -801,5 +812,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-18T10:14:18.763036"
+  "last_updated": "2026-03-18T10:20:01.303823"
 }
