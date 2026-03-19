@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The One-Person Business Blueprint",
+      "slug": "the-one-person-business-blueprint",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/ebook-the-one-person-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-19T10:24:54.829684"
+    },
+    {
+      "type": "ebook",
       "title": "Advanced Obedience Mastery for Dogs",
       "slug": "advanced-obedience-mastery-for-dogs",
       "category": "Dog Training",
@@ -865,5 +876,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-19T10:19:24.084501"
+  "last_updated": "2026-03-19T10:24:54.829737"
 }
