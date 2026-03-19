@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Fast",
+      "slug": "how-i-built-a-digital-business-in-30-days",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy fast.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/how-i-built-a-digital-business-in-30-days/index.html",
+      "published_at": "2026-03-19T10:10:22.328248",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260319.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Building an AI Morning Digest with Python and Claude: A Practical Behind-the-Scenes Guide",
       "slug": "building-an-ai-morning-digest-with-python-and-claude",
       "niche": "OpenClaw / GitHub Builds",
@@ -309,16 +319,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-to-make-passive-income-with-print-on-demand-in-2025/index.html",
       "published_at": "2026-03-13T10:08:11.428528",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-make-passive-income-with-print-on-demand-in-2025_20260313.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Starting Fast",
-      "slug": "how-i-built-a-digital-business-in-30-days",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost system you can use to start earning online fast.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/13/how-i-built-a-digital-business-in-30-days/index.html",
-      "published_at": "2026-03-13T10:03:06.898687",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260313.png"
     },
     {
       "type": "blog_post",
@@ -865,5 +865,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-19T10:09:04.085916"
+  "last_updated": "2026-03-19T10:10:22.328291"
 }
