@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:05:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:06:36 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to Automate Your GitHub Workflow with AI: Practical Strategies for Faster Shipping</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/19/how-to-automate-your-github-workflow-with-ai/index.html</link>
+      <description>Learn how to automate your GitHub workflow with AI to review PRs, write issues, generate docs, and ship faster with practical examples.</description>
+      <pubDate>2026-03-19</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/19/how-to-automate-your-github-workflow-with-ai/index.html</guid>
+    </item>
     <item>
       <title>Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/19/top-10-accessories-every-dog-owner-needs/index.html</link>
@@ -139,13 +146,6 @@
       <description>Learn why your dog doesn’t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.</description>
       <pubDate>2026-03-16</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/16/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</guid>
-    </item>
-    <item>
-      <title>How to Choose the Right Dog Collar for Your Breed: A Friendly Guide for Every Pup Parent</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/16/how-to-choose-the-right-dog-collar-for-your-breed/index.html</link>
-      <description>Learn how to choose the right dog collar for your breed with fit, material, safety, and style tips for every size and personality.</description>
-      <pubDate>2026-03-16</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/16/how-to-choose-the-right-dog-collar-for-your-breed/index.html</guid>
     </item>
   </channel>
 </rss>
