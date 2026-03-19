@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
+      "slug": "top-10-accessories-every-dog-owner-needs",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the top 10 dog accessories every owner needs for safety, comfort, travel, training, and style. Perfect for pet lovers and gift shoppers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/top-10-accessories-every-dog-owner-needs/index.html",
+      "published_at": "2026-03-19T10:05:11.108139",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260319.png"
+    },
+    {
+      "type": "blog_post",
       "title": "5 Commands Every Dog Should Know by 6 Months: A Science-Backed Training Guide for Puppies and Rescues",
       "slug": "5-commands-every-dog-should-know-by-6-months",
       "niche": "Dog Training & Behavior",
@@ -259,16 +269,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/15/best-personalized-dog-gifts-under-50/index.html",
       "published_at": "2026-03-15T10:03:08.341530",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-personalized-dog-gifts-under-50_20260315.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Top 10 Accessories Every Dog Owner Needs for Happy, Safe Adventures",
-      "slug": "top-10-accessories-every-dog-owner-needs",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the top 10 dog accessories every owner needs for safety, comfort, travel, and everyday fun with your pup.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/top-10-accessories-every-dog-owner-needs/index.html",
-      "published_at": "2026-03-14T10:14:08.860803",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260314.png"
     },
     {
       "type": "blog_post",
@@ -855,5 +855,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-19T10:03:52.514025"
+  "last_updated": "2026-03-19T10:05:11.108176"
 }
