@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Personalized Pet Products Profit Playbook",
+      "slug": "personalized-pet-products-profit-playbook",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/ebook-personalized-pet-products-profit-playbook/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-19T10:36:38.217769"
+    },
+    {
+      "type": "ebook",
       "title": "The AI Content Engine",
       "slug": "the-ai-content-engine",
       "category": "AI & Automation",
@@ -876,5 +887,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-19T10:30:33.094060"
+  "last_updated": "2026-03-19T10:36:38.217818"
 }
