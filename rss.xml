@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Mar 2026 10:07:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 10:09:04 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Building an AI Morning Digest with Python and Claude: A Practical Behind-the-Scenes Guide</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/19/building-an-ai-morning-digest-with-python-and-claude/index.html</link>
+      <description>Learn how to build an AI morning digest with Python and Claude, from content collection to summarization and delivery.</description>
+      <pubDate>2026-03-19</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/19/building-an-ai-morning-digest-with-python-and-claude/index.html</guid>
+    </item>
     <item>
       <title>15 Passive Income Ideas for Developers That Actually Scale in 2026</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/19/passive-income-ideas-for-developers/index.html</link>
@@ -139,13 +146,6 @@
       <description>Discover the 15-minute daily dog training routine that builds focus, manners, and trust for puppies, rescues, and adult dogs.</description>
       <pubDate>2026-03-17</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/17/15-minute-daily-dog-training-routine/index.html</guid>
-    </item>
-    <item>
-      <title>Why Your Dog Doesn’t Listen and How to Fix It: A Practical Guide for Better Training</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/16/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</link>
-      <description>Learn why your dog doesn’t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.</description>
-      <pubDate>2026-03-16</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/16/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</guid>
     </item>
   </channel>
 </rss>
