@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The AI Content Engine",
+      "slug": "the-ai-content-engine",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/ebook-the-ai-content-engine/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-19T10:30:33.094019"
+    },
+    {
+      "type": "ebook",
       "title": "The One-Person Business Blueprint",
       "slug": "the-one-person-business-blueprint",
       "category": "Entrepreneurship",
@@ -554,17 +565,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-16T10:42:38.999531"
-    },
-    {
-      "type": "ebook",
-      "title": "The AI Content Engine",
-      "slug": "the-ai-content-engine",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/ebook-the-ai-content-engine/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-16T10:35:29.414023"
     },
     {
       "type": "ebook",
@@ -876,5 +876,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-19T10:24:54.829737"
+  "last_updated": "2026-03-19T10:30:33.094060"
 }
