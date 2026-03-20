@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "From Reactive to Reliable: A Practical Guide to Aggressive Dog Rehabilitation",
+      "slug": "from-reactive-to-reliable-a-practical-guide-to-aggressive-do",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/ebook-from-reactive-to-reliable-a-practical-guide-to-aggressive-do/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-20T10:36:47.365748"
+    },
+    {
+      "type": "ebook",
       "title": "Calm When You\u2019re Gone",
       "slug": "calm-when-you\u2019re-gone",
       "category": "Dog Training",
@@ -920,5 +931,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:30:28.383395"
+  "last_updated": "2026-03-20T10:36:47.365801"
 }
