@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:06:37 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Online Fast</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/20/how-i-built-a-digital-business-in-30-days/index.html</link>
+      <description>Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy today.</description>
+      <pubDate>2026-03-20</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/20/how-i-built-a-digital-business-in-30-days/index.html</guid>
+    </item>
     <item>
       <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at the Open-Source AI Hardware Project</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/20/what-is-openclaw-and-why-i-built-it/index.html</link>
@@ -48,13 +55,6 @@
       <description>Spoil your dog on a budget with fun, affordable ideas, DIY treats, toys, and personalized gifts that make every pup feel extra loved.</description>
       <pubDate>2026-03-19</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/19/how-to-spoil-your-dog-without-breaking-the-bank/index.html</guid>
-    </item>
-    <item>
-      <title>How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Fast</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/19/how-i-built-a-digital-business-in-30-days/index.html</link>
-      <description>Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy fast.</description>
-      <pubDate>2026-03-19</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/19/how-i-built-a-digital-business-in-30-days/index.html</guid>
     </item>
     <item>
       <title>Building an AI Morning Digest with Python and Claude: A Practical Behind-the-Scenes Guide</title>
