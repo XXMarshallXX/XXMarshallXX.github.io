@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Mar 2026 10:04:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 10:05:30 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at the Open-Source AI Hardware Project</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/20/what-is-openclaw-and-why-i-built-it/index.html</link>
+      <description>Discover what OpenClaw is, why I built this open-source AI hardware project, and how developers can follow the build on GitHub.</description>
+      <pubDate>2026-03-20</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/20/what-is-openclaw-and-why-i-built-it/index.html</guid>
+    </item>
     <item>
       <title>How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Products, Smaller Teams</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/20/how-ai-is-changing-indie-dev-in-2025/index.html</link>
@@ -125,13 +132,6 @@
       <description>Learn how to use AI to build, automate, and scale a one-person business empire with smarter systems, faster execution, and low overhead.</description>
       <pubDate>2026-03-18</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/18/how-to-use-ai-to-run-a-one-person-business-empire/index.html</guid>
-    </item>
-    <item>
-      <title>What Is OpenClaw and Why I Built It: The Story Behind an Open-Source AI Hardware Project</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/18/what-is-openclaw-and-why-i-built-it/index.html</link>
-      <description>What OpenClaw is, why I built it, and how this open-source AI hardware project helps developers and makers build in public.</description>
-      <pubDate>2026-03-18</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/18/what-is-openclaw-and-why-i-built-it/index.html</guid>
     </item>
     <item>
       <title>Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, Burn Out Less</title>
