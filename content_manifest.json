@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Personalized Cat Products That Actually Sell: Best-Selling Gift Ideas Pet Owners Love",
+      "slug": "personalized-cat-products-that-actually-sell",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover personalized cat products that actually sell, from custom gifts to practical keepsakes pet owners love to buy and give.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/personalized-cat-products-that-actually-sell/index.html",
+      "published_at": "2026-03-20T10:13:34.955819",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260320.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How AI Is Changing Indie Dev in 2025: Faster Building, Smarter Shipping, Bigger Leverage",
       "slug": "how-ai-is-changing-indie-dev-in-2025",
       "niche": "Tech / AI / Developer",
@@ -389,16 +399,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/10/0-to-1000-per-month-etsy-blueprint/index.html",
       "published_at": "2026-03-10T10:04:52.255094",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_0-to-1000-per-month-etsy-blueprint_20260310.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Personalized Cat Products That Actually Sell: Best Custom Gifts Cat Lovers Can\u2019t Resist",
-      "slug": "personalized-cat-products-that-actually-sell",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover personalized cat products that actually sell, from custom mugs to memorial gifts cat lovers adore.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/09/personalized-cat-products-that-actually-sell/index.html",
-      "published_at": "2026-03-09T22:08:15.387264",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260309.png"
     },
     {
       "type": "blog_post",
@@ -887,5 +887,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:12:06.055897"
+  "last_updated": "2026-03-20T10:13:34.955864"
 }
