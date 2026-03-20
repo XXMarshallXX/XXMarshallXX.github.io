@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Print-on-Demand Pet Profits",
+      "slug": "print-on-demand-pet-profits",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/ebook-print-on-demand-pet-profits/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-20T10:42:13.491430"
+    },
+    {
+      "type": "ebook",
       "title": "From Reactive to Reliable: A Practical Guide to Aggressive Dog Rehabilitation",
       "slug": "from-reactive-to-reliable-a-practical-guide-to-aggressive-do",
       "category": "Dog Training",
@@ -931,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:36:47.365801"
+  "last_updated": "2026-03-20T10:42:13.491478"
 }
