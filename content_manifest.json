@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Trending Pet Products on Etsy This Year: Must-Have Finds for Stylish Pets and Thoughtful Gift Shoppers",
+      "slug": "trending-pet-products-on-etsy-this-year",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the trending pet products on Etsy this year, from personalized gifts to stylish accessories pet owners and dog lovers adore.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/trending-pet-products-on-etsy-this-year/index.html",
+      "published_at": "2026-03-20T10:02:45.746006",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_trending-pet-products-on-etsy-this-year_20260320.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Crate Training a New Puppy: The Complete Guide to a Calm, Confident Start",
       "slug": "crate-training-a-new-puppy-the-complete-guide",
       "niche": "Dog Training & Behavior",
@@ -189,16 +199,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/17/building-autonomous-agents-with-python-in-2025/index.html",
       "published_at": "2026-03-17T10:14:55.609666",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_building-autonomous-agents-with-python-in-2025_20260317.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Trending Pet Products on Etsy This Year: Must-Have Finds for Dogs, Cats, and Pet Lovers",
-      "slug": "trending-pet-products-on-etsy-this-year",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the trending pet products on Etsy this year, from personalized gifts to stylish accessories and must-have pet owner favorites.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/trending-pet-products-on-etsy-this-year/index.html",
-      "published_at": "2026-03-17T10:09:32.949785",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_trending-pet-products-on-etsy-this-year_20260317.png"
     },
     {
       "type": "blog_post",
@@ -887,5 +887,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:01:19.195176"
+  "last_updated": "2026-03-20T10:02:45.746052"
 }
