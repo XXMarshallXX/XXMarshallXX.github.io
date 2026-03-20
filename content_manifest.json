@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Calm When You\u2019re Gone",
+      "slug": "calm-when-you\u2019re-gone",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/ebook-calm-when-you\u2019re-gone/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-20T10:30:28.383343"
+    },
+    {
+      "type": "ebook",
       "title": "Zero-Budget Marketing",
       "slug": "zero-budget-marketing",
       "category": "Entrepreneurship",
@@ -909,5 +920,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:24:57.604082"
+  "last_updated": "2026-03-20T10:30:28.383395"
 }
