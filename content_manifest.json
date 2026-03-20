@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Online Fast",
+      "slug": "how-i-built-a-digital-business-in-30-days",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy today.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/how-i-built-a-digital-business-in-30-days/index.html",
+      "published_at": "2026-03-20T10:06:37.663071",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260320.png"
+    },
+    {
+      "type": "blog_post",
       "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at the Open-Source AI Hardware Project",
       "slug": "what-is-openclaw-and-why-i-built-it",
       "niche": "OpenClaw / GitHub Builds",
@@ -59,16 +69,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/19/how-to-spoil-your-dog-without-breaking-the-bank/index.html",
       "published_at": "2026-03-19T10:11:48.099330",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-spoil-your-dog-without-breaking-the-bank_20260319.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Fast",
-      "slug": "how-i-built-a-digital-business-in-30-days",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy fast.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/how-i-built-a-digital-business-in-30-days/index.html",
-      "published_at": "2026-03-19T10:10:22.328248",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260319.png"
     },
     {
       "type": "blog_post",
@@ -887,5 +887,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:05:30.003077"
+  "last_updated": "2026-03-20T10:06:37.663116"
 }
