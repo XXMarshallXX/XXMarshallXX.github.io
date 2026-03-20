@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Crate Training a New Puppy: The Complete Guide for a Calm, Confident Start",
+      "slug": "crate-training-a-new-puppy-the-complete-guide",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to crate train a new puppy with a kind, proven routine that builds confidence, supports potty training, and prevents stress.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/crate-training-a-new-puppy-the-complete-guide/index.html",
+      "published_at": "2026-03-20T10:09:18.157320",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260320.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Teach Your Dog to Come When Called Every Time: A Science-Backed Recall Training Guide",
       "slug": "how-to-teach-your-dog-to-come-when-called-every-time",
       "niche": "Dog Training & Behavior",
@@ -49,16 +59,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/20/trending-pet-products-on-etsy-this-year/index.html",
       "published_at": "2026-03-20T10:02:45.746006",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_trending-pet-products-on-etsy-this-year_20260320.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Crate Training a New Puppy: The Complete Guide to a Calm, Confident Start",
-      "slug": "crate-training-a-new-puppy-the-complete-guide",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn how to crate train a new puppy with a step-by-step, science-backed guide for better sleep, potty training, and confidence.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/crate-training-a-new-puppy-the-complete-guide/index.html",
-      "published_at": "2026-03-20T10:01:19.195130",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260320.png"
     },
     {
       "type": "blog_post",
@@ -887,5 +887,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:07:50.626009"
+  "last_updated": "2026-03-20T10:09:18.157363"
 }
