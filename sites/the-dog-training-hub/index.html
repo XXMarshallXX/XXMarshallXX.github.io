@@ -3,25 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="The Dog Training Hub offers expert dog training tips, puppy guides, and practical behavior solutions for happier, better-behaved dogs." />
   <title>The Dog Training Hub | Expert Dog Training Tips & Puppy Guides</title>
+  <meta name="description" content="Expert dog training tips, puppy guides, and behavior solutions. Discover daily advice on obedience, leash training, separation anxiety, and more." />
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&family=Inter:wght@400;500;600;700&display=swap');
 
     :root {
-      --primary: #2F6D62;
-      --primary-dark: #24564e;
-      --secondary: #F2B84B;
-      --secondary-dark: #d89d31;
-      --bg: #f8fbf9;
-      --surface: #ffffff;
-      --surface-alt: #eef5f2;
-      --text: #1f2a28;
-      --muted: #5d6d69;
-      --border: #dce8e3;
-      --shadow: 0 18px 40px rgba(31, 42, 40, 0.10);
-      --radius: 18px;
-      --max-width: 1180px;
+      --primary: #2F6B4F;
+      --primary-dark: #234F3A;
+      --secondary: #E8A85E;
+      --accent: #F6F1E8;
+      --text: #1F2A24;
+      --muted: #5F6D65;
+      --white: #ffffff;
+      --border: rgba(47, 107, 79, 0.12);
+      --shadow: 0 20px 60px rgba(20, 35, 28, 0.12);
+      --radius: 20px;
+      --container: 1180px;
     }
 
     * { box-sizing: border-box; }
@@ -30,603 +28,640 @@
       margin: 0;
       font-family: 'Inter', sans-serif;
       color: var(--text);
-      background: var(--bg);
+      background: linear-gradient(180deg, #fcfcfa 0%, #f6f8f4 100%);
       line-height: 1.6;
     }
 
     img { max-width: 100%; display: block; }
     a { color: inherit; text-decoration: none; }
-    .container { width: min(100% - 2rem, var(--max-width)); margin: 0 auto; }
-    .section { padding: 5rem 0; }
-    .eyebrow {
-      display: inline-flex;
+
+    .container {
+      width: min(var(--container), calc(100% - 2rem));
+      margin: 0 auto;
+    }
+
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+      backdrop-filter: blur(16px);
+      background: rgba(252, 252, 250, 0.9);
+      border-bottom: 1px solid rgba(47, 107, 79, 0.08);
+    }
+
+    .nav {
+      display: flex;
       align-items: center;
-      gap: .5rem;
-      padding: .45rem .85rem;
-      border-radius: 999px;
-      background: rgba(242, 184, 75, 0.18);
-      color: var(--primary-dark);
-      font-weight: 700;
-      font-size: .84rem;
-      letter-spacing: .03em;
-      text-transform: uppercase;
+      justify-content: space-between;
+      min-height: 76px;
+      gap: 1rem;
     }
-    .eyebrow::before {
-      content: '';
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
-      background: var(--secondary);
-    }
-    h1, h2, h3, h4 {
+
+    .brand {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
       font-family: 'Poppins', sans-serif;
-      line-height: 1.15;
-      margin: 0 0 1rem;
-      color: #13201d;
+      font-weight: 800;
+      font-size: 1.15rem;
+      color: var(--primary-dark);
     }
-    h1 { font-size: clamp(2.5rem, 6vw, 4.7rem); font-weight: 800; }
-    h2 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; }
-    h3 { font-size: 1.2rem; font-weight: 700; }
-    p { margin: 0 0 1rem; color: var(--muted); }
+
+    .brand-mark {
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      background: linear-gradient(135deg, var(--primary), #4f9271);
+      color: white;
+      display: grid;
+      place-items: center;
+      box-shadow: 0 10px 24px rgba(47, 107, 79, 0.28);
+      font-size: 1.1rem;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      color: var(--muted);
+      font-weight: 500;
+    }
+
+    .nav-links a:hover { color: var(--primary); }
+
+    .nav-actions {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+
+    .menu-toggle {
+      display: none;
+      background: transparent;
+      border: 0;
+      font-size: 1.65rem;
+      color: var(--primary-dark);
+      cursor: pointer;
+    }
 
     .btn {
       display: inline-flex;
       align-items: center;
       justify-content: center;
-      gap: .5rem;
-      padding: .95rem 1.35rem;
+      padding: 0.95rem 1.35rem;
       border-radius: 999px;
-      border: 2px solid transparent;
       font-weight: 700;
-      transition: .25s ease;
+      border: 1px solid transparent;
+      transition: 0.25s ease;
       cursor: pointer;
+      font-family: 'Inter', sans-serif;
     }
+
     .btn-primary {
       background: var(--primary);
-      color: #fff;
-      box-shadow: 0 12px 24px rgba(47, 109, 98, 0.25);
+      color: var(--white);
+      box-shadow: 0 12px 28px rgba(47, 107, 79, 0.22);
     }
-    .btn-primary:hover { background: var(--primary-dark); transform: translateY(-2px); }
-    .btn-secondary {
-      background: #fff;
-      color: var(--primary);
-      border-color: var(--border);
-    }
-    .btn-secondary:hover { border-color: var(--primary); transform: translateY(-2px); }
 
-    .site-header {
-      position: sticky;
-      top: 0;
-      z-index: 50;
-      background: rgba(248, 251, 249, 0.88);
-      backdrop-filter: blur(12px);
-      border-bottom: 1px solid rgba(220, 232, 227, 0.75);
+    .btn-primary:hover { background: var(--primary-dark); transform: translateY(-1px); }
+
+    .btn-secondary {
+      background: rgba(255,255,255,0.72);
+      color: var(--primary-dark);
+      border-color: rgba(47, 107, 79, 0.15);
     }
-    .nav {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      min-height: 78px;
-      gap: 1rem;
-    }
-    .brand {
-      display: flex;
-      align-items: center;
-      gap: .8rem;
-      font-family: 'Poppins', sans-serif;
-      font-weight: 800;
-      font-size: 1.1rem;
-      color: #14211e;
-    }
-    .brand-mark {
-      width: 44px;
-      height: 44px;
-      border-radius: 14px;
-      display: grid;
-      place-items: center;
-      background: linear-gradient(135deg, var(--primary), #4f988a);
-      color: #fff;
-      box-shadow: 0 10px 20px rgba(47, 109, 98, 0.25);
-      font-size: 1.2rem;
-    }
-    .nav-links {
-      display: flex;
-      align-items: center;
-      gap: 1.25rem;
-    }
-    .nav-links a {
-      color: var(--muted);
-      font-weight: 600;
-    }
-    .nav-links a:hover,
-    .nav-links a.active { color: var(--primary); }
-    .menu-toggle {
-      display: none;
-      background: none;
-      border: none;
-      font-size: 1.75rem;
-      color: var(--primary);
-      cursor: pointer;
-    }
+
+    .btn-secondary:hover { border-color: var(--primary); color: var(--primary); }
 
     .hero {
       position: relative;
       overflow: hidden;
-      padding: 4rem 0 5rem;
-      background:
-        linear-gradient(120deg, rgba(19,32,29,0.82), rgba(47,109,98,0.58)),
-        url('https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
-      color: #fff;
+      padding: 5.5rem 0 4rem;
     }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(120deg, rgba(31,42,36,0.84) 0%, rgba(47,107,79,0.68) 45%, rgba(232,168,94,0.22) 100%),
+        url('https://images.unsplash.com/photo-1517849845537-4d257902454a?auto=format&fit=crop&w=1600&q=80') center/cover no-repeat;
+      z-index: -2;
+    }
+
     .hero::after {
       content: '';
       position: absolute;
-      inset: auto -5% -60px;
-      height: 140px;
-      background: var(--bg);
-      border-top-left-radius: 50% 100%;
-      border-top-right-radius: 50% 100%;
+      inset: auto auto -120px -60px;
+      width: 320px;
+      height: 320px;
+      background: radial-gradient(circle, rgba(232,168,94,0.28), transparent 68%);
+      z-index: -1;
     }
+
     .hero-grid {
-      position: relative;
-      z-index: 1;
       display: grid;
-      grid-template-columns: 1.15fr .85fr;
-      gap: 2rem;
+      grid-template-columns: 1.15fr 0.85fr;
       align-items: center;
-      min-height: 74vh;
+      gap: 2rem;
+      min-height: 72vh;
     }
-    .hero p {
-      color: rgba(255,255,255,0.88);
+
+    .hero-copy {
+      color: var(--white);
       max-width: 640px;
-      font-size: 1.08rem;
     }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+      padding: 0.45rem 0.85rem;
+      border-radius: 999px;
+      background: rgba(255,255,255,0.14);
+      border: 1px solid rgba(255,255,255,0.16);
+      font-weight: 600;
+      margin-bottom: 1rem;
+      font-size: 0.95rem;
+    }
+
+    h1, h2, h3, h4 {
+      font-family: 'Poppins', sans-serif;
+      line-height: 1.15;
+      margin: 0 0 1rem;
+    }
+
+    h1 {
+      font-size: clamp(2.6rem, 6vw, 4.8rem);
+      font-weight: 800;
+      letter-spacing: -0.03em;
+    }
+
+    .hero-copy p {
+      font-size: 1.08rem;
+      color: rgba(255,255,255,0.9);
+      max-width: 58ch;
+      margin-bottom: 1.6rem;
+    }
+
     .hero-actions {
       display: flex;
       flex-wrap: wrap;
-      gap: 1rem;
-      margin-top: 1.7rem;
-    }
-    .hero-card {
-      background: rgba(255,255,255,0.12);
-      border: 1px solid rgba(255,255,255,0.18);
-      backdrop-filter: blur(10px);
-      border-radius: 24px;
-      padding: 1.4rem;
-      box-shadow: var(--shadow);
-      justify-self: end;
-      width: min(100%, 390px);
-    }
-    .hero-card h3, .hero-card p { color: #fff; }
-    .hero-list {
-      list-style: none;
-      padding: 0;
-      margin: 1rem 0 0;
-      display: grid;
-      gap: .9rem;
-    }
-    .hero-list li {
-      display: flex;
-      gap: .8rem;
-      align-items: flex-start;
-      color: rgba(255,255,255,0.92);
-    }
-    .hero-list span {
-      width: 28px;
-      height: 28px;
-      border-radius: 50%;
-      background: var(--secondary);
-      color: #13201d;
-      display: inline-grid;
-      place-items: center;
-      font-weight: 800;
-      flex: 0 0 28px;
-    }
-
-    .stats {
-      margin-top: -2rem;
-      position: relative;
-      z-index: 2;
-    }
-    .stats-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 1rem;
-    }
-    .stat-card {
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 1.5rem;
-      box-shadow: var(--shadow);
-      text-align: center;
-    }
-    .stat-card strong {
-      display: block;
-      font-family: 'Poppins', sans-serif;
-      font-size: 2rem;
-      color: var(--primary);
-    }
-    .stat-card span { color: var(--muted); font-weight: 600; }
-
-    .intro {
-      display: grid;
-      grid-template-columns: .95fr 1.05fr;
-      gap: 2rem;
-      align-items: center;
-    }
-    .about-card {
-      background: linear-gradient(180deg, #ffffff, #f3f8f6);
-      border: 1px solid var(--border);
-      border-radius: 28px;
-      padding: 2rem;
-      box-shadow: var(--shadow);
-      position: relative;
-      overflow: hidden;
-    }
-    .about-card::before {
-      content: '';
-      position: absolute;
-      width: 180px;
-      height: 180px;
-      right: -50px;
-      top: -50px;
-      background: rgba(242,184,75,0.16);
-      border-radius: 50%;
-    }
-    .badge-grid {
-      display: grid;
-      grid-template-columns: repeat(2, 1fr);
-      gap: 1rem;
-      margin-top: 1.5rem;
-    }
-    .badge {
-      background: var(--surface-alt);
-      border: 1px solid var(--border);
-      border-radius: 16px;
-      padding: 1rem;
-      font-weight: 700;
-      color: #19312b;
-    }
-
-    .feature-section {
-      background: linear-gradient(180deg, #ffffff, #f8fbf9);
-    }
-    .section-heading {
-      display: flex;
-      align-items: end;
-      justify-content: space-between;
-      gap: 1rem;
+      gap: 0.9rem;
       margin-bottom: 2rem;
     }
-    .feature-grid {
+
+    .hero-stats {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0,1fr));
+      gap: 1rem;
+      max-width: 560px;
+    }
+
+    .stat {
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.15);
+      backdrop-filter: blur(12px);
+      padding: 1rem;
+      border-radius: 18px;
+    }
+
+    .stat strong {
+      display: block;
+      font-size: 1.35rem;
+      color: var(--white);
+      font-family: 'Poppins', sans-serif;
+    }
+
+    .stat span {
+      font-size: 0.95rem;
+      color: rgba(255,255,255,0.78);
+    }
+
+    .hero-card {
+      justify-self: end;
+      width: min(100%, 420px);
+      background: rgba(255,255,255,0.92);
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 28px;
+      padding: 1.4rem;
+      box-shadow: var(--shadow);
+    }
+
+    .hero-card .badge {
+      display: inline-block;
+      color: var(--primary);
+      background: rgba(47, 107, 79, 0.1);
+      padding: 0.4rem 0.75rem;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 0.84rem;
+      margin-bottom: 0.9rem;
+    }
+
+    .hero-card h3 { font-size: 1.4rem; color: var(--primary-dark); }
+    .hero-card p { color: var(--muted); margin-top: 0; }
+
+    .checklist {
+      display: grid;
+      gap: 0.85rem;
+      margin: 1.15rem 0 1.4rem;
+      padding: 0;
+      list-style: none;
+    }
+
+    .checklist li {
+      display: flex;
+      gap: 0.8rem;
+      align-items: flex-start;
+      color: var(--text);
+    }
+
+    .checklist i {
+      width: 26px;
+      height: 26px;
+      border-radius: 50%;
+      flex: 0 0 26px;
+      display: grid;
+      place-items: center;
+      background: rgba(47, 107, 79, 0.12);
+      color: var(--primary);
+      font-style: normal;
+      font-size: 0.9rem;
+      font-weight: 800;
+    }
+
+    section {
+      padding: 5rem 0;
+    }
+
+    .section-head {
+      text-align: center;
+      max-width: 720px;
+      margin: 0 auto 3rem;
+    }
+
+    .section-head h2 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      color: var(--primary-dark);
+    }
+
+    .section-head p {
+      color: var(--muted);
+      margin: 0;
+      font-size: 1.02rem;
+    }
+
+    .features-grid {
       display: grid;
       grid-template-columns: repeat(3, 1fr);
       gap: 1.25rem;
     }
+
     .feature-card {
-      background: var(--surface);
+      background: var(--white);
       border: 1px solid var(--border);
-      border-radius: 22px;
-      padding: 1.6rem;
-      box-shadow: var(--shadow);
-      transition: .25s ease;
+      border-radius: var(--radius);
+      padding: 1.5rem;
+      box-shadow: 0 12px 34px rgba(20, 35, 28, 0.05);
     }
-    .feature-card:hover { transform: translateY(-6px); }
-    .feature-icon {
+
+    .icon {
       width: 56px;
       height: 56px;
       border-radius: 16px;
       display: grid;
       place-items: center;
-      background: rgba(47, 109, 98, 0.12);
-      color: var(--primary);
-      font-size: 1.4rem;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      background: linear-gradient(135deg, rgba(47,107,79,0.14), rgba(232,168,94,0.22));
+    }
+
+    .feature-card h3 { margin-bottom: 0.55rem; color: var(--primary-dark); }
+    .feature-card p { margin: 0; color: var(--muted); }
+
+    .about-wrap {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      align-items: center;
+    }
+
+    .about-image {
+      border-radius: 28px;
+      overflow: hidden;
+      min-height: 460px;
+      background:
+        linear-gradient(180deg, rgba(47,107,79,0.08), rgba(47,107,79,0.02)),
+        url('https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=1200&q=80') center/cover no-repeat;
+      box-shadow: var(--shadow);
+    }
+
+    .about-copy .mini {
+      color: var(--secondary);
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      font-size: 0.85rem;
+      margin-bottom: 0.8rem;
+    }
+
+    .about-copy h2 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      color: var(--primary-dark);
       margin-bottom: 1rem;
     }
 
-    .articles-grid {
+    .about-copy p {
+      color: var(--muted);
+      margin-bottom: 1rem;
+    }
+
+    .bullet-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.25rem;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 1rem;
+      margin-top: 1.5rem;
     }
-    .article-card {
-      background: var(--surface);
-      border-radius: 22px;
-      overflow: hidden;
+
+    .bullet {
+      background: var(--white);
       border: 1px solid var(--border);
-      box-shadow: var(--shadow);
+      border-radius: 18px;
+      padding: 1rem;
     }
-    .article-card img {
-      width: 100%;
-      height: 220px;
-      object-fit: cover;
+
+    .bullet strong {
+      display: block;
+      color: var(--primary-dark);
+      margin-bottom: 0.35rem;
+      font-family: 'Poppins', sans-serif;
     }
-    .article-content { padding: 1.4rem; }
-    .chip {
-      display: inline-block;
-      padding: .35rem .7rem;
-      border-radius: 999px;
-      background: rgba(242,184,75,0.18);
-      color: #8c6113;
-      font-size: .78rem;
-      font-weight: 800;
-      letter-spacing: .03em;
-      text-transform: uppercase;
-      margin-bottom: .8rem;
+
+    .topics {
+      background: linear-gradient(180deg, rgba(47,107,79,0.04), rgba(232,168,94,0.08));
+    }
+
+    .topic-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    .topic {
+      background: rgba(255,255,255,0.84);
+      border: 1px solid rgba(47,107,79,0.1);
+      padding: 1.15rem;
+      border-radius: 18px;
+      text-align: center;
+      font-weight: 700;
+      color: var(--primary-dark);
     }
 
     .cta {
-      padding: 5rem 0;
+      padding-top: 2rem;
     }
+
     .cta-box {
-      background: linear-gradient(135deg, var(--primary), #3f8579);
-      color: #fff;
+      background: linear-gradient(135deg, var(--primary-dark), var(--primary));
+      color: var(--white);
       border-radius: 30px;
       padding: 3rem;
       display: grid;
-      grid-template-columns: 1.1fr .9fr;
-      gap: 2rem;
+      grid-template-columns: 1.1fr 0.9fr;
+      gap: 1.5rem;
       align-items: center;
-      box-shadow: 0 24px 50px rgba(47, 109, 98, 0.25);
-    }
-    .cta-box h2, .cta-box p { color: #fff; }
-    .cta-panel {
-      background: rgba(255,255,255,0.12);
-      border: 1px solid rgba(255,255,255,0.18);
-      border-radius: 22px;
-      padding: 1.5rem;
-    }
-    .cta-form {
-      display: flex;
-      gap: .75rem;
-      flex-wrap: wrap;
-      margin-top: 1rem;
-    }
-    .cta-form input {
-      flex: 1 1 220px;
-      min-width: 0;
-      border: none;
-      border-radius: 999px;
-      padding: 1rem 1.1rem;
-      font: inherit;
-      color: var(--text);
-    }
-    .cta-note {
-      margin-top: .8rem;
-      font-size: .92rem;
-      color: rgba(255,255,255,0.82);
+      box-shadow: var(--shadow);
     }
 
-    footer {
-      background: #13201d;
-      color: rgba(255,255,255,0.75);
-      padding: 2.5rem 0;
+    .cta-box h2 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      margin-bottom: 0.8rem;
     }
-    .footer-grid {
-      display: grid;
-      grid-template-columns: 1.2fr .8fr .8fr;
-      gap: 2rem;
-      align-items: start;
+
+    .cta-box p {
+      color: rgba(255,255,255,0.85);
+      margin: 0;
+      max-width: 60ch;
     }
-    .footer-title {
-      color: #fff;
-      font-family: 'Poppins', sans-serif;
-      font-weight: 700;
-      margin-bottom: .9rem;
-    }
-    .footer-links {
-      display: grid;
-      gap: .65rem;
-    }
-    .footer-links a:hover { color: #fff; }
-    .footer-bottom {
-      border-top: 1px solid rgba(255,255,255,0.1);
-      margin-top: 1.8rem;
-      padding-top: 1rem;
+
+    .cta-actions {
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-end;
       gap: 1rem;
       flex-wrap: wrap;
-      font-size: .95rem;
+    }
+
+    .cta .btn-secondary {
+      background: rgba(255,255,255,0.14);
+      color: var(--white);
+      border-color: rgba(255,255,255,0.2);
+    }
+
+    .cta .btn-secondary:hover { background: rgba(255,255,255,0.2); }
+
+    footer {
+      padding: 2rem 0 2.5rem;
+      color: var(--muted);
+    }
+
+    .footer-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1rem;
+      border-top: 1px solid rgba(47,107,79,0.1);
+      padding-top: 1.5rem;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
     }
 
     @media (max-width: 980px) {
       .hero-grid,
-      .intro,
+      .about-wrap,
       .cta-box,
-      .footer-grid,
-      .feature-grid,
-      .articles-grid,
-      .stats-grid {
-        grid-template-columns: 1fr 1fr;
+      .features-grid,
+      .topic-grid {
+        grid-template-columns: 1fr;
       }
-      .hero-card { justify-self: start; }
+
+      .hero-card { justify-self: stretch; }
+      .cta-actions { justify-content: flex-start; }
+      .features-grid { grid-template-columns: repeat(2, 1fr); }
+      .topic-grid { grid-template-columns: repeat(2, 1fr); }
     }
 
     @media (max-width: 760px) {
       .menu-toggle { display: block; }
       .nav-links {
         position: absolute;
-        top: 78px;
+        top: 76px;
         left: 0;
         right: 0;
-        background: rgba(248, 251, 249, 0.98);
-        backdrop-filter: blur(12px);
-        border-bottom: 1px solid var(--border);
-        padding: 1rem;
+        background: rgba(252, 252, 250, 0.98);
+        backdrop-filter: blur(16px);
+        border-bottom: 1px solid rgba(47, 107, 79, 0.08);
         display: none;
         flex-direction: column;
         align-items: flex-start;
+        padding: 1rem;
       }
+
       .nav-links.open { display: flex; }
-      .hero-grid,
-      .intro,
-      .cta-box,
-      .footer-grid,
-      .feature-grid,
-      .articles-grid,
-      .stats-grid,
-      .badge-grid {
-        grid-template-columns: 1fr;
+      .nav-actions .btn { display: none; }
+      .hero { padding-top: 3.5rem; }
+      .hero-stats,
+      .bullet-grid,
+      .features-grid,
+      .topic-grid { grid-template-columns: 1fr; }
+      .footer-inner {
+        flex-direction: column;
+        align-items: flex-start;
       }
-      .section { padding: 4rem 0; }
-      .hero { padding-top: 2.5rem; }
-      .hero::after { height: 90px; }
-      .section-heading { display: block; }
-      .cta-box { padding: 2rem; }
     }
   </style>
 </head>
 <body>
-  <header class="site-header">
+  <header class="topbar">
     <div class="container nav">
       <a href="index.html" class="brand" aria-label="The Dog Training Hub home">
         <span class="brand-mark">🐾</span>
         <span>The Dog Training Hub</span>
       </a>
-      <button class="menu-toggle" aria-label="Open navigation" id="menuToggle">☰</button>
+
+      <button class="menu-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="navLinks">☰</button>
+
       <nav class="nav-links" id="navLinks">
-        <a href="index.html" class="active">Home</a>
+        <a href="index.html">Home</a>
         <a href="about.html">About</a>
+        <a href="#features">Topics</a>
+        <a href="#resources">Resources</a>
         <a href="contact.html">Contact</a>
-        <a href="#guides">Guides</a>
       </nav>
+
+      <div class="nav-actions">
+        <a class="btn btn-primary" href="contact.html">Get Training Help</a>
+      </div>
     </div>
   </header>
 
   <main>
     <section class="hero">
       <div class="container hero-grid">
-        <div>
-          <span class="eyebrow">Expert Dog Training Advice</span>
-          <h1>Practical training tips for better behavior every day.</h1>
-          <p>The Dog Training Hub delivers trusted guidance for puppy training, leash manners, obedience, separation anxiety, and everyday behavior challenges—so you can build a calmer, happier relationship with your dog.</p>
+        <div class="hero-copy">
+          <div class="eyebrow">Trusted tips for everyday dog owners</div>
+          <h1>Build better behavior with calm, proven dog training advice.</h1>
+          <p>The Dog Training Hub brings you practical puppy guides, obedience routines, leash training tips, and behavior solutions you can use right away—whether you're raising a new pup or working through tough habits.</p>
           <div class="hero-actions">
-            <a href="contact.html" class="btn btn-primary">Get Training Help</a>
-            <a href="#guides" class="btn btn-secondary">Explore Articles</a>
+            <a href="contact.html" class="btn btn-primary">Start Training Today</a>
+            <a href="about.html" class="btn btn-secondary">Learn More</a>
+          </div>
+          <div class="hero-stats">
+            <div class="stat">
+              <strong>Daily</strong>
+              <span>Fresh training articles</span>
+            </div>
+            <div class="stat">
+              <strong>Positive</strong>
+              <span>Reward-based guidance</span>
+            </div>
+            <div class="stat">
+              <strong>Real-Life</strong>
+              <span>Solutions for common issues</span>
+            </div>
           </div>
         </div>
-        <aside class="hero-card">
-          <h3>What you'll find here</h3>
-          <p>Clear, actionable advice designed for real dog owners at every stage.</p>
-          <ul class="hero-list">
-            <li><span>✓</span> Step-by-step obedience and puppy routines</li>
-            <li><span>✓</span> Simple fixes for barking, pulling, and anxiety</li>
-            <li><span>✓</span> Daily articles written in a friendly, practical style</li>
+
+        <aside class="hero-card" aria-label="Featured training topics">
+          <span class="badge">Popular Topics</span>
+          <h3>What dog owners are learning now</h3>
+          <p>Actionable help for the challenges that matter most at home, on walks, and during every stage of your dog's development.</p>
+          <ul class="checklist">
+            <li><i>✓</i><span>Puppy crate routines and potty training schedules</span></li>
+            <li><i>✓</i><span>Leash manners for calm, enjoyable walks</span></li>
+            <li><i>✓</i><span>Separation anxiety support and confidence building</span></li>
+            <li><i>✓</i><span>Obedience basics like sit, stay, recall, and focus</span></li>
           </ul>
+          <a href="contact.html" class="btn btn-primary" style="width:100%;">Ask a Training Question</a>
         </aside>
       </div>
     </section>
 
-    <section class="stats">
-      <div class="container stats-grid">
-        <div class="stat-card"><strong>Daily</strong><span>Fresh training articles</span></div>
-        <div class="stat-card"><strong>4+</strong><span>Core behavior categories</span></div>
-        <div class="stat-card"><strong>Easy</strong><span>Actionable, beginner-friendly guides</span></div>
-        <div class="stat-card"><strong>Positive</strong><span>Reward-based methods</span></div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="container intro">
-        <div>
-          <span class="eyebrow">Why Dog Owners Trust Us</span>
-          <h2>Training support that feels practical, calm, and encouraging.</h2>
-          <p>We know dog training can feel overwhelming, especially when you're dealing with a new puppy or a frustrating behavior issue. That's why our content focuses on realistic routines, positive reinforcement, and easy-to-follow strategies you can use right away.</p>
-          <p>Whether you're teaching basic commands, improving leash walking, or helping your dog feel secure when left alone, The Dog Training Hub is built to guide you one step at a time.</p>
-          <a href="about.html" class="btn btn-primary">Learn More About Us</a>
-        </div>
-        <div class="about-card">
-          <h3>Popular topics readers love</h3>
-          <div class="badge-grid">
-            <div class="badge">Puppy potty training</div>
-            <div class="badge">Leash pulling solutions</div>
-            <div class="badge">Separation anxiety help</div>
-            <div class="badge">Basic obedience tips</div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section feature-section" id="guides">
+    <section id="features">
       <div class="container">
-        <div class="section-heading">
-          <div>
-            <span class="eyebrow">Core Training Areas</span>
-            <h2>Everything you need to raise a well-mannered dog.</h2>
-          </div>
-          <p>From first-week puppy routines to resolving common behavior issues, our guides are written to be clear, supportive, and effective.</p>
+        <div class="section-head">
+          <h2>Training support for every stage of dog ownership</h2>
+          <p>From first-week puppy questions to long-term behavior challenges, our content is designed to be encouraging, practical, and easy to follow.</p>
         </div>
-        <div class="feature-grid">
+        <div class="features-grid">
           <article class="feature-card">
-            <div class="feature-icon">🦴</div>
-            <h3>Obedience Training</h3>
-            <p>Master foundational commands like sit, stay, come, and leave it with reward-based techniques that build trust and consistency.</p>
-          </article>
-          <article class="feature-card">
-            <div class="feature-icon">🐶</div>
+            <div class="icon">🦴</div>
             <h3>Puppy Guides</h3>
-            <p>Set your puppy up for success with routines for crate training, socialization, potty training, and bite inhibition.</p>
+            <p>Step-by-step help with potty training, crate introduction, socialization, biting, routines, and early confidence building.</p>
           </article>
           <article class="feature-card">
-            <div class="feature-icon">🦮</div>
-            <h3>Leash Training</h3>
-            <p>Turn stressful walks into calm outings with simple strategies to reduce pulling, reactivity, and outdoor distractions.</p>
+            <div class="icon">🦮</div>
+            <h3>Obedience Training</h3>
+            <p>Master foundation behaviors such as sit, down, stay, leave it, recall, and polite greetings with clear, consistent methods.</p>
           </article>
           <article class="feature-card">
-            <div class="feature-icon">🏠</div>
-            <h3>Separation Anxiety</h3>
-            <p>Help your dog feel more confident alone through gradual training plans, management tips, and routine adjustments.</p>
-          </article>
-          <article class="feature-card">
-            <div class="feature-icon">🔊</div>
+            <div class="icon">🏡</div>
             <h3>Behavior Solutions</h3>
-            <p>Tackle barking, jumping, chewing, digging, and other common concerns with practical, humane approaches.</p>
-          </article>
-          <article class="feature-card">
-            <div class="feature-icon">📘</div>
-            <h3>Daily Articles</h3>
-            <p>Stay inspired with fresh, easy-to-read posts covering training routines, mindset tips, and expert insights.</p>
+            <p>Explore strategies for separation anxiety, barking, reactivity, chewing, jumping, and other everyday challenges.</p>
           </article>
         </div>
       </div>
     </section>
 
-    <section class="section">
-      <div class="container">
-        <div class="section-heading">
-          <div>
-            <span class="eyebrow">Latest Reading Ideas</span>
-            <h2>Featured training topics.</h2>
+    <section id="resources">
+      <div class="container about-wrap">
+        <div class="about-image" role="img" aria-label="Dog trainer working with a dog outdoors"></div>
+        <div class="about-copy">
+          <div class="mini">About the hub</div>
+          <h2>Helpful, humane training advice that fits real life.</h2>
+          <p>Great dog training is about communication, consistency, and trust. The Dog Training Hub focuses on practical routines and positive methods that help dogs learn with confidence.</p>
+          <p>Our mission is to make behavior guidance easier to understand for everyday pet parents—so you can spend less time guessing and more time building a strong relationship with your dog.</p>
+          <div class="bullet-grid">
+            <div class="bullet">
+              <strong>Positive methods</strong>
+              <span>Encouraging, reward-based approaches that support lasting progress.</span>
+            </div>
+            <div class="bullet">
+              <strong>Easy-to-follow tips</strong>
+              <span>Clear training steps for home, walks, travel, and daily routines.</span>
+            </div>
+            <div class="bullet">
+              <strong>Common issue support</strong>
+              <span>Guidance for anxiety, pulling, barking, and puppy problem-solving.</span>
+            </div>
+            <div class="bullet">
+              <strong>Trusted inspiration</strong>
+              <span>Motivating advice to help you stay consistent and see results.</span>
+            </div>
           </div>
-          <a href="contact.html" class="btn btn-secondary">Request a Topic</a>
         </div>
-        <div class="articles-grid">
-          <article class="article-card">
-            <img src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?auto=format&fit=crop&w=900&q=80" alt="Dog walking nicely on a leash" />
-            <div class="article-content">
-              <span class="chip">Leash Training</span>
-              <h3>5 ways to stop leash pulling without frustration</h3>
-              <p>Discover simple changes that teach your dog to focus and walk calmly by your side.</p>
-            </div>
-          </article>
-          <article class="article-card">
-            <img src="https://images.unsplash.com/photo-1518717758536-85ae29035b6d?auto=format&fit=crop&w=900&q=80" alt="Cute puppy resting indoors" />
-            <div class="article-content">
-              <span class="chip">Puppy Guide</span>
-              <h3>Your first 7 days with a new puppy: a calm start plan</h3>
-              <p>Create structure from day one with feeding, naps, potty breaks, and bonding routines.</p>
-            </div>
-          </article>
-          <article class="article-card">
-            <img src="https://images.unsplash.com/photo-1507146426996-ef05306b995a?auto=format&fit=crop&w=900&q=80" alt="Dog sitting and waiting for command" />
-            <div class="article-content">
-              <span class="chip">Obedience</span>
-              <h3>How to build a reliable recall your dog responds to</h3>
-              <p>Learn how consistency, rewards, and the right practice environment improve recall fast.</p>
-            </div>
-          </article>
+      </div>
+    </section>
+
+    <section class="topics">
+      <div class="container">
+        <div class="section-head">
+          <h2>Explore the most popular training topics</h2>
+          <p>Browse the core areas dog owners come back to again and again for practical guidance.</p>
+        </div>
+        <div class="topic-grid">
+          <div class="topic">Puppy Potty Training</div>
+          <div class="topic">Leash Training</div>
+          <div class="topic">Separation Anxiety</div>
+          <div class="topic">Recall & Focus</div>
+          <div class="topic">Stopping Jumping</div>
+          <div class="topic">Crate Training</div>
+          <div class="topic">Barking Control</div>
+          <div class="topic">Calm Home Routines</div>
         </div>
       </div>
     </section>
@@ -635,17 +670,12 @@
       <div class="container">
         <div class="cta-box">
           <div>
-            <span class="eyebrow" style="background: rgba(255,255,255,0.16); color: #fff;">Join Our Community</span>
-            <h2>Get fresh dog training tips delivered regularly.</h2>
-            <p>Stay in the loop with practical guidance on puppy habits, obedience, behavior fixes, and confidence-building routines for everyday life.</p>
+            <h2>Ready to make training feel simpler?</h2>
+            <p>Whether you need help with a new puppy, better walks, or behavior improvement at home, The Dog Training Hub is here to guide your next step.</p>
           </div>
-          <div class="cta-panel">
-            <h3>Subscribe for updates</h3>
-            <form class="cta-form">
-              <input type="email" placeholder="Enter your email address" aria-label="Email address" />
-              <button type="submit" class="btn btn-primary" style="background:#fff;color:var(--primary);box-shadow:none;">Subscribe</button>
-            </form>
-            <p class="cta-note">Helpful dog training content. No spam. Just practical advice you can use.</p>
+          <div class="cta-actions">
+            <a href="contact.html" class="btn btn-primary">Contact Us</a>
+            <a href="about.html" class="btn btn-secondary">Why Our Approach Works</a>
           </div>
         </div>
       </div>
@@ -653,45 +683,28 @@
   </main>
 
   <footer>
-    <div class="container">
-      <div class="footer-grid">
-        <div>
-          <div class="brand" style="color:#fff; margin-bottom: .8rem;">
-            <span class="brand-mark">🐾</span>
-            <span>The Dog Training Hub</span>
-          </div>
-          <p>Expert dog training tips, puppy guides, and behavior solutions to help you raise a confident, well-behaved companion.</p>
-        </div>
-        <div>
-          <div class="footer-title">Explore</div>
-          <div class="footer-links">
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
-          </div>
-        </div>
-        <div>
-          <div class="footer-title">Topics</div>
-          <div class="footer-links">
-            <a href="#guides">Obedience Training</a>
-            <a href="#guides">Puppy Guides</a>
-            <a href="#guides">Separation Anxiety</a>
-          </div>
-        </div>
+    <div class="container footer-inner">
+      <div>
+        <strong style="color:#234F3A; font-family:'Poppins',sans-serif;">The Dog Training Hub</strong><br />
+        Expert dog training tips, puppy guides, and behavior solutions.
       </div>
-      <div class="footer-bottom">
-        <span>© 2026 The Dog Training Hub. All rights reserved.</span>
-        <span>Built for dog owners who want calm, confident progress.</span>
+      <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
       </div>
     </div>
   </footer>
 
   <script>
-    const menuToggle = document.getElementById('menuToggle');
+    const toggle = document.querySelector('.menu-toggle');
     const navLinks = document.getElementById('navLinks');
-    menuToggle.addEventListener('click', () => {
-      navLinks.classList.toggle('open');
-    });
+    if (toggle && navLinks) {
+      toggle.addEventListener('click', () => {
+        navLinks.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', navLinks.classList.contains('open'));
+      });
+    }
   </script>
 </body>
 </html>
