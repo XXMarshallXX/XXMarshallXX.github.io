@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "ChatGPT for Business: How to Save 10+ Hours a Week, Cut Costs, and Scale Content, Sales, and Support with AI",
+      "slug": "chatgpt-for-business-how-to-save-10+-hours-a-week-cut-costs-",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/ebook-chatgpt-for-business-how-to-save-10+-hours-a-week-cut-costs-/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-20T10:19:10.340686"
+    },
+    {
+      "type": "ebook",
       "title": "Stop Dog Behavior Problems Fast",
       "slug": "stop-dog-behavior-problems-fast",
       "category": "Dog Training",
@@ -887,5 +898,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:13:34.955864"
+  "last_updated": "2026-03-20T10:19:10.340735"
 }
