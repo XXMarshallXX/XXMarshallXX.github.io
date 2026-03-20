@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at the Open-Source AI Hardware Project",
+      "slug": "what-is-openclaw-and-why-i-built-it",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "Discover what OpenClaw is, why I built this open-source AI hardware project, and how developers can follow the build on GitHub.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/what-is-openclaw-and-why-i-built-it/index.html",
+      "published_at": "2026-03-20T10:05:30.003031",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260320.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Products, Smaller Teams",
       "slug": "how-ai-is-changing-indie-dev-in-2025",
       "niche": "Tech / AI / Developer",
@@ -169,16 +179,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/18/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
       "published_at": "2026-03-18T10:06:26.270050",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260318.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "What Is OpenClaw and Why I Built It: The Story Behind an Open-Source AI Hardware Project",
-      "slug": "what-is-openclaw-and-why-i-built-it",
-      "niche": "OpenClaw / GitHub Builds",
-      "meta_description": "What OpenClaw is, why I built it, and how this open-source AI hardware project helps developers and makers build in public.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/what-is-openclaw-and-why-i-built-it/index.html",
-      "published_at": "2026-03-18T10:03:46.292497",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260318.png"
     },
     {
       "type": "blog_post",
@@ -887,5 +887,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:04:05.587102"
+  "last_updated": "2026-03-20T10:05:30.003077"
 }
