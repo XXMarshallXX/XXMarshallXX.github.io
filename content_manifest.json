@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions",
+      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
+      "published_at": "2026-03-21T10:08:47.845285",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260321.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Getting Started With LLM-Powered Automation: A Practical Guide for Developers",
       "slug": "getting-started-with-llm-powered-automation",
       "niche": "Tech / AI / Developer",
@@ -269,16 +279,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/17/15-minute-daily-dog-training-routine/index.html",
       "published_at": "2026-03-17T10:03:45.341086",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine_20260317.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: A Practical Guide for Better Training",
-      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
-      "published_at": "2026-03-16T10:15:41.910545",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260316.png"
     },
     {
       "type": "blog_post",
@@ -942,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:07:29.184994"
+  "last_updated": "2026-03-21T10:08:47.845334"
 }
