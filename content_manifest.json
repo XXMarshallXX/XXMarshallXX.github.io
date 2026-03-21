@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Pet Accessories Business Blueprint",
+      "slug": "the-pet-accessories-business-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/ebook-the-pet-accessories-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-21T10:44:32.388848"
+    },
+    {
+      "type": "ebook",
       "title": "Python Automation for Beginners: Build Time-Saving Scripts in 7 Days",
       "slug": "python-automation-for-beginners-build-time-saving-scripts-in",
       "category": "AI & Automation",
@@ -788,17 +799,6 @@
     },
     {
       "type": "ebook",
-      "title": "The Pet Accessories Business Blueprint",
-      "slug": "the-pet-accessories-business-blueprint",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/12/ebook-the-pet-accessories-business-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-12T10:21:32.169329"
-    },
-    {
-      "type": "ebook",
       "title": "The Senior Dog Care Blueprint",
       "slug": "the-senior-dog-care-blueprint",
       "category": "Dog Training",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:38:10.030111"
+  "last_updated": "2026-03-21T10:44:32.388904"
 }
