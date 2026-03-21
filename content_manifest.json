@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
+      "slug": "0-to-1000-month-etsy-blueprint",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn the $0 to $1,000/month Etsy blueprint with digital products, SEO, automation, and no inventory or upfront costs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/0-to-1000-month-etsy-blueprint/index.html",
+      "published_at": "2026-03-21T10:14:01.964716",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_0-to-1000-month-etsy-blueprint_20260321.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Choose the Right Dog Collar for Your Breed: A Practical Guide for Every Pup",
       "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
       "niche": "Pet Products & SnoutAndAbout",
@@ -299,16 +309,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/17/15-minute-daily-dog-training-routine/index.html",
       "published_at": "2026-03-17T10:03:45.341086",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine_20260317.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
-      "slug": "0-to-1000-month-etsy-blueprint",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn the $0 to $1,000/month Etsy blueprint with digital products, SEO, and automation\u2014no inventory, no upfront cost required.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/0-to-1000-month-etsy-blueprint/index.html",
-      "published_at": "2026-03-16T10:11:51.657686",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_0-to-1000-month-etsy-blueprint_20260316.png"
     },
     {
       "type": "blog_post",
@@ -942,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:12:41.230925"
+  "last_updated": "2026-03-21T10:14:01.964761"
 }
