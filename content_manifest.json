@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open-Source AI Builder Project",
+      "slug": "what-is-openclaw-and-why-i-built-it",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "Discover what OpenClaw is, why I built it, and how this open-source AI builder project helps developers and makers build in public.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/what-is-openclaw-and-why-i-built-it/index.html",
+      "published_at": "2026-03-21T10:01:40.727960",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260321.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Personalized Cat Products That Actually Sell: Best-Selling Gift Ideas Pet Owners Love",
       "slug": "personalized-cat-products-that-actually-sell",
       "niche": "Pet Products & SnoutAndAbout",
@@ -49,16 +59,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/20/how-to-teach-your-dog-to-come-when-called-every-time/index.html",
       "published_at": "2026-03-20T10:07:50.625968",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-teach-your-dog-to-come-when-called-every-time_20260320.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at the Open-Source AI Hardware Project",
-      "slug": "what-is-openclaw-and-why-i-built-it",
-      "niche": "OpenClaw / GitHub Builds",
-      "meta_description": "Discover what OpenClaw is, why I built this open-source AI hardware project, and how developers can follow the build on GitHub.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/what-is-openclaw-and-why-i-built-it/index.html",
-      "published_at": "2026-03-20T10:05:30.003031",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260320.png"
     },
     {
       "type": "blog_post",
@@ -942,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-20T10:42:13.491478"
+  "last_updated": "2026-03-21T10:01:40.728012"
 }
