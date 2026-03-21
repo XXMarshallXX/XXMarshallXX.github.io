@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The One-Person Business Blueprint",
+      "slug": "the-one-person-business-blueprint",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/ebook-the-one-person-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-21T10:26:12.265687"
+    },
+    {
+      "type": "ebook",
       "title": "Stop Dog Behavior Problems Fast",
       "slug": "stop-dog-behavior-problems-fast",
       "category": "Dog Training",
@@ -499,17 +510,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-19T10:30:33.094019"
-    },
-    {
-      "type": "ebook",
-      "title": "The One-Person Business Blueprint",
-      "slug": "the-one-person-business-blueprint",
-      "category": "Entrepreneurship",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/ebook-the-one-person-business-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-19T10:24:54.829684"
     },
     {
       "type": "ebook",
@@ -942,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:20:26.702185"
+  "last_updated": "2026-03-21T10:26:12.265739"
 }
