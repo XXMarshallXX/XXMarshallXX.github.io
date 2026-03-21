@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Stop Dog Behavior Problems Fast",
+      "slug": "stop-dog-behavior-problems-fast",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/ebook-stop-dog-behavior-problems-fast/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-21T10:20:26.702129"
+    },
+    {
+      "type": "ebook",
       "title": "Print-on-Demand Pet Profits",
       "slug": "print-on-demand-pet-profits",
       "category": "Pet Products & Business",
@@ -466,17 +477,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-20T10:19:10.340686"
-    },
-    {
-      "type": "ebook",
-      "title": "Stop Dog Behavior Problems Fast",
-      "slug": "stop-dog-behavior-problems-fast",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/ebook-stop-dog-behavior-problems-fast/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-19T10:42:32.483815"
     },
     {
       "type": "ebook",
@@ -942,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:14:01.964761"
+  "last_updated": "2026-03-21T10:20:26.702185"
 }
