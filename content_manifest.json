@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Puppy Training Made Simple: The First 8 Weeks to a Calm, Obedient Dog",
+      "slug": "puppy-training-made-simple-the-first-8-weeks-to-a-calm-obedi",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/ebook-puppy-training-made-simple-the-first-8-weeks-to-a-calm-obedi/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-21T10:32:28.032429"
+    },
+    {
+      "type": "ebook",
       "title": "The One-Person Business Blueprint",
       "slug": "the-one-person-business-blueprint",
       "category": "Entrepreneurship",
@@ -942,5 +953,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:26:12.265739"
+  "last_updated": "2026-03-21T10:32:28.032486"
 }
