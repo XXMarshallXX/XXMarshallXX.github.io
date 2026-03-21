@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "7 Side Hustles You Can Automate With AI to Build Income Faster",
+      "slug": "7-side-hustles-you-can-automate-with-ai",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Discover 7 AI-powered side hustles you can automate to save time, scale faster, and build extra income with less manual work.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/7-side-hustles-you-can-automate-with-ai/index.html",
+      "published_at": "2026-03-21T10:06:09.967082",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_7-side-hustles-you-can-automate-with-ai_20260321.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Automating Print-on-Demand with AI and Etsy: A Practical Guide for Developers and Indie Hackers",
       "slug": "automating-print-on-demand-with-ai-and-etsy",
       "niche": "Tech / AI / Developer",
@@ -299,16 +309,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/16/15-minute-daily-training-routine-that-transforms-any-dog/index.html",
       "published_at": "2026-03-16T10:04:10.508675",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-training-routine-that-transforms-any-dog_20260316.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "7 Side Hustles You Can Automate With AI to Make More Money in Less Time",
-      "slug": "7-side-hustles-you-can-automate-with-ai",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Discover 7 AI-powered side hustles you can automate to save time, scale faster, and earn more as an entrepreneur or digital nomad.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/7-side-hustles-you-can-automate-with-ai/index.html",
-      "published_at": "2026-03-15T10:05:41.804881",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_7-side-hustles-you-can-automate-with-ai_20260315.png"
     },
     {
       "type": "blog_post",
@@ -942,5 +942,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:04:33.065708"
+  "last_updated": "2026-03-21T10:06:09.967126"
 }
