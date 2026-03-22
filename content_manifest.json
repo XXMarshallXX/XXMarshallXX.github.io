@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
+      "slug": "15-minute-daily-dog-training-routine",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Discover the 15-minute daily dog training routine that builds focus, manners, and confidence in puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/15-minute-daily-dog-training-routine/index.html",
+      "published_at": "2026-03-22T10:10:26.943833",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine_20260322.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Tools, and New Competitive Edges",
       "slug": "how-ai-is-changing-indie-dev-in-2025",
       "niche": "Tech / AI / Developer",
@@ -299,16 +309,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/17/building-autonomous-agents-with-python-in-2025/index.html",
       "published_at": "2026-03-17T10:14:55.609666",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_building-autonomous-agents-with-python-in-2025_20260317.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
-      "slug": "15-minute-daily-dog-training-routine",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Discover the 15-minute daily dog training routine that builds focus, manners, and trust for puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/15-minute-daily-dog-training-routine/index.html",
-      "published_at": "2026-03-17T10:03:45.341086",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine_20260317.png"
     },
     {
       "type": "blog_post",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:09:10.581438"
+  "last_updated": "2026-03-22T10:10:26.943877"
 }
