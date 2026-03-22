@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2026 10:04:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 10:05:39 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How to Automate Your GitHub Workflow with AI: Practical Steps for Faster Reviews, Smarter Issues, and Better Shipping</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html</link>
+      <description>Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, and CI to ship faster with less manual work.</description>
+      <pubDate>2026-03-22</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html</guid>
+    </item>
     <item>
       <title>How to Teach Your Dog to Come When Called Every Time: A Reliable Recall Training Guide</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/22/how-to-teach-your-dog-to-come-when-called-every-time/index.html</link>
@@ -139,13 +146,6 @@
       <description>Spoil your dog on a budget with fun, affordable ideas, DIY treats, toys, and personalized gifts that make every pup feel extra loved.</description>
       <pubDate>2026-03-19</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/19/how-to-spoil-your-dog-without-breaking-the-bank/index.html</guid>
-    </item>
-    <item>
-      <title>Building an AI Morning Digest with Python and Claude: A Practical Behind-the-Scenes Guide</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/19/building-an-ai-morning-digest-with-python-and-claude/index.html</link>
-      <description>Learn how to build an AI morning digest with Python and Claude, from content collection to summarization and delivery.</description>
-      <pubDate>2026-03-19</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/19/building-an-ai-morning-digest-with-python-and-claude/index.html</guid>
     </item>
   </channel>
 </rss>
