@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Tools, and New Competitive Edges",
+      "slug": "how-ai-is-changing-indie-dev-in-2025",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover how AI is transforming indie dev in 2025, from coding and design to marketing, support, and autonomous product building.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/how-ai-is-changing-indie-dev-in-2025/index.html",
+      "published_at": "2026-03-22T10:09:10.581396",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-ai-is-changing-indie-dev-in-2025_20260322.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
       "slug": "why-custom-pet-portraits-make-perfect-gifts",
       "niche": "Pet Products & SnoutAndAbout",
@@ -159,16 +169,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/20/personalized-cat-products-that-actually-sell/index.html",
       "published_at": "2026-03-20T10:13:34.955819",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260320.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How AI Is Changing Indie Dev in 2025: Faster Building, Smarter Shipping, Bigger Leverage",
-      "slug": "how-ai-is-changing-indie-dev-in-2025",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Discover how AI is transforming indie development in 2025, from coding and design to marketing, support, and solo founder leverage.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/how-ai-is-changing-indie-dev-in-2025/index.html",
-      "published_at": "2026-03-20T10:12:06.055857",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-ai-is-changing-indie-dev-in-2025_20260320.png"
     },
     {
       "type": "blog_post",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:07:56.761312"
+  "last_updated": "2026-03-22T10:09:10.581438"
 }
