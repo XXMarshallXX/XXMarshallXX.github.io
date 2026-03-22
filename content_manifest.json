@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use AI to Run a One-Person Business Empire in 2026",
+      "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to use AI to build, automate, and scale a one-person business empire with smart systems, low costs, and higher profits.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
+      "published_at": "2026-03-22T10:11:41.521657",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260322.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The 15-Minute Daily Training Routine That Transforms Any Dog",
       "slug": "15-minute-daily-dog-training-routine",
       "niche": "Dog Training & Behavior",
@@ -279,16 +289,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/18/positive-reinforcement-vs-punishment-what-actually-works/index.html",
       "published_at": "2026-03-18T10:10:30.092540",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260318.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Use AI to Run a One-Person Business Empire",
-      "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how to use AI to build, automate, and scale a one-person business empire with smarter systems, faster execution, and low overhead.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
-      "published_at": "2026-03-18T10:06:26.270050",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260318.png"
     },
     {
       "type": "blog_post",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:10:26.943877"
+  "last_updated": "2026-03-22T10:11:41.521701"
 }
