@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Trending Pet Products on Etsy This Year: Must-Have Finds for Dogs, Cats, and Pet Lovers",
+      "slug": "trending-pet-products-on-etsy-this-year",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover trending pet products on Etsy this year, from personalized gifts to stylish accessories pet owners and dog lovers adore.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/trending-pet-products-on-etsy-this-year/index.html",
+      "published_at": "2026-03-22T10:06:48.767447",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_trending-pet-products-on-etsy-this-year_20260322.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Automate Your GitHub Workflow with AI: Practical Steps for Faster Reviews, Smarter Issues, and Better Shipping",
       "slug": "how-to-automate-your-github-workflow-with-ai",
       "niche": "Tech / AI / Developer",
@@ -169,16 +179,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/20/crate-training-a-new-puppy-the-complete-guide/index.html",
       "published_at": "2026-03-20T10:09:18.157320",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260320.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Trending Pet Products on Etsy This Year: Must-Have Finds for Stylish Pets and Thoughtful Gift Shoppers",
-      "slug": "trending-pet-products-on-etsy-this-year",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the trending pet products on Etsy this year, from personalized gifts to stylish accessories pet owners and dog lovers adore.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/trending-pet-products-on-etsy-this-year/index.html",
-      "published_at": "2026-03-20T10:02:45.746006",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_trending-pet-products-on-etsy-this-year_20260320.png"
     },
     {
       "type": "blog_post",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:05:39.503494"
+  "last_updated": "2026-03-22T10:06:48.767498"
 }
