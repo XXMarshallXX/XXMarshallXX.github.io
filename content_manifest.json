@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Automate Your GitHub Workflow with AI: Practical Steps for Faster Reviews, Smarter Issues, and Better Shipping",
+      "slug": "how-to-automate-your-github-workflow-with-ai",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, and CI to ship faster with less manual work.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html",
+      "published_at": "2026-03-22T10:05:39.503456",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260322.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Teach Your Dog to Come When Called Every Time: A Reliable Recall Training Guide",
       "slug": "how-to-teach-your-dog-to-come-when-called-every-time",
       "niche": "Dog Training & Behavior",
@@ -209,16 +219,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/19/passive-income-ideas-for-developers/index.html",
       "published_at": "2026-03-19T10:07:47.904979",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_passive-income-ideas-for-developers_20260319.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Automate Your GitHub Workflow with AI: Practical Strategies for Faster Shipping",
-      "slug": "how-to-automate-your-github-workflow-with-ai",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to automate your GitHub workflow with AI to review PRs, write issues, generate docs, and ship faster with practical examples.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/how-to-automate-your-github-workflow-with-ai/index.html",
-      "published_at": "2026-03-19T10:06:36.113642",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260319.png"
     },
     {
       "type": "blog_post",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:04:24.049806"
+  "last_updated": "2026-03-22T10:05:39.503494"
 }
