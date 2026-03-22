@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Print-on-Demand Is Still a Goldmine in 2025 for Entrepreneurs and Side Hustlers",
+      "slug": "why-print-on-demand-is-still-a-goldmine-in-2025",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Discover why print-on-demand is still a goldmine in 2025 and how entrepreneurs can build low-cost, automated income streams.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/why-print-on-demand-is-still-a-goldmine-in-2025/index.html",
+      "published_at": "2026-03-22T10:01:55.997641",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-print-on-demand-is-still-a-goldmine-in-2025_20260322.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
       "slug": "0-to-1000-month-etsy-blueprint",
       "niche": "Money-Making & Entrepreneurship",
@@ -259,16 +269,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/18/positive-reinforcement-vs-punishment-what-actually-works/index.html",
       "published_at": "2026-03-18T10:10:30.092540",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260318.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Print-on-Demand Is Still a Goldmine in 2025 for Entrepreneurs and Side Hustlers",
-      "slug": "why-print-on-demand-is-still-a-goldmine-in-2025",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Discover why print-on-demand is still a goldmine in 2025 and how entrepreneurs can build low-cost, scalable online income streams.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/18/why-print-on-demand-is-still-a-goldmine-in-2025/index.html",
-      "published_at": "2026-03-18T10:09:08.728629",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-print-on-demand-is-still-a-goldmine-in-2025_20260318.png"
     },
     {
       "type": "blog_post",
@@ -964,5 +964,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-21T10:44:32.388904"
+  "last_updated": "2026-03-22T10:01:55.997687"
 }
