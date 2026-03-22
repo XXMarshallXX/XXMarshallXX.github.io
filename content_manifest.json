@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Autonomous Income with AI",
+      "slug": "autonomous-income-with-ai",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/ebook-autonomous-income-with-ai/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-22T10:29:46.576294"
+    },
+    {
+      "type": "ebook",
       "title": "Etsy Shop Optimization for Pet Product Sellers",
       "slug": "etsy-shop-optimization-for-pet-product-sellers",
       "category": "Pet Products & Business",
@@ -975,5 +986,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:24:09.875749"
+  "last_updated": "2026-03-22T10:29:46.576349"
 }
