@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Fixing Dog Behavior Problems",
+      "slug": "fixing-dog-behavior-problems",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/ebook-fixing-dog-behavior-problems/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-22T10:35:39.755204"
+    },
+    {
+      "type": "ebook",
       "title": "Autonomous Income with AI",
       "slug": "autonomous-income-with-ai",
       "category": "AI & Automation",
@@ -986,5 +997,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:29:46.576349"
+  "last_updated": "2026-03-22T10:35:39.755272"
 }
