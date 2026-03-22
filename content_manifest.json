@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Advanced Obedience Mastery for Dogs",
+      "slug": "advanced-obedience-mastery-for-dogs",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/ebook-advanced-obedience-mastery-for-dogs/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-22T10:41:59.804624"
+    },
+    {
+      "type": "ebook",
       "title": "Fixing Dog Behavior Problems",
       "slug": "fixing-dog-behavior-problems",
       "category": "Dog Training",
@@ -587,17 +598,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-19T10:30:33.094019"
-    },
-    {
-      "type": "ebook",
-      "title": "Advanced Obedience Mastery for Dogs",
-      "slug": "advanced-obedience-mastery-for-dogs",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/ebook-advanced-obedience-mastery-for-dogs/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-19T10:19:24.084448"
     },
     {
       "type": "ebook",
@@ -997,5 +997,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-22T10:35:39.755272"
+  "last_updated": "2026-03-22T10:41:59.804685"
 }
