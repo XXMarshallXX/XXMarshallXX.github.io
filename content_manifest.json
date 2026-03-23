@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Pet Accessories Business Blueprint",
+      "slug": "the-pet-accessories-business-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-the-pet-accessories-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-23T10:30:44.304679"
+    },
+    {
+      "type": "ebook",
       "title": "The Passive Income Playbook for Entrepreneurs",
       "slug": "the-passive-income-playbook-for-entrepreneurs",
       "category": "Entrepreneurship",
@@ -488,17 +499,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-22T10:18:42.441258"
-    },
-    {
-      "type": "ebook",
-      "title": "The Pet Accessories Business Blueprint",
-      "slug": "the-pet-accessories-business-blueprint",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/ebook-the-pet-accessories-business-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-21T10:44:32.388848"
     },
     {
       "type": "ebook",
@@ -1008,5 +1008,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:24:51.978179"
+  "last_updated": "2026-03-23T10:30:44.304721"
 }
