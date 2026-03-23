@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 10:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:07:05 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Why Your Dog Doesn’t Listen and How to Fix It: A Science-Backed Guide for Better Behavior</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/23/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</link>
+      <description>Learn why your dog doesn’t listen and how to fix it with science-backed training tips for puppies, rescue dogs, and everyday behavior.</description>
+      <pubDate>2026-03-23</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/23/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</guid>
+    </item>
     <item>
       <title>Building an AI Morning Digest with Python and Claude: A Practical Behind-the-Scenes Guide</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/23/building-an-ai-morning-digest-with-python-and-claude/index.html</link>
@@ -125,13 +132,6 @@
       <description>Learn how to stop leash pulling with positive, science-backed dog training tips for puppies, rescues, and adult dogs.</description>
       <pubDate>2026-03-21</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/21/how-to-stop-your-dog-from-pulling-on-the-leash/index.html</guid>
-    </item>
-    <item>
-      <title>Why Your Dog Doesn’t Listen and How to Fix It: 7 Science-Backed Training Solutions</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/21/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</link>
-      <description>Learn why your dog doesn’t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.</description>
-      <pubDate>2026-03-21</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/21/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html</guid>
     </item>
     <item>
       <title>Getting Started With LLM-Powered Automation: A Practical Guide for Developers</title>
