@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Off-Leash Freedom",
+      "slug": "off-leash-freedom",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-off-leash-freedom/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-23T10:48:26.614411"
+    },
+    {
+      "type": "ebook",
       "title": "AI Agents That Work",
       "slug": "ai-agents-that-work",
       "category": "AI & Automation",
@@ -766,17 +777,6 @@
     },
     {
       "type": "ebook",
-      "title": "Off-Leash Freedom",
-      "slug": "off-leash-freedom",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/ebook-off-leash-freedom/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-15T10:43:15.517927"
-    },
-    {
-      "type": "ebook",
       "title": "AI-Powered E-Commerce Profits",
       "slug": "ai-powered-e-commerce-profits",
       "category": "AI & Automation",
@@ -1008,5 +1008,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:36:35.789562"
+  "last_updated": "2026-03-23T10:48:26.614459"
 }
