@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Mar 2026 10:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 10:10:59 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Separation Anxiety in Dogs: Signs, Causes, and Proven Solutions That Help</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/23/separation-anxiety-in-dogs-signs-causes-and-solutions/index.html</link>
+      <description>Learn the signs of separation anxiety in dogs and science-backed solutions to help your dog feel calm, safe, and confident home alone.</description>
+      <pubDate>2026-03-23</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/23/separation-anxiety-in-dogs-signs-causes-and-solutions/index.html</guid>
+    </item>
     <item>
       <title>Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, and Stay Lean</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/23/best-ai-tools-for-solo-developers/index.html</link>
@@ -139,13 +146,6 @@
       <description>Learn how to stop leash pulling with positive, science-backed dog training tips for puppies, rescues, and adult dogs.</description>
       <pubDate>2026-03-21</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/21/how-to-stop-your-dog-from-pulling-on-the-leash/index.html</guid>
-    </item>
-    <item>
-      <title>Getting Started With LLM-Powered Automation: A Practical Guide for Developers</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/21/getting-started-with-llm-powered-automation/index.html</link>
-      <description>Learn how to build LLM-powered automation with practical patterns, tools, prompts, and safeguards for developers and indie hackers.</description>
-      <pubDate>2026-03-21</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/21/getting-started-with-llm-powered-automation/index.html</guid>
     </item>
   </channel>
 </rss>
