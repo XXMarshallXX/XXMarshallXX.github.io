@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Crate Training Made Easy",
+      "slug": "crate-training-made-easy",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-crate-training-made-easy/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-23T10:18:52.221143"
+    },
+    {
+      "type": "ebook",
       "title": "Advanced Obedience Mastery for Dogs",
       "slug": "advanced-obedience-mastery-for-dogs",
       "category": "Dog Training",
@@ -788,17 +799,6 @@
     },
     {
       "type": "ebook",
-      "title": "Crate Training Made Easy",
-      "slug": "crate-training-made-easy",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/ebook-crate-training-made-easy/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-14T10:19:51.936710"
-    },
-    {
-      "type": "ebook",
       "title": "Loose Leash in 14 Days",
       "slug": "loose-leash-in-14-days",
       "category": "Dog Training",
@@ -997,5 +997,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:13:18.148234"
+  "last_updated": "2026-03-23T10:18:52.221197"
 }
