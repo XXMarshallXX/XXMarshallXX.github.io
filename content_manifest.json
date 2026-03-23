@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "AI Agents That Work",
+      "slug": "ai-agents-that-work",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-ai-agents-that-work/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-23T10:36:35.789509"
+    },
+    {
+      "type": "ebook",
       "title": "The Pet Accessories Business Blueprint",
       "slug": "the-pet-accessories-business-blueprint",
       "category": "Pet Products & Business",
@@ -909,17 +920,6 @@
     },
     {
       "type": "ebook",
-      "title": "AI Agents That Work",
-      "slug": "ai-agents-that-work",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/10/ebook-ai-agents-that-work/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-10T10:20:06.932871"
-    },
-    {
-      "type": "ebook",
       "title": "Loose Leash, Happy Walks",
       "slug": "loose-leash-happy-walks",
       "category": "Dog Training",
@@ -1008,5 +1008,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:30:44.304721"
+  "last_updated": "2026-03-23T10:36:35.789562"
 }
