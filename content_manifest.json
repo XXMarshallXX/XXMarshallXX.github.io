@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
+      "slug": "top-10-accessories-every-dog-owner-needs",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the top 10 accessories every dog owner needs for safety, comfort, travel, and style\u2014perfect for pet parents and gift shoppers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/top-10-accessories-every-dog-owner-needs/index.html",
+      "published_at": "2026-03-23T10:13:18.148191",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260323.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Separation Anxiety in Dogs: Signs, Causes, and Proven Solutions That Help",
       "slug": "separation-anxiety-in-dogs-signs-causes-and-solutions",
       "niche": "Dog Training & Behavior",
@@ -279,16 +289,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/19/passive-income-ideas-for-developers/index.html",
       "published_at": "2026-03-19T10:07:47.904979",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_passive-income-ideas-for-developers_20260319.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
-      "slug": "top-10-accessories-every-dog-owner-needs",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the top 10 dog accessories every owner needs for safety, comfort, travel, training, and style. Perfect for pet lovers and gift shoppers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/top-10-accessories-every-dog-owner-needs/index.html",
-      "published_at": "2026-03-19T10:05:11.108139",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260319.png"
     },
     {
       "type": "blog_post",
@@ -997,5 +997,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:10:59.088264"
+  "last_updated": "2026-03-23T10:13:18.148234"
 }
