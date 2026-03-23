@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Personalized Cat Products That Actually Sell: Best-Selling Gift Ideas Pet Owners Love",
+      "slug": "personalized-cat-products-that-actually-sell",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover personalized cat products that actually sell, from custom gifts to practical keepsakes cat lovers adore.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/personalized-cat-products-that-actually-sell/index.html",
+      "published_at": "2026-03-23T10:03:15.137156",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260323.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Make Passive Income With Print-on-Demand in 2025: A Practical Blueprint for Entrepreneurs",
       "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
       "niche": "Money-Making & Entrepreneurship",
@@ -189,16 +199,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/21/separation-anxiety-in-dogs-signs-causes-and-solutions/index.html",
       "published_at": "2026-03-21T10:03:08.627123",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_separation-anxiety-in-dogs-signs-causes-and-solutions_20260321.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Personalized Cat Products That Actually Sell: Best-Selling Gift Ideas Pet Owners Love",
-      "slug": "personalized-cat-products-that-actually-sell",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover personalized cat products that actually sell, from custom gifts to practical keepsakes pet owners love to buy and give.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/personalized-cat-products-that-actually-sell/index.html",
-      "published_at": "2026-03-20T10:13:34.955819",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260320.png"
     },
     {
       "type": "blog_post",
@@ -997,5 +997,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:01:52.591587"
+  "last_updated": "2026-03-23T10:03:15.137183"
 }
