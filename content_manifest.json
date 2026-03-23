@@ -414,6 +414,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Passive Income Playbook for Entrepreneurs",
+      "slug": "the-passive-income-playbook-for-entrepreneurs",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-the-passive-income-playbook-for-entrepreneurs/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-23T10:24:51.978126"
+    },
+    {
+      "type": "ebook",
       "title": "Crate Training Made Easy",
       "slug": "crate-training-made-easy",
       "category": "Dog Training",
@@ -997,5 +1008,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:18:52.221197"
+  "last_updated": "2026-03-23T10:24:51.978179"
 }
