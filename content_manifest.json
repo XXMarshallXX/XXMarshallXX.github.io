@@ -424,6 +424,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Crate Training Made Easy",
+      "slug": "crate-training-made-easy",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/ebook-crate-training-made-easy/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-24T10:19:41.815422"
+    },
+    {
+      "type": "ebook",
       "title": "Off-Leash Freedom",
       "slug": "off-leash-freedom",
       "category": "Dog Training",
@@ -465,17 +476,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-23T10:24:51.978126"
-    },
-    {
-      "type": "ebook",
-      "title": "Crate Training Made Easy",
-      "slug": "crate-training-made-easy",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-crate-training-made-easy/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-23T10:18:52.221143"
     },
     {
       "type": "ebook",
@@ -1018,5 +1018,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-24T10:13:46.785050"
+  "last_updated": "2026-03-24T10:19:41.815467"
 }
