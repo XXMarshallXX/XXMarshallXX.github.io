@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Connect OpenAI and Claude APIs in One Python Project: A Practical Builder\u2019s Guide",
+      "slug": "how-to-connect-openai-and-claude-apis-in-one-python-project",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "Learn how to connect OpenAI and Claude APIs in one Python project with clean architecture, code examples, routing, and real-world tips.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/how-to-connect-openai-and-claude-apis-in-one-python-project/index.html",
+      "published_at": "2026-03-24T10:02:47.540742",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-connect-openai-and-claude-apis-in-one-python-project_20260324.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Make Passive Income with Print-on-Demand in 2025: A Practical Blueprint for Beginners",
       "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
       "niche": "Money-Making & Entrepreneurship",
@@ -1008,5 +1018,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-24T10:01:21.131712"
+  "last_updated": "2026-03-24T10:02:47.540791"
 }
