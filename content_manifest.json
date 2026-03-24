@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions That Work",
+      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Discover why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
+      "published_at": "2026-03-24T10:12:16.933345",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260324.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Picks Dog Lovers Will Adore",
       "slug": "best-personalized-dog-gifts-under-50",
       "niche": "Pet Products & SnoutAndAbout",
@@ -119,16 +129,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/23/why-print-on-demand-is-still-a-goldmine-in-2025/index.html",
       "published_at": "2026-03-23T10:08:18.382300",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-print-on-demand-is-still-a-goldmine-in-2025_20260323.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: A Science-Backed Guide for Better Behavior",
-      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescue dogs, and everyday behavior.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
-      "published_at": "2026-03-23T10:07:05.294401",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260323.png"
     },
     {
       "type": "blog_post",
@@ -1018,5 +1018,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-24T10:10:53.173266"
+  "last_updated": "2026-03-24T10:12:16.933386"
 }
