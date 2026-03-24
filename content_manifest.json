@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Start an Etsy Shop With Zero Upfront Cost and Turn It Into Passive Income",
+      "slug": "start-etsy-shop-zero-upfront-cost",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to start an Etsy shop with zero upfront cost using free tools, print-on-demand, and digital products to build passive income.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/start-etsy-shop-zero-upfront-cost/index.html",
+      "published_at": "2026-03-24T10:06:55.587623",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_start-etsy-shop-zero-upfront-cost_20260324.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How AI Is Changing Indie Dev in 2025: Faster Building, Smarter Products, Smaller Teams",
       "slug": "how-ai-is-changing-indie-dev-in-2025",
       "niche": "Tech / AI / Developer",
@@ -349,16 +359,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/16/15-minute-daily-training-routine-that-transforms-any-dog/index.html",
       "published_at": "2026-03-16T10:04:10.508675",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-training-routine-that-transforms-any-dog_20260316.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Start an Etsy Shop With Zero Upfront Cost: A Practical Blueprint for Beginners",
-      "slug": "start-etsy-shop-zero-upfront-cost",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how to start an Etsy shop with zero upfront cost using digital products, print-on-demand, and smart free tools.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/14/start-etsy-shop-zero-upfront-cost/index.html",
-      "published_at": "2026-03-14T10:08:39.333939",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_start-etsy-shop-zero-upfront-cost_20260314.png"
     },
     {
       "type": "blog_post",
@@ -1018,5 +1018,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-24T10:05:33.276005"
+  "last_updated": "2026-03-24T10:06:55.587667"
 }
