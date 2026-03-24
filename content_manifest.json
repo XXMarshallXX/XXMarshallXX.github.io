@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Make Passive Income with Print-on-Demand in 2025: A Practical Blueprint for Beginners",
+      "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to make passive income with print-on-demand in 2025 using Etsy, smart niches, automation, and proven SEO strategies.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/how-to-make-passive-income-with-print-on-demand-in-2025/index.html",
+      "published_at": "2026-03-24T10:01:21.131670",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-make-passive-income-with-print-on-demand-in-2025_20260324.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
       "slug": "top-10-accessories-every-dog-owner-needs",
       "niche": "Pet Products & SnoutAndAbout",
@@ -79,16 +89,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/23/personalized-cat-products-that-actually-sell/index.html",
       "published_at": "2026-03-23T10:03:15.137156",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260323.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Make Passive Income With Print-on-Demand in 2025: A Practical Blueprint for Entrepreneurs",
-      "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how to make passive income with print-on-demand in 2025 using Etsy, automation, niche products, and smart marketing.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/how-to-make-passive-income-with-print-on-demand-in-2025/index.html",
-      "published_at": "2026-03-23T10:01:52.591545",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-make-passive-income-with-print-on-demand-in-2025_20260323.png"
     },
     {
       "type": "blog_post",
@@ -1008,5 +1008,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-23T10:48:26.614459"
+  "last_updated": "2026-03-24T10:01:21.131712"
 }
