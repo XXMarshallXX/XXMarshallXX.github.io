@@ -424,6 +424,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Autonomous Income with AI",
+      "slug": "autonomous-income-with-ai",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/ebook-autonomous-income-with-ai/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-24T10:32:09.307101"
+    },
+    {
+      "type": "ebook",
       "title": "Stop Dog Behavior Problems Fast",
       "slug": "stop-dog-behavior-problems-fast",
       "category": "Dog Training",
@@ -509,17 +520,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-22T10:35:39.755204"
-    },
-    {
-      "type": "ebook",
-      "title": "Autonomous Income with AI",
-      "slug": "autonomous-income-with-ai",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/ebook-autonomous-income-with-ai/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-22T10:29:46.576294"
     },
     {
       "type": "ebook",
@@ -1018,5 +1018,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-24T10:26:02.659522"
+  "last_updated": "2026-03-24T10:32:09.307147"
 }
