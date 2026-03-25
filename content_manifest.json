@@ -424,6 +424,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "From Side Hustle to Full-Time Freedom",
+      "slug": "from-side-hustle-to-full-time-freedom",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/ebook-from-side-hustle-to-full-time-freedom/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-25T10:37:42.126371"
+    },
+    {
+      "type": "ebook",
       "title": "AI Agents That Work",
       "slug": "ai-agents-that-work",
       "category": "AI & Automation",
@@ -776,17 +787,6 @@
     },
     {
       "type": "ebook",
-      "title": "From Side Hustle to Full-Time Freedom",
-      "slug": "from-side-hustle-to-full-time-freedom",
-      "category": "Entrepreneurship",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/ebook-from-side-hustle-to-full-time-freedom/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-17T10:20:55.067382"
-    },
-    {
-      "type": "ebook",
       "title": "Stop Dog Separation Anxiety",
       "slug": "stop-dog-separation-anxiety",
       "category": "Dog Training",
@@ -1051,5 +1051,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:31:39.496265"
+  "last_updated": "2026-03-25T10:37:42.126416"
 }
