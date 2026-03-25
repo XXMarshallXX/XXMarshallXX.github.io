@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Mar 2026 10:01:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 10:03:09 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Fast Online Income</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html</link>
+      <description>Learn how I built a digital business in 30 days with a simple, low-cost blueprint for aspiring entrepreneurs and side hustlers.</description>
+      <pubDate>2026-03-25</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html</guid>
+    </item>
     <item>
       <title>Positive Reinforcement vs Punishment in Dog Training: What Actually Works?</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/25/positive-reinforcement-vs-punishment-what-actually-works/index.html</link>
@@ -139,13 +146,6 @@
       <description>Discover why custom pet portraits are thoughtful, personal gifts for pet lovers—perfect for birthdays, holidays, memorials, and more.</description>
       <pubDate>2026-03-22</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/22/why-custom-pet-portraits-make-perfect-gifts/index.html</guid>
-    </item>
-    <item>
-      <title>How to Automate Your GitHub Workflow with AI: Practical Steps for Faster Reviews, Smarter Issues, and Better Shipping</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html</link>
-      <description>Learn how to automate your GitHub workflow with AI for issues, PRs, reviews, docs, and CI to ship faster with less manual work.</description>
-      <pubDate>2026-03-22</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html</guid>
     </item>
   </channel>
 </rss>
