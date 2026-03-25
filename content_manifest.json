@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use Claude API to Build Smarter Apps: A Practical Developer Guide",
+      "slug": "how-to-use-claude-api-to-build-smarter-apps",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to use Claude API to build smarter apps with prompts, streaming, tools, safety, and production best practices.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/how-to-use-claude-api-to-build-smarter-apps/index.html",
+      "published_at": "2026-03-25T10:05:46.692393",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260325.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Top VSCode Extensions for AI-Assisted Coding in 2026",
       "slug": "top-vscode-extensions-for-ai-assisted-coding",
       "niche": "Tech / AI / Developer",
@@ -339,16 +349,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/19/15-minute-daily-dog-training-routine-that-transforms-any-dog/index.html",
       "published_at": "2026-03-19T10:02:33.650317",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_15-minute-daily-dog-training-routine-that-transforms-any-dog_20260319.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Use Claude API to Build Smarter Apps: A Practical Guide for Developers",
-      "slug": "how-to-use-claude-api-to-build-smarter-apps",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to use Claude API to build smarter apps with practical examples, architecture tips, prompts, and best practices for developers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/16/how-to-use-claude-api-to-build-smarter-apps/index.html",
-      "published_at": "2026-03-16T10:05:41.619781",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-claude-api-to-build-smarter-apps_20260316.png"
     },
     {
       "type": "blog_post",
@@ -1029,5 +1029,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:04:24.249539"
+  "last_updated": "2026-03-25T10:05:46.692437"
 }
