@@ -424,6 +424,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Puppy Training Made Simple: The First 30 Days to a Calm, Happy, Well-Behaved Dog",
+      "slug": "puppy-training-made-simple-the-first-30-days-to-a-calm-happy",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/ebook-puppy-training-made-simple-the-first-30-days-to-a-calm-happy/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-25T10:43:45.404351"
+    },
+    {
+      "type": "ebook",
       "title": "From Side Hustle to Full-Time Freedom",
       "slug": "from-side-hustle-to-full-time-freedom",
       "category": "Entrepreneurship",
@@ -1051,5 +1062,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:37:42.126416"
+  "last_updated": "2026-03-25T10:43:45.404399"
 }
