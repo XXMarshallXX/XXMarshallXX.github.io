@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Crate Training a New Puppy: The Complete Guide for Calm, Confident House Training",
+      "slug": "crate-training-a-new-puppy-the-complete-guide",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to crate train a new puppy with step-by-step, science-backed tips for house training, sleep, and reducing stress.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/crate-training-a-new-puppy-the-complete-guide/index.html",
+      "published_at": "2026-03-25T10:07:04.955588",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260325.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use Claude API to Build Smarter Apps: A Practical Developer Guide",
       "slug": "how-to-use-claude-api-to-build-smarter-apps",
       "niche": "Tech / AI / Developer",
@@ -299,16 +309,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/21/automating-print-on-demand-with-ai-and-etsy/index.html",
       "published_at": "2026-03-21T10:04:33.065665",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_automating-print-on-demand-with-ai-and-etsy_20260321.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Crate Training a New Puppy: The Complete Guide for a Calm, Confident Start",
-      "slug": "crate-training-a-new-puppy-the-complete-guide",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn how to crate train a new puppy with a kind, proven routine that builds confidence, supports potty training, and prevents stress.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/crate-training-a-new-puppy-the-complete-guide/index.html",
-      "published_at": "2026-03-20T10:09:18.157320",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260320.png"
     },
     {
       "type": "blog_post",
@@ -1029,5 +1029,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:05:46.692437"
+  "last_updated": "2026-03-25T10:07:04.955632"
 }
