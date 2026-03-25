@@ -424,6 +424,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "AI Agents That Work",
+      "slug": "ai-agents-that-work",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/ebook-ai-agents-that-work/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-25T10:31:39.496205"
+    },
+    {
+      "type": "ebook",
       "title": "Pet Product Goldmine",
       "slug": "pet-product-goldmine",
       "category": "Pet Products & Business",
@@ -509,17 +520,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-23T10:48:26.614411"
-    },
-    {
-      "type": "ebook",
-      "title": "AI Agents That Work",
-      "slug": "ai-agents-that-work",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-ai-agents-that-work/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-23T10:36:35.789509"
     },
     {
       "type": "ebook",
@@ -1051,5 +1051,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:25:59.822223"
+  "last_updated": "2026-03-25T10:31:39.496265"
 }
