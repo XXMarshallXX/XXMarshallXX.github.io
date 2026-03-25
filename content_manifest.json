@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top VSCode Extensions for AI-Assisted Coding in 2026",
+      "slug": "top-vscode-extensions-for-ai-assisted-coding",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover the top VSCode extensions for AI-assisted coding to write, debug, refactor, and ship faster in 2026.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/top-vscode-extensions-for-ai-assisted-coding/index.html",
+      "published_at": "2026-03-25T10:04:24.249500",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260325.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Fast Online Income",
       "slug": "how-i-built-a-digital-business-in-30-days",
       "niche": "Money-Making & Entrepreneurship",
@@ -289,16 +299,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/20/crate-training-a-new-puppy-the-complete-guide/index.html",
       "published_at": "2026-03-20T10:09:18.157320",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260320.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Top VSCode Extensions for AI-Assisted Coding in 2026",
-      "slug": "top-vscode-extensions-for-ai-assisted-coding",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Discover the top VSCode extensions for AI-assisted coding in 2026, with practical picks, use cases, and tips for faster developer workflows.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/19/top-vscode-extensions-for-ai-assisted-coding/index.html",
-      "published_at": "2026-03-19T10:13:03.299452",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260319.png"
     },
     {
       "type": "blog_post",
@@ -1029,5 +1029,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:03:09.725709"
+  "last_updated": "2026-03-25T10:04:24.249539"
 }
