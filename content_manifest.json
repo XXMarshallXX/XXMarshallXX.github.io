@@ -424,6 +424,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Stop Dog Separation Anxiety in 30 Days",
+      "slug": "stop-dog-separation-anxiety-in-30-days",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/ebook-stop-dog-separation-anxiety-in-30-days/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-25T10:19:56.513415"
+    },
+    {
+      "type": "ebook",
       "title": "Print-on-Demand Pet Profits",
       "slug": "print-on-demand-pet-profits",
       "category": "Pet Products & Business",
@@ -1029,5 +1040,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:13:56.632456"
+  "last_updated": "2026-03-25T10:19:56.513465"
 }
