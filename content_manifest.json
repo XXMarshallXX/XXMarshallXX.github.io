@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Fast Online Income",
+      "slug": "how-i-built-a-digital-business-in-30-days",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost blueprint for aspiring entrepreneurs and side hustlers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html",
+      "published_at": "2026-03-25T10:03:09.725666",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260325.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Positive Reinforcement vs Punishment in Dog Training: What Actually Works?",
       "slug": "positive-reinforcement-vs-punishment-what-actually-works",
       "niche": "Dog Training & Behavior",
@@ -269,16 +279,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/21/automating-print-on-demand-with-ai-and-etsy/index.html",
       "published_at": "2026-03-21T10:04:33.065665",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_automating-print-on-demand-with-ai-and-etsy_20260321.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Starting Fast",
-      "slug": "how-i-built-a-digital-business-in-30-days",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost blueprint for aspiring entrepreneurs and side hustlers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/how-i-built-a-digital-business-in-30-days/index.html",
-      "published_at": "2026-03-20T10:10:33.852962",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260320.png"
     },
     {
       "type": "blog_post",
@@ -1029,5 +1029,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-25T10:01:51.237505"
+  "last_updated": "2026-03-25T10:03:09.725709"
 }
