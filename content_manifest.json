@@ -434,6 +434,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The AI Entrepreneur\u2019s Toolkit",
+      "slug": "the-ai-entrepreneur\u2019s-toolkit",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/26/ebook-the-ai-entrepreneur\u2019s-toolkit/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-26T10:44:34.401067"
+    },
+    {
+      "type": "ebook",
       "title": "The Solopreneur Systems Playbook",
       "slug": "the-solopreneur-systems-playbook",
       "category": "Entrepreneurship",
@@ -797,17 +808,6 @@
     },
     {
       "type": "ebook",
-      "title": "The AI Entrepreneur\u2019s Toolkit",
-      "slug": "the-ai-entrepreneur\u2019s-toolkit",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/17/ebook-the-ai-entrepreneur\u2019s-toolkit/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-17T10:45:28.596031"
-    },
-    {
-      "type": "ebook",
       "title": "Dog Trick Training Made Easy",
       "slug": "dog-trick-training-made-easy",
       "category": "Dog Training",
@@ -1094,5 +1094,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-26T10:38:45.554563"
+  "last_updated": "2026-03-26T10:44:34.401116"
 }
