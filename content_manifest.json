@@ -434,6 +434,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Pet Accessories Business Blueprint",
+      "slug": "the-pet-accessories-business-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/26/ebook-the-pet-accessories-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-26T10:32:48.022418"
+    },
+    {
+      "type": "ebook",
       "title": "Puppy Training Made Easy: The First 30 Days to a Well-Behaved, Happy Dog",
       "slug": "puppy-training-made-easy-the-first-30-days-to-a-well-behaved",
       "category": "Dog Training",
@@ -574,17 +585,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-23T10:48:26.614411"
-    },
-    {
-      "type": "ebook",
-      "title": "The Pet Accessories Business Blueprint",
-      "slug": "the-pet-accessories-business-blueprint",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-the-pet-accessories-business-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-23T10:30:44.304679"
     },
     {
       "type": "ebook",
@@ -1083,5 +1083,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-26T10:26:05.250860"
+  "last_updated": "2026-03-26T10:32:48.022467"
 }
