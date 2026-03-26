@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Separation Anxiety in Dogs: Signs, Causes, and Science-Backed Solutions That Work",
+      "slug": "separation-anxiety-in-dogs-signs-causes-solutions",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn the signs of separation anxiety in dogs and proven solutions to help your dog feel calm, safe, and confident when home alone.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/26/separation-anxiety-in-dogs-signs-causes-solutions/index.html",
+      "published_at": "2026-03-26T10:05:05.129678",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_separation-anxiety-in-dogs-signs-causes-solutions_20260326.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Crate Training a New Puppy: The Complete Guide to a Calm, Confident Start",
       "slug": "crate-training-a-new-puppy-the-complete-guide",
       "niche": "Dog Training & Behavior",
@@ -1062,5 +1072,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-26T10:03:47.716233"
+  "last_updated": "2026-03-26T10:05:05.129722"
 }
