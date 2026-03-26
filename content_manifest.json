@@ -434,6 +434,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Calm When You\u2019re Gone",
+      "slug": "calm-when-you\u2019re-gone",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/26/ebook-calm-when-you\u2019re-gone/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-26T10:19:48.054989"
+    },
+    {
+      "type": "ebook",
       "title": "Puppy Training Made Simple: The First 30 Days to a Calm, Happy, Well-Behaved Dog",
       "slug": "puppy-training-made-simple-the-first-30-days-to-a-calm-happy",
       "category": "Dog Training",
@@ -662,17 +673,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-20T10:36:47.365748"
-    },
-    {
-      "type": "ebook",
-      "title": "Calm When You\u2019re Gone",
-      "slug": "calm-when-you\u2019re-gone",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/20/ebook-calm-when-you\u2019re-gone/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-20T10:30:28.383343"
     },
     {
       "type": "ebook",
@@ -1072,5 +1072,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-26T10:13:17.603785"
+  "last_updated": "2026-03-26T10:19:48.055042"
 }
