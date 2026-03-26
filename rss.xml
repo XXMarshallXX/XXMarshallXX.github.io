@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Mar 2026 10:03:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 10:05:05 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Separation Anxiety in Dogs: Signs, Causes, and Science-Backed Solutions That Work</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/26/separation-anxiety-in-dogs-signs-causes-solutions/index.html</link>
+      <description>Learn the signs of separation anxiety in dogs and proven solutions to help your dog feel calm, safe, and confident when home alone.</description>
+      <pubDate>2026-03-26</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/26/separation-anxiety-in-dogs-signs-causes-solutions/index.html</guid>
+    </item>
     <item>
       <title>Crate Training a New Puppy: The Complete Guide to a Calm, Confident Start</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/26/crate-training-a-new-puppy-the-complete-guide/index.html</link>
@@ -139,13 +146,6 @@
       <description>Learn how to connect OpenAI and Claude APIs in one Python project with clean architecture, code examples, routing, and real-world tips.</description>
       <pubDate>2026-03-24</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/24/how-to-connect-openai-and-claude-apis-in-one-python-project/index.html</guid>
-    </item>
-    <item>
-      <title>How to Make Passive Income with Print-on-Demand in 2025: A Practical Blueprint for Beginners</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/24/how-to-make-passive-income-with-print-on-demand-in-2025/index.html</link>
-      <description>Learn how to make passive income with print-on-demand in 2025 using Etsy, smart niches, automation, and proven SEO strategies.</description>
-      <pubDate>2026-03-24</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/24/how-to-make-passive-income-with-print-on-demand-in-2025/index.html</guid>
     </item>
   </channel>
 </rss>
