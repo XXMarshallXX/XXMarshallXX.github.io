@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Passive Income Playbook for Entrepreneurs",
+      "slug": "the-passive-income-playbook-for-entrepreneurs",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/ebook-the-passive-income-playbook-for-entrepreneurs/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-27T10:24:40.795047"
+    },
+    {
+      "type": "ebook",
       "title": "Print-on-Demand Pet Profits",
       "slug": "print-on-demand-pet-profits",
       "category": "Pet Products & Business",
@@ -617,17 +628,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-23T10:48:26.614411"
-    },
-    {
-      "type": "ebook",
-      "title": "The Passive Income Playbook for Entrepreneurs",
-      "slug": "the-passive-income-playbook-for-entrepreneurs",
-      "category": "Entrepreneurship",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/ebook-the-passive-income-playbook-for-entrepreneurs/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-23T10:24:51.978126"
     },
     {
       "type": "ebook",
@@ -1104,5 +1104,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:19:10.920003"
+  "last_updated": "2026-03-27T10:24:40.795105"
 }
