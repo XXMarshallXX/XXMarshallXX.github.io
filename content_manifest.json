@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Picks Dog Lovers Will Adore",
+      "slug": "best-personalized-dog-gifts-under-50",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the best personalized dog gifts under $50, from custom tags to keepsakes and pet lover presents that feel thoughtful and affordable.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/best-personalized-dog-gifts-under-50/index.html",
+      "published_at": "2026-03-27T10:06:22.386637",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-personalized-dog-gifts-under-50_20260327.png"
+    },
+    {
+      "type": "blog_post",
       "title": "The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle",
       "slug": "0-to-1000-month-etsy-blueprint",
       "niche": "Money-Making & Entrepreneurship",
@@ -179,16 +189,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/24/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
       "published_at": "2026-03-24T10:12:16.933345",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260324.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Best Personalized Dog Gifts Under $50: Thoughtful, Affordable Picks Dog Lovers Will Adore",
-      "slug": "best-personalized-dog-gifts-under-50",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the best personalized dog gifts under $50, from custom accessories to keepsakes dog lovers will treasure.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/best-personalized-dog-gifts-under-50/index.html",
-      "published_at": "2026-03-24T10:10:53.173216",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-personalized-dog-gifts-under-50_20260324.png"
     },
     {
       "type": "blog_post",
@@ -1094,5 +1094,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:05:03.720760"
+  "last_updated": "2026-03-27T10:06:22.386683"
 }
