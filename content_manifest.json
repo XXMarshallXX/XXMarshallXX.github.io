@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How AI Is Changing Indie Dev in 2025: Faster Building, Smarter Shipping, Bigger Leverage",
+      "slug": "how-ai-is-changing-indie-dev-in-2025",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "How AI is changing indie dev in 2025: coding, design, marketing, support, and solo founder leverage in one practical guide.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/how-ai-is-changing-indie-dev-in-2025/index.html",
+      "published_at": "2026-03-27T10:02:10.547399",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-ai-is-changing-indie-dev-in-2025_20260327.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Personalized Cat Products That Actually Sell: Best Gift Ideas Pet Owners Love",
       "slug": "personalized-cat-products-that-actually-sell",
       "niche": "Pet Products & SnoutAndAbout",
@@ -9,16 +19,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/26/personalized-cat-products-that-actually-sell/index.html",
       "published_at": "2026-03-26T10:13:17.603739",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_personalized-cat-products-that-actually-sell_20260326.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Tools, and New Solo SaaS Playbooks",
-      "slug": "how-ai-is-changing-indie-dev-in-2025",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "How AI is changing indie dev in 2025: faster coding, cheaper validation, better distribution, and new solo SaaS opportunities.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/26/how-ai-is-changing-indie-dev-in-2025/index.html",
-      "published_at": "2026-03-26T10:11:51.286885",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-ai-is-changing-indie-dev-in-2025_20260326.png"
     },
     {
       "type": "blog_post",
@@ -1094,5 +1094,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-26T10:44:34.401116"
+  "last_updated": "2026-03-27T10:02:10.547444"
 }
