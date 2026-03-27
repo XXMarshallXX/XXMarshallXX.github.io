@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Trick Training Blueprint for Dogs",
+      "slug": "the-trick-training-blueprint-for-dogs",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/ebook-the-trick-training-blueprint-for-dogs/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-27T10:36:45.866793"
+    },
+    {
+      "type": "ebook",
       "title": "From Reactive to Reliable: A Step-by-Step Guide to Rehabilitating an Aggressive Dog Safely",
       "slug": "from-reactive-to-reliable-a-step-by-step-guide-to-rehabilita",
       "category": "Dog Training",
@@ -1115,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:30:56.226036"
+  "last_updated": "2026-03-27T10:36:45.866852"
 }
