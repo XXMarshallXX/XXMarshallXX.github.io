@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Print-on-Demand Pet Profits",
+      "slug": "print-on-demand-pet-profits",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/ebook-print-on-demand-pet-profits/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-27T10:19:10.919946"
+    },
+    {
+      "type": "ebook",
       "title": "The AI Entrepreneur\u2019s Toolkit",
       "slug": "the-ai-entrepreneur\u2019s-toolkit",
       "category": "AI & Automation",
@@ -551,17 +562,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-25T10:19:56.513415"
-    },
-    {
-      "type": "ebook",
-      "title": "Print-on-Demand Pet Profits",
-      "slug": "print-on-demand-pet-profits",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/ebook-print-on-demand-pet-profits/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-24T10:44:10.997939"
     },
     {
       "type": "ebook",
@@ -1104,5 +1104,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:13:54.884625"
+  "last_updated": "2026-03-27T10:19:10.920003"
 }
