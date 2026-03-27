@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "AI-Powered E-Commerce Profits",
+      "slug": "ai-powered-e-commerce-profits",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/ebook-ai-powered-e-commerce-profits/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-27T10:42:25.808698"
+    },
+    {
+      "type": "ebook",
       "title": "The Trick Training Blueprint for Dogs",
       "slug": "the-trick-training-blueprint-for-dogs",
       "category": "Dog Training",
@@ -895,17 +906,6 @@
     },
     {
       "type": "ebook",
-      "title": "AI-Powered E-Commerce Profits",
-      "slug": "ai-powered-e-commerce-profits",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/15/ebook-ai-powered-e-commerce-profits/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-15T10:37:11.947246"
-    },
-    {
-      "type": "ebook",
       "title": "Print-on-Demand Pet Business Blueprint",
       "slug": "print-on-demand-pet-business-blueprint",
       "category": "Pet Products & Business",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:36:45.866852"
+  "last_updated": "2026-03-27T10:42:25.808749"
 }
