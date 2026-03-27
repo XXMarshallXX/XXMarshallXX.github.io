@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Stop Your Dog From Pulling on the Leash: A Science-Backed Guide That Actually Works",
+      "slug": "how-to-stop-your-dog-from-pulling-on-the-leash",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn how to stop your dog from pulling on the leash with positive, science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
+      "published_at": "2026-03-27T10:10:09.273990",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260327.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Personalized Cat Products That Actually Sell: Best Custom Gifts Cat Lovers Adore",
       "slug": "personalized-cat-products-that-actually-sell",
       "niche": "Pet Products & SnoutAndAbout",
@@ -329,16 +339,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/22/what-is-openclaw-and-why-i-built-it/index.html",
       "published_at": "2026-03-22T10:03:10.844704",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260322.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Stop Your Dog From Pulling on the Leash: Science-Backed Training That Really Works",
-      "slug": "how-to-stop-your-dog-from-pulling-on-the-leash",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Learn how to stop leash pulling with positive, science-backed dog training tips for puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/how-to-stop-your-dog-from-pulling-on-the-leash/index.html",
-      "published_at": "2026-03-21T10:10:07.334698",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-stop-your-dog-from-pulling-on-the-leash_20260321.png"
     },
     {
       "type": "blog_post",
@@ -1104,5 +1104,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:08:52.783416"
+  "last_updated": "2026-03-27T10:10:09.274035"
 }
