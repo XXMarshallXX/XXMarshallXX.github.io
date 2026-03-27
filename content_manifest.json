@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "From Reactive to Reliable: A Step-by-Step Guide to Rehabilitating an Aggressive Dog Safely",
+      "slug": "from-reactive-to-reliable-a-step-by-step-guide-to-rehabilita",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/ebook-from-reactive-to-reliable-a-step-by-step-guide-to-rehabilita/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-27T10:30:56.225984"
+    },
+    {
+      "type": "ebook",
       "title": "The Passive Income Playbook for Entrepreneurs",
       "slug": "the-passive-income-playbook-for-entrepreneurs",
       "category": "Entrepreneurship",
@@ -1104,5 +1115,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:24:40.795105"
+  "last_updated": "2026-03-27T10:30:56.226036"
 }
