@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "15 Thoughtful Gift Ideas for New Puppy Owners They\u2019ll Actually Use",
+      "slug": "gift-ideas-for-new-puppy-owners",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover thoughtful gift ideas for new puppy owners, from personalized essentials to practical must-haves for happy pups and proud pet parents.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/gift-ideas-for-new-puppy-owners/index.html",
+      "published_at": "2026-03-28T10:08:18.080989",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_gift-ideas-for-new-puppy-owners_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Use AI to Run a One-Person Business Empire in 2026",
       "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
       "niche": "Money-Making & Entrepreneurship",
@@ -199,16 +209,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/25/5-commands-every-dog-should-know-by-6-months/index.html",
       "published_at": "2026-03-25T10:09:53.607568",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_5-commands-every-dog-should-know-by-6-months_20260325.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "15 Thoughtful Gift Ideas for New Puppy Owners They\u2019ll Actually Use",
-      "slug": "gift-ideas-for-new-puppy-owners",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover thoughtful gift ideas for new puppy owners, from personalized pet products to practical essentials every new dog parent will love.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/gift-ideas-for-new-puppy-owners/index.html",
-      "published_at": "2026-03-25T10:08:18.558376",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_gift-ideas-for-new-puppy-owners_20260325.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:07:05.710239"
+  "last_updated": "2026-03-28T10:08:18.081033"
 }
