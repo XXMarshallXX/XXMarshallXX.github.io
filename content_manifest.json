@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Positive Reinforcement vs Punishment: What Actually Works for Dog Training?",
+      "slug": "positive-reinforcement-vs-punishment-what-actually-works",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Positive reinforcement or punishment for dog training? Learn what science says, what works long-term, and how to train with confidence.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/positive-reinforcement-vs-punishment-what-actually-works/index.html",
+      "published_at": "2026-03-28T10:04:24.409599",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Getting Started with LLM-Powered Automation: A Practical Guide for Developers",
       "slug": "getting-started-with-llm-powered-automation",
       "niche": "Tech / AI / Developer",
@@ -219,16 +229,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html",
       "published_at": "2026-03-25T10:03:09.725666",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260325.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Positive Reinforcement vs Punishment in Dog Training: What Actually Works?",
-      "slug": "positive-reinforcement-vs-punishment-what-actually-works",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Positive reinforcement vs punishment in dog training: learn what works, what harms behavior, and how to build lasting results.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/positive-reinforcement-vs-punishment-what-actually-works/index.html",
-      "published_at": "2026-03-25T10:01:51.237458",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260325.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:02:52.926422"
+  "last_updated": "2026-03-28T10:04:24.409645"
 }
