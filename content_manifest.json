@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
+      "slug": "why-custom-pet-portraits-make-perfect-gifts",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover why custom pet portraits are meaningful, unique gifts for pet lovers, dog owners, and thoughtful shoppers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/why-custom-pet-portraits-make-perfect-gifts/index.html",
+      "published_at": "2026-03-28T10:10:54.586181",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-custom-pet-portraits-make-perfect-gifts_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions That Work",
       "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
       "niche": "Dog Training & Behavior",
@@ -329,16 +339,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/23/building-an-ai-morning-digest-with-python-and-claude/index.html",
       "published_at": "2026-03-23T10:05:54.615872",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_building-an-ai-morning-digest-with-python-and-claude_20260323.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Custom Pet Portraits Make Perfect Gifts for Pet Lovers",
-      "slug": "why-custom-pet-portraits-make-perfect-gifts",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover why custom pet portraits are thoughtful, personal gifts for pet lovers\u2014perfect for birthdays, holidays, memorials, and more.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/why-custom-pet-portraits-make-perfect-gifts/index.html",
-      "published_at": "2026-03-22T10:07:56.761272",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-custom-pet-portraits-make-perfect-gifts_20260322.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:09:38.753700"
+  "last_updated": "2026-03-28T10:10:54.586227"
 }
