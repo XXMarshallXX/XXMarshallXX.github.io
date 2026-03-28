@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "AI Agents That Work",
+      "slug": "ai-agents-that-work",
+      "category": "AI & Automation",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/ebook-ai-agents-that-work/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-28T10:25:59.847573"
+    },
+    {
+      "type": "ebook",
       "title": "From Reactive to Reliable: A Step-by-Step Guide to Rehabilitating an Aggressive Dog Safely",
       "slug": "from-reactive-to-reliable-a-step-by-step-guide-to-rehabilita",
       "category": "Dog Training",
@@ -573,17 +584,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-25T10:37:42.126371"
-    },
-    {
-      "type": "ebook",
-      "title": "AI Agents That Work",
-      "slug": "ai-agents-that-work",
-      "category": "AI & Automation",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/ebook-ai-agents-that-work/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-25T10:31:39.496205"
     },
     {
       "type": "ebook",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:20:14.214141"
+  "last_updated": "2026-03-28T10:25:59.847630"
 }
