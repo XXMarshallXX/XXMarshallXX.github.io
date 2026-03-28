@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Etsy Shop Optimization for Pet Product Sellers",
+      "slug": "etsy-shop-optimization-for-pet-product-sellers",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/ebook-etsy-shop-optimization-for-pet-product-sellers/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-28T10:43:11.964522"
+    },
+    {
+      "type": "ebook",
       "title": "The Solopreneur Systems Playbook",
       "slug": "the-solopreneur-systems-playbook",
       "category": "Entrepreneurship",
@@ -683,17 +694,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-22T10:35:39.755204"
-    },
-    {
-      "type": "ebook",
-      "title": "Etsy Shop Optimization for Pet Product Sellers",
-      "slug": "etsy-shop-optimization-for-pet-product-sellers",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/ebook-etsy-shop-optimization-for-pet-product-sellers/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-22T10:24:09.875699"
     },
     {
       "type": "ebook",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:37:03.705663"
+  "last_updated": "2026-03-28T10:43:11.964579"
 }
