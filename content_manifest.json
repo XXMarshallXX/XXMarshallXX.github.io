@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project",
+      "slug": "what-is-openclaw-and-why-i-built-it",
+      "niche": "OpenClaw / GitHub Builds",
+      "meta_description": "Discover what OpenClaw is, why I built this open source AI hardware project, and how it helps developers and makers build in the open.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/what-is-openclaw-and-why-i-built-it/index.html",
+      "published_at": "2026-03-28T10:01:34.117301",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Teach Your Dog to Come When Called Every Time: A Science-Backed Recall Training Guide",
       "slug": "how-to-teach-your-dog-to-come-when-called-every-time",
       "niche": "Dog Training & Behavior",
@@ -329,16 +339,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html",
       "published_at": "2026-03-22T10:05:39.503456",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260322.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "What Is OpenClaw and Why I Built It: A Builder\u2019s Behind-the-Scenes Story",
-      "slug": "what-is-openclaw-and-why-i-built-it",
-      "niche": "OpenClaw / GitHub Builds",
-      "meta_description": "What OpenClaw is, why I built it, and how this open-source GitHub project helps developers, makers, and AI builders move faster.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/what-is-openclaw-and-why-i-built-it/index.html",
-      "published_at": "2026-03-22T10:03:10.844704",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_what-is-openclaw-and-why-i-built-it_20260322.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-27T10:42:25.808749"
+  "last_updated": "2026-03-28T10:01:34.117348"
 }
