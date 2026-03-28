@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Getting Started with LLM-Powered Automation: A Practical Guide for Developers",
+      "slug": "getting-started-with-llm-powered-automation",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to build LLM-powered automation with practical patterns, tools, prompts, and safeguards for developers and indie hackers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/getting-started-with-llm-powered-automation/index.html",
+      "published_at": "2026-03-28T10:02:52.926359",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_getting-started-with-llm-powered-automation_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project",
       "slug": "what-is-openclaw-and-why-i-built-it",
       "niche": "OpenClaw / GitHub Builds",
@@ -339,16 +349,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/22/how-to-automate-your-github-workflow-with-ai/index.html",
       "published_at": "2026-03-22T10:05:39.503456",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-automate-your-github-workflow-with-ai_20260322.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Getting Started With LLM-Powered Automation: A Practical Guide for Developers",
-      "slug": "getting-started-with-llm-powered-automation",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to build LLM-powered automation with practical patterns, tools, prompts, and safeguards for developers and indie hackers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/21/getting-started-with-llm-powered-automation/index.html",
-      "published_at": "2026-03-21T10:07:29.184950",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_getting-started-with-llm-powered-automation_20260321.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:01:34.117348"
+  "last_updated": "2026-03-28T10:02:52.926422"
 }
