@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Crate Training Made Easy",
+      "slug": "crate-training-made-easy",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/ebook-crate-training-made-easy/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-28T10:31:33.571564"
+    },
+    {
+      "type": "ebook",
       "title": "AI Agents That Work",
       "slug": "ai-agents-that-work",
       "category": "AI & Automation",
@@ -639,17 +650,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-24T10:26:02.659471"
-    },
-    {
-      "type": "ebook",
-      "title": "Crate Training Made Easy",
-      "slug": "crate-training-made-easy",
-      "category": "Dog Training",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/ebook-crate-training-made-easy/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-24T10:19:41.815422"
     },
     {
       "type": "ebook",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:25:59.847630"
+  "last_updated": "2026-03-28T10:31:33.571623"
 }
