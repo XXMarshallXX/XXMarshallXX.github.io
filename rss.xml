@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Mar 2026 10:42:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 10:01:34 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/28/what-is-openclaw-and-why-i-built-it/index.html</link>
+      <description>Discover what OpenClaw is, why I built this open source AI hardware project, and how it helps developers and makers build in the open.</description>
+      <pubDate>2026-03-28</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/28/what-is-openclaw-and-why-i-built-it/index.html</guid>
+    </item>
     <item>
       <title>How to Teach Your Dog to Come When Called Every Time: A Science-Backed Recall Training Guide</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/27/how-to-teach-your-dog-to-come-when-called-every-time/index.html</link>
@@ -139,13 +146,6 @@
       <description>Discover the top VSCode extensions for AI-assisted coding to write, debug, refactor, and ship faster in 2026.</description>
       <pubDate>2026-03-25</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/25/top-vscode-extensions-for-ai-assisted-coding/index.html</guid>
-    </item>
-    <item>
-      <title>How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Fast Online Income</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html</link>
-      <description>Learn how I built a digital business in 30 days with a simple, low-cost blueprint for aspiring entrepreneurs and side hustlers.</description>
-      <pubDate>2026-03-25</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html</guid>
     </item>
   </channel>
 </rss>
