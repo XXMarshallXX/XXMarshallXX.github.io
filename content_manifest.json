@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Use AI to Run a One-Person Business Empire in 2026",
+      "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to use AI to build, automate, and scale a one-person business empire with smarter systems, faster content, and lean operations.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
+      "published_at": "2026-03-28T10:07:05.710191",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Products, Smaller Teams",
       "slug": "how-ai-is-changing-indie-dev-in-2025",
       "niche": "Tech / AI / Developer",
@@ -319,16 +329,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/23/building-an-ai-morning-digest-with-python-and-claude/index.html",
       "published_at": "2026-03-23T10:05:54.615872",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_building-an-ai-morning-digest-with-python-and-claude_20260323.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Use AI to Run a One-Person Business Empire in 2026",
-      "slug": "how-to-use-ai-to-run-a-one-person-business-empire",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how to use AI to build, automate, and scale a one-person business empire with smart systems, low costs, and higher profits.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/22/how-to-use-ai-to-run-a-one-person-business-empire/index.html",
-      "published_at": "2026-03-22T10:11:41.521657",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-use-ai-to-run-a-one-person-business-empire_20260322.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:05:47.378864"
+  "last_updated": "2026-03-28T10:07:05.710239"
 }
