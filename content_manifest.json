@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions That Work",
+      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
+      "niche": "Dog Training & Behavior",
+      "meta_description": "Learn why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
+      "published_at": "2026-03-28T10:09:38.753655",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260328.png"
+    },
+    {
+      "type": "blog_post",
       "title": "15 Thoughtful Gift Ideas for New Puppy Owners They\u2019ll Actually Use",
       "slug": "gift-ideas-for-new-puppy-owners",
       "niche": "Pet Products & SnoutAndAbout",
@@ -239,16 +249,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html",
       "published_at": "2026-03-25T10:03:09.725666",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260325.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Why Your Dog Doesn\u2019t Listen and How to Fix It: 7 Science-Backed Training Solutions That Work",
-      "slug": "why-your-dog-doesnt-listen-and-how-to-fix-it",
-      "niche": "Dog Training & Behavior",
-      "meta_description": "Discover why your dog doesn\u2019t listen and how to fix it with science-backed training tips for puppies, rescues, and adult dogs.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/why-your-dog-doesnt-listen-and-how-to-fix-it/index.html",
-      "published_at": "2026-03-24T10:12:16.933345",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_why-your-dog-doesnt-listen-and-how-to-fix-it_20260324.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:08:18.081033"
+  "last_updated": "2026-03-28T10:09:38.753700"
 }
