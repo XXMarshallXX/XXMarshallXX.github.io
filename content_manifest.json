@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Choose the Right Dog Collar for Your Breed: A Practical Guide for Every Pup",
+      "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Learn how to choose the right dog collar for your breed with fit, material, and style tips for comfort, safety, and everyday wear.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/how-to-choose-the-right-dog-collar-for-your-breed/index.html",
+      "published_at": "2026-03-29T10:03:04.702017",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-choose-the-right-dog-collar-for-your-breed_20260329.png"
+    },
+    {
+      "type": "blog_post",
       "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
       "slug": "top-10-accessories-every-dog-owner-needs",
       "niche": "Pet Products & SnoutAndAbout",
@@ -229,16 +239,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/26/crate-training-a-new-puppy-the-complete-guide/index.html",
       "published_at": "2026-03-26T10:03:47.716191",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_crate-training-a-new-puppy-the-complete-guide_20260326.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Choose the Right Dog Collar for Your Breed: A Practical Guide for Pet Parents",
-      "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Learn how to choose the right dog collar for your breed with tips on fit, materials, safety, style, and personalized options.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/how-to-choose-the-right-dog-collar-for-your-breed/index.html",
-      "published_at": "2026-03-25T10:13:56.632412",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-choose-the-right-dog-collar-for-your-breed_20260325.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-29T10:01:39.996598"
+  "last_updated": "2026-03-29T10:03:04.702061"
 }
