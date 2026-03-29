@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Online Business Fundamentals: Build a Profitable Digital Business from Scratch",
+      "slug": "online-business-fundamentals-build-a-profitable-digital-busi",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/ebook-online-business-fundamentals-build-a-profitable-digital-busi/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-29T10:20:23.480284"
+    },
+    {
+      "type": "ebook",
       "title": "Etsy Shop Optimization for Pet Product Sellers",
       "slug": "etsy-shop-optimization-for-pet-product-sellers",
       "category": "Pet Products & Business",
@@ -628,17 +639,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-25T10:19:56.513415"
-    },
-    {
-      "type": "ebook",
-      "title": "Online Business Fundamentals: Build a Profitable Digital Business from Scratch",
-      "slug": "online-business-fundamentals-build-a-profitable-digital-busi",
-      "category": "Entrepreneurship",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/24/ebook-online-business-fundamentals-build-a-profitable-digital-busi/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-24T10:38:11.285097"
     },
     {
       "type": "ebook",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-29T10:14:07.999937"
+  "last_updated": "2026-03-29T10:20:23.480345"
 }
