@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Off-Leash Freedom: The Step-by-Step Guide to Building a Reliable Recall and Total Control Anywhere",
+      "slug": "off-leash-freedom-the-step-by-step-guide-to-building-a-relia",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/ebook-off-leash-freedom-the-step-by-step-guide-to-building-a-relia/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-29T10:32:52.723448"
+    },
+    {
+      "type": "ebook",
       "title": "Personalized Pet Products Profit Playbook",
       "slug": "personalized-pet-products-profit-playbook",
       "category": "Pet Products & Business",
@@ -1126,5 +1137,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-29T10:26:32.422496"
+  "last_updated": "2026-03-29T10:32:52.723511"
 }
