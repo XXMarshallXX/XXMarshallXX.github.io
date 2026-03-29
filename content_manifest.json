@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
+      "slug": "top-10-accessories-every-dog-owner-needs",
+      "niche": "Pet Products & SnoutAndAbout",
+      "meta_description": "Discover the top 10 dog accessories every owner needs for safety, comfort, travel, and style\u2014perfect for pet parents and gift shoppers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/top-10-accessories-every-dog-owner-needs/index.html",
+      "published_at": "2026-03-29T10:01:39.996550",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260329.png"
+    },
+    {
+      "type": "blog_post",
       "title": "5 Commands Every Dog Should Know by 6 Months: A Practical Training Guide for Puppies and Rescues",
       "slug": "5-commands-every-dog-should-know-by-6-months",
       "niche": "Dog Training & Behavior",
@@ -309,16 +319,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/24/how-to-connect-openai-and-claude-apis-in-one-python-project/index.html",
       "published_at": "2026-03-24T10:02:47.540742",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-connect-openai-and-claude-apis-in-one-python-project_20260324.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Top 10 Accessories Every Dog Owner Needs for a Happier, Easier Life",
-      "slug": "top-10-accessories-every-dog-owner-needs",
-      "niche": "Pet Products & SnoutAndAbout",
-      "meta_description": "Discover the top 10 accessories every dog owner needs for safety, comfort, travel, and style\u2014perfect for pet parents and gift shoppers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/top-10-accessories-every-dog-owner-needs/index.html",
-      "published_at": "2026-03-23T10:13:18.148191",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-10-accessories-every-dog-owner-needs_20260323.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-28T10:43:11.964579"
+  "last_updated": "2026-03-29T10:01:39.996598"
 }
