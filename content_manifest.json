@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How to Make Passive Income With Print-on-Demand in 2025: A Practical Blueprint for Beginners",
+      "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how to make passive income with print-on-demand in 2025 using Etsy, automation, smart niches, and low-risk systems.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/how-to-make-passive-income-with-print-on-demand-in-2025/index.html",
+      "published_at": "2026-03-29T10:12:46.866422",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-make-passive-income-with-print-on-demand-in-2025_20260329.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How AI Is Changing Indie Dev in 2025: Faster Shipping, Smarter Workflows, and New Business Models",
       "slug": "how-ai-is-changing-indie-dev-in-2025",
       "niche": "Tech / AI / Developer",
@@ -219,16 +229,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/27/0-to-1000-month-etsy-blueprint/index.html",
       "published_at": "2026-03-27T10:05:03.720719",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_0-to-1000-month-etsy-blueprint_20260327.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How to Make Passive Income With Print-on-Demand in 2025: A Practical Guide for Beginners",
-      "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how to make passive income with print-on-demand in 2025 using Etsy, automation, smart niches, and proven strategies.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/27/how-to-make-passive-income-with-print-on-demand-in-2025/index.html",
-      "published_at": "2026-03-27T10:03:33.891029",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-to-make-passive-income-with-print-on-demand-in-2025_20260327.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-29T10:11:17.589183"
+  "last_updated": "2026-03-29T10:12:46.866463"
 }
