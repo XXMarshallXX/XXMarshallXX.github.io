@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Mar 2026 10:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 10:08:36 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Online Fast</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/29/how-i-built-a-digital-business-in-30-days/index.html</link>
+      <description>Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy today.</description>
+      <pubDate>2026-03-29</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/29/how-i-built-a-digital-business-in-30-days/index.html</guid>
+    </item>
     <item>
       <title>How to Connect OpenAI and Claude APIs in One Python Project: A Practical Builder’s Guide</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/29/connect-openai-and-claude-apis-in-one-python-project/index.html</link>
@@ -139,13 +146,6 @@
       <description>Discover the best personalized dog gifts under $50, from custom tags to keepsakes and pet lover presents that feel thoughtful and affordable.</description>
       <pubDate>2026-03-27</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/27/best-personalized-dog-gifts-under-50/index.html</guid>
-    </item>
-    <item>
-      <title>The $0 to $1,000/Month Etsy Blueprint: How to Build a Profitable Digital Product Side Hustle</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/27/0-to-1000-month-etsy-blueprint/index.html</link>
-      <description>Learn the $0 to $1,000/month Etsy blueprint with digital products, SEO, automation, and no inventory or upfront costs.</description>
-      <pubDate>2026-03-27</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/27/0-to-1000-month-etsy-blueprint/index.html</guid>
     </item>
   </channel>
 </rss>
