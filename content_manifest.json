@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Happy Senior Dog Blueprint",
+      "slug": "the-happy-senior-dog-blueprint",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/ebook-the-happy-senior-dog-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-29T10:44:41.463337"
+    },
+    {
+      "type": "ebook",
       "title": "The AI Content Engine",
       "slug": "the-ai-content-engine",
       "category": "AI & Automation",
@@ -1137,5 +1148,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-29T10:38:47.509552"
+  "last_updated": "2026-03-29T10:44:41.463390"
 }
