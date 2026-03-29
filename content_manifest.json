@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "How I Built a Digital Business in 30 Days: A No-Fluff Blueprint for Starting Online Fast",
+      "slug": "how-i-built-a-digital-business-in-30-days",
+      "niche": "Money-Making & Entrepreneurship",
+      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost strategy aspiring entrepreneurs can copy today.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/29/how-i-built-a-digital-business-in-30-days/index.html",
+      "published_at": "2026-03-29T10:08:36.851256",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260329.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Connect OpenAI and Claude APIs in One Python Project: A Practical Builder\u2019s Guide",
       "slug": "connect-openai-and-claude-apis-in-one-python-project",
       "niche": "OpenClaw / GitHub Builds",
@@ -269,16 +279,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/25/top-vscode-extensions-for-ai-assisted-coding/index.html",
       "published_at": "2026-03-25T10:04:24.249500",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_top-vscode-extensions-for-ai-assisted-coding_20260325.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "How I Built a Digital Business in 30 Days: A Step-by-Step Blueprint for Fast Online Income",
-      "slug": "how-i-built-a-digital-business-in-30-days",
-      "niche": "Money-Making & Entrepreneurship",
-      "meta_description": "Learn how I built a digital business in 30 days with a simple, low-cost blueprint for aspiring entrepreneurs and side hustlers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/25/how-i-built-a-digital-business-in-30-days/index.html",
-      "published_at": "2026-03-25T10:03:09.725666",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_how-i-built-a-digital-business-in-30-days_20260325.png"
     },
     {
       "type": "blog_post",
@@ -1126,5 +1126,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-29T10:07:17.691970"
+  "last_updated": "2026-03-29T10:08:36.851298"
 }
