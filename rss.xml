@@ -5,8 +5,15 @@
     <link>https://XXMarshallXX.github.io</link>
     <description>Daily content on pet products, dog training, AI, entrepreneurship and more.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Mar 2026 10:02:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 10:04:03 +0000</lastBuildDate>
     <atom:link href="https://XXMarshallXX.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Getting Started With LLM-Powered Automation: A Practical Guide for Developers</title>
+      <link>https://XXMarshallXX.github.io/blog/2026/03/30/getting-started-with-llm-powered-automation/index.html</link>
+      <description>Learn how to build LLM-powered automation with practical patterns, tools, prompts, and guardrails for developers and indie hackers.</description>
+      <pubDate>2026-03-30</pubDate>
+      <guid>https://XXMarshallXX.github.io/blog/2026/03/30/getting-started-with-llm-powered-automation/index.html</guid>
+    </item>
     <item>
       <title>How to Make Passive Income with Print-on-Demand in 2025: A Practical Blueprint for Beginners</title>
       <link>https://XXMarshallXX.github.io/blog/2026/03/30/how-to-make-passive-income-with-print-on-demand-in-2025/index.html</link>
@@ -118,13 +125,6 @@
       <description>Positive reinforcement or punishment for dog training? Learn what science says, what works long-term, and how to train with confidence.</description>
       <pubDate>2026-03-28</pubDate>
       <guid>https://XXMarshallXX.github.io/blog/2026/03/28/positive-reinforcement-vs-punishment-what-actually-works/index.html</guid>
-    </item>
-    <item>
-      <title>Getting Started with LLM-Powered Automation: A Practical Guide for Developers</title>
-      <link>https://XXMarshallXX.github.io/blog/2026/03/28/getting-started-with-llm-powered-automation/index.html</link>
-      <description>Learn how to build LLM-powered automation with practical patterns, tools, prompts, and safeguards for developers and indie hackers.</description>
-      <pubDate>2026-03-28</pubDate>
-      <guid>https://XXMarshallXX.github.io/blog/2026/03/28/getting-started-with-llm-powered-automation/index.html</guid>
     </item>
     <item>
       <title>What Is OpenClaw and Why I Built It: A Behind-the-Scenes Look at an Open Source AI Hardware Project</title>
