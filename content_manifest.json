@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Passive Income Playbook: 7 Proven Strategies to Build Recurring Revenue Without Burning Out",
+      "slug": "the-passive-income-playbook-7-proven-strategies-to-build-rec",
+      "category": "Entrepreneurship",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/30/ebook-the-passive-income-playbook-7-proven-strategies-to-build-rec/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-30T10:30:54.643921"
+    },
+    {
+      "type": "ebook",
       "title": "The Senior Dog Care Blueprint",
       "slug": "the-senior-dog-care-blueprint",
       "category": "Dog Training",
@@ -1148,5 +1159,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-30T10:25:10.637248"
+  "last_updated": "2026-03-30T10:30:54.643978"
 }
