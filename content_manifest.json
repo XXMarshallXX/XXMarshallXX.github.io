@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Getting Started With LLM-Powered Automation: A Practical Guide for Developers",
+      "slug": "getting-started-with-llm-powered-automation",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Learn how to build LLM-powered automation with practical patterns, tools, prompts, and guardrails for developers and indie hackers.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/30/getting-started-with-llm-powered-automation/index.html",
+      "published_at": "2026-03-30T10:04:03.940454",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_getting-started-with-llm-powered-automation_20260330.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Make Passive Income with Print-on-Demand in 2025: A Practical Blueprint for Beginners",
       "slug": "how-to-make-passive-income-with-print-on-demand-in-2025",
       "niche": "Money-Making & Entrepreneurship",
@@ -159,16 +169,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/28/positive-reinforcement-vs-punishment-what-actually-works/index.html",
       "published_at": "2026-03-28T10:04:24.409599",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_positive-reinforcement-vs-punishment-what-actually-works_20260328.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Getting Started with LLM-Powered Automation: A Practical Guide for Developers",
-      "slug": "getting-started-with-llm-powered-automation",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Learn how to build LLM-powered automation with practical patterns, tools, prompts, and safeguards for developers and indie hackers.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/28/getting-started-with-llm-powered-automation/index.html",
-      "published_at": "2026-03-28T10:02:52.926359",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_getting-started-with-llm-powered-automation_20260328.png"
     },
     {
       "type": "blog_post",
@@ -1148,5 +1148,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-30T10:02:43.672676"
+  "last_updated": "2026-03-30T10:04:03.940501"
 }
