@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "The Pet Accessories Business Blueprint",
+      "slug": "the-pet-accessories-business-blueprint",
+      "category": "Pet Products & Business",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/30/ebook-the-pet-accessories-business-blueprint/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-30T10:19:25.335472"
+    },
+    {
+      "type": "ebook",
       "title": "The Happy Senior Dog Blueprint",
       "slug": "the-happy-senior-dog-blueprint",
       "category": "Dog Training",
@@ -606,17 +617,6 @@
       "gumroad_url": "",
       "price": 9.99,
       "published_at": "2026-03-26T10:44:34.401067"
-    },
-    {
-      "type": "ebook",
-      "title": "The Pet Accessories Business Blueprint",
-      "slug": "the-pet-accessories-business-blueprint",
-      "category": "Pet Products & Business",
-      "chapter_count": 7,
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/26/ebook-the-pet-accessories-business-blueprint/index.html",
-      "gumroad_url": "",
-      "price": 9.99,
-      "published_at": "2026-03-26T10:32:48.022418"
     },
     {
       "type": "ebook",
@@ -1148,5 +1148,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-30T10:13:41.904475"
+  "last_updated": "2026-03-30T10:19:25.335519"
 }
