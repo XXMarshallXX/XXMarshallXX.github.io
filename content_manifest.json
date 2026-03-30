@@ -444,6 +444,17 @@
   "ebooks": [
     {
       "type": "ebook",
+      "title": "Stop Dog Separation Anxiety Fast",
+      "slug": "stop-dog-separation-anxiety-fast",
+      "category": "Dog Training",
+      "chapter_count": 7,
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/30/ebook-stop-dog-separation-anxiety-fast/index.html",
+      "gumroad_url": "",
+      "price": 9.99,
+      "published_at": "2026-03-30T10:43:15.054765"
+    },
+    {
+      "type": "ebook",
       "title": "AI-Powered E-Commerce: How to Automate Sales, Personalize Shopping, and Scale Profitably",
       "slug": "ai-powered-e-commerce-how-to-automate-sales-personalize-shop",
       "category": "AI & Automation",
@@ -1159,5 +1170,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-30T10:37:15.232358"
+  "last_updated": "2026-03-30T10:43:15.054814"
 }
