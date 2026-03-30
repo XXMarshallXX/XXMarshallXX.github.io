@@ -2,6 +2,16 @@
   "posts": [
     {
       "type": "blog_post",
+      "title": "Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, and Stay Lean",
+      "slug": "best-ai-tools-for-solo-developers",
+      "niche": "Tech / AI / Developer",
+      "meta_description": "Discover the best AI tools for solo developers to code faster, automate workflows, debug smarter, and ship products with less overhead.",
+      "url": "https://XXMarshallXX.github.io/blog/2026/03/30/best-ai-tools-for-solo-developers/index.html",
+      "published_at": "2026-03-30T10:09:44.745981",
+      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-ai-tools-for-solo-developers_20260330.png"
+    },
+    {
+      "type": "blog_post",
       "title": "How to Choose the Right Dog Collar for Your Breed: A Practical Guide for Every Pup",
       "slug": "how-to-choose-the-right-dog-collar-for-your-breed",
       "niche": "Pet Products & SnoutAndAbout",
@@ -339,16 +349,6 @@
       "url": "https://XXMarshallXX.github.io/blog/2026/03/23/separation-anxiety-in-dogs-signs-causes-and-solutions/index.html",
       "published_at": "2026-03-23T10:10:59.088222",
       "cover_image": "/Users/ramesses/ramesses/content/images/blog_separation-anxiety-in-dogs-signs-causes-and-solutions_20260323.png"
-    },
-    {
-      "type": "blog_post",
-      "title": "Best AI Tools for Solo Developers in 2026: Build Faster, Ship More, and Stay Lean",
-      "slug": "best-ai-tools-for-solo-developers",
-      "niche": "Tech / AI / Developer",
-      "meta_description": "Discover the best AI tools for solo developers to code faster, automate workflows, debug smarter, and ship products with less overhead.",
-      "url": "https://XXMarshallXX.github.io/blog/2026/03/23/best-ai-tools-for-solo-developers/index.html",
-      "published_at": "2026-03-23T10:09:37.188758",
-      "cover_image": "/Users/ramesses/ramesses/content/images/blog_best-ai-tools-for-solo-developers_20260323.png"
     },
     {
       "type": "blog_post",
@@ -1148,5 +1148,5 @@
     }
   ],
   "sites": [],
-  "last_updated": "2026-03-30T10:08:07.703415"
+  "last_updated": "2026-03-30T10:09:44.746025"
 }
